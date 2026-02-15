@@ -1,0 +1,231 @@
+Timestamp,Origin,Destination,Specialty,Urgency
+2025-02-01 04:18:31,HAV,HSP,Neurologia,Urgent
+2025-02-01 08:20:48,HJT,HSP,Trasplantament,Urgent
+2025-02-01 08:52:35,HJT,HC,Trasplantament,Urgent
+2025-02-01 09:53:16,HSP,HC,Cardiologia,Rutina
+2025-02-01 10:28:30,HJT,HC,Trasplantament,Rutina
+2025-02-01 10:56:40,HAV,HVD,Cremats,Emergencia Vital
+2025-02-01 11:01:04,HB,HC,Neurologia,Rutina
+2025-02-01 11:09:51,HSP,HAV,Neurologia,Rutina
+2025-02-01 11:11:17,HVD,HAV,Traumatologia,Emergencia Vital
+2025-02-01 11:11:56,HVD,HCR,Traumatologia,Urgent
+2025-02-01 11:17:43,HAV,HC,Neurologia,Emergencia Vital
+2025-02-01 11:23:46,HJT,HC,Traumatologia,Rutina
+2025-02-01 11:40:16,HCR,HSP,Cardiologia,Rutina
+2025-02-01 12:17:53,HVD,HC,Trasplantament,Rutina
+2025-02-01 13:28:21,HC,HVD,Trasplantament,Urgent
+2025-02-01 14:03:43,HAV,HVD,Cardiologia,Urgent
+2025-02-01 14:24:30,HB,HSP,Cremats,Rutina
+2025-02-01 15:11:06,HAV,HSP,Oncologia,Emergencia Vital
+2025-02-01 15:21:36,HSP,HCR,Traumatologia,Rutina
+2025-02-01 15:39:21,HC,HJT,Neurologia,Emergencia Vital
+2025-02-01 15:43:19,HCR,HSP,Trasplantament,Rutina
+2025-02-01 15:45:34,HSP,HC,Trasplantament,Rutina
+2025-02-01 16:38:58,HSP,HC,Trasplantament,Rutina
+2025-02-01 17:04:02,HC,HJT,Cremats,Emergencia Vital
+2025-02-01 17:31:03,HAV,HC,Cardiologia,Rutina
+2025-02-01 18:27:07,HCR,HSP,Oncologia,Urgent
+2025-02-01 19:44:04,HCR,HVD,Traumatologia,Urgent
+2025-02-01 19:57:25,HCR,HVD,Oncologia,Rutina
+2025-02-01 20:00:39,HCR,HC,Neurologia,Urgent
+2025-02-01 20:26:35,HCR,HSP,Oncologia,Urgent
+2025-02-01 20:34:37,HCR,HC,Oncologia,Rutina
+2025-02-01 20:50:39,HCR,HC,Cardiologia,Rutina
+2025-02-01 22:13:21,HVD,HC,Oncologia,Rutina
+2025-02-02 02:04:09,HB,HSP,Cardiologia,Emergencia Vital
+2025-02-02 02:45:05,HAV,HSP,Trasplantament,Rutina
+2025-02-02 02:48:05,HJT,HC,Neurologia,Rutina
+2025-02-02 03:10:31,HCR,HSP,Neurologia,Rutina
+2025-02-02 03:29:22,HAV,HVD,Trasplantament,Rutina
+2025-02-02 09:05:16,HAV,HVD,Traumatologia,Rutina
+2025-02-02 09:22:02,HJT,HVD,Trasplantament,Rutina
+2025-02-02 09:49:05,HJT,HSP,Trasplantament,Rutina
+2025-02-02 09:49:33,HAV,HVD,Cremats,Rutina
+2025-02-02 10:09:55,HB,HVD,Trasplantament,Rutina
+2025-02-02 11:07:10,HSP,HVD,Trasplantament,Rutina
+2025-02-02 11:27:37,HB,HSP,Neurologia,Rutina
+2025-02-02 12:31:13,HAV,HSP,Cremats,Rutina
+2025-02-02 12:53:53,HB,HVD,Trasplantament,Rutina
+2025-02-02 13:55:26,HJT,HVD,Oncologia,Rutina
+2025-02-02 14:43:19,HAV,HVD,Oncologia,Rutina
+2025-02-02 15:03:54,HCR,HC,Cremats,Rutina
+2025-02-02 15:09:32,HJT,HC,Oncologia,Urgent
+2025-02-02 15:10:52,HB,HSP,Neurologia,Rutina
+2025-02-02 15:17:20,HJT,HSP,Traumatologia,Emergencia Vital
+2025-02-02 15:21:54,HJT,HSP,Trasplantament,Rutina
+2025-02-02 17:06:21,HJT,HVD,Trasplantament,Urgent
+2025-02-02 18:38:13,HB,HC,Oncologia,Rutina
+2025-02-02 19:23:42,HVD,HAV,Trasplantament,Rutina
+2025-02-02 19:43:33,HB,HC,Cardiologia,Rutina
+2025-02-02 20:09:08,HCR,HVD,Traumatologia,Rutina
+2025-02-02 20:52:12,HAV,HSP,Neurologia,Rutina
+2025-02-02 21:13:45,HJT,HSP,Cardiologia,Urgent
+2025-02-03 01:50:27,HJT,HSP,Trasplantament,Rutina
+2025-02-03 04:20:25,HCR,HC,Cardiologia,Rutina
+2025-02-03 05:28:55,HAV,HSP,Trasplantament,Rutina
+2025-02-03 08:15:17,HAV,HVD,Oncologia,Urgent
+2025-02-03 08:48:24,HAV,HVD,Oncologia,Rutina
+2025-02-03 08:51:58,HCR,HC,Oncologia,Rutina
+2025-02-03 09:40:23,HAV,HVD,Oncologia,Rutina
+2025-02-03 09:57:03,HB,HSP,Neurologia,Rutina
+2025-02-03 11:06:13,HAV,HSP,Oncologia,Emergencia Vital
+2025-02-03 11:07:06,HB,HVD,Cremats,Emergencia Vital
+2025-02-03 11:08:31,HCR,HSP,Traumatologia,Rutina
+2025-02-03 11:43:11,HCR,HSP,Neurologia,Rutina
+2025-02-03 12:28:24,HB,HVD,Trasplantament,Rutina
+2025-02-03 12:58:50,HCR,HC,Cremats,Rutina
+2025-02-03 13:00:06,HJT,HC,Oncologia,Urgent
+2025-02-03 13:04:51,HJT,HSP,Trasplantament,Rutina
+2025-02-03 13:57:25,HB,HC,Oncologia,Rutina
+2025-02-03 14:07:22,HAV,HC,Trasplantament,Rutina
+2025-02-03 14:11:50,HVD,HCR,Neurologia,Urgent
+2025-02-03 16:21:07,HAV,HC,Cardiologia,Rutina
+2025-02-03 17:16:04,HSP,HC,Oncologia,Urgent
+2025-02-03 17:43:36,HC,HSP,Cardiologia,Rutina
+2025-02-03 18:17:51,HSP,HC,Oncologia,Rutina
+2025-02-03 18:30:22,HAV,HC,Neurologia,Rutina
+2025-02-03 20:06:58,HAV,HC,Traumatologia,Urgent
+2025-02-03 20:19:34,HCR,HC,Oncologia,Rutina
+2025-02-03 20:23:32,HJT,HSP,Cremats,Rutina
+2025-02-03 20:42:44,HCR,HC,Cardiologia,Rutina
+2025-02-03 21:53:47,HSP,HVD,Cremats,Rutina
+2025-02-04 00:12:34,HB,HVD,Trasplantament,Urgent
+2025-02-04 00:34:06,HJT,HVD,Cardiologia,Urgent
+2025-02-04 02:21:21,HC,HVD,Oncologia,Rutina
+2025-02-04 04:50:39,HAV,HSP,Cremats,Rutina
+2025-02-04 04:58:16,HC,HSP,Neurologia,Rutina
+2025-02-04 06:09:07,HAV,HC,Trasplantament,Rutina
+2025-02-04 08:16:15,HCR,HSP,Cardiologia,Rutina
+2025-02-04 08:17:36,HB,HC,Cremats,Rutina
+2025-02-04 08:51:04,HJT,HC,Neurologia,Urgent
+2025-02-04 09:31:03,HB,HSP,Cremats,Urgent
+2025-02-04 09:48:11,HVD,HC,Cremats,Rutina
+2025-02-04 10:24:14,HJT,HVD,Trasplantament,Rutina
+2025-02-04 10:46:40,HCR,HSP,Neurologia,Rutina
+2025-02-04 12:34:02,HVD,HCR,Traumatologia,Emergencia Vital
+2025-02-04 12:49:41,HJT,HVD,Neurologia,Urgent
+2025-02-04 13:20:10,HAV,HVD,Oncologia,Emergencia Vital
+2025-02-04 13:50:37,HAV,HSP,Neurologia,Rutina
+2025-02-04 13:54:50,HCR,HSP,Cremats,Rutina
+2025-02-04 14:56:07,HSP,HAV,Trasplantament,Rutina
+2025-02-04 15:04:09,HCR,HC,Oncologia,Urgent
+2025-02-04 15:08:43,HB,HSP,Neurologia,Rutina
+2025-02-04 16:06:41,HSP,HVD,Cremats,Rutina
+2025-02-04 16:08:07,HB,HC,Trasplantament,Emergencia Vital
+2025-02-04 16:08:15,HB,HVD,Traumatologia,Rutina
+2025-02-04 16:39:21,HJT,HSP,Neurologia,Rutina
+2025-02-04 16:49:17,HAV,HC,Cremats,Rutina
+2025-02-04 17:57:44,HB,HC,Cardiologia,Rutina
+2025-02-04 18:16:02,HCR,HVD,Cardiologia,Rutina
+2025-02-04 19:09:54,HJT,HVD,Traumatologia,Urgent
+2025-02-04 19:30:09,HC,HSP,Cremats,Rutina
+2025-02-04 19:33:55,HB,HSP,Trasplantament,Urgent
+2025-02-04 19:43:40,HB,HSP,Cremats,Rutina
+2025-02-04 19:48:08,HAV,HVD,Trasplantament,Urgent
+2025-02-04 20:06:59,HCR,HVD,Cardiologia,Emergencia Vital
+2025-02-04 21:11:07,HVD,HCR,Oncologia,Rutina
+2025-02-04 21:38:31,HVD,HC,Cardiologia,Urgent
+2025-02-05 00:31:09,HVD,HC,Traumatologia,Urgent
+2025-02-05 03:02:43,HAV,HC,Cremats,Rutina
+2025-02-05 06:02:46,HAV,HC,Trasplantament,Emergencia Vital
+2025-02-05 07:38:28,HCR,HC,Cremats,Emergencia Vital
+2025-02-05 07:57:44,HSP,HVD,Cremats,Rutina
+2025-02-05 09:37:29,HAV,HVD,Neurologia,Urgent
+2025-02-05 10:16:19,HAV,HC,Neurologia,Urgent
+2025-02-05 10:56:10,HSP,HVD,Cremats,Rutina
+2025-02-05 12:11:27,HAV,HVD,Neurologia,Emergencia Vital
+2025-02-05 13:27:01,HJT,HC,Oncologia,Rutina
+2025-02-05 15:08:59,HCR,HC,Cremats,Rutina
+2025-02-05 15:14:32,HB,HC,Oncologia,Rutina
+2025-02-05 15:54:26,HAV,HC,Trasplantament,Rutina
+2025-02-05 17:13:41,HJT,HVD,Cremats,Rutina
+2025-02-05 17:39:39,HB,HC,Trasplantament,Emergencia Vital
+2025-02-05 17:58:52,HAV,HC,Neurologia,Urgent
+2025-02-05 18:13:15,HJT,HSP,Oncologia,Urgent
+2025-02-05 18:19:08,HAV,HVD,Oncologia,Rutina
+2025-02-05 18:31:44,HCR,HC,Trasplantament,Rutina
+2025-02-05 19:38:15,HC,HSP,Trasplantament,Rutina
+2025-02-05 19:42:25,HB,HVD,Traumatologia,Rutina
+2025-02-05 19:48:59,HB,HC,Cremats,Urgent
+2025-02-05 19:59:35,HJT,HSP,Traumatologia,Rutina
+2025-02-05 20:45:32,HVD,HSP,Traumatologia,Rutina
+2025-02-05 22:15:28,HAV,HVD,Oncologia,Rutina
+2025-02-05 22:17:29,HVD,HSP,Cremats,Rutina
+2025-02-05 23:00:00,HB,HC,Cardiologia,Urgent
+2025-02-05 23:45:16,HAV,HC,Cardiologia,Rutina
+2025-02-05 23:55:12,HB,HVD,Cardiologia,Urgent
+2025-02-06 01:14:13,HB,HVD,Oncologia,Urgent
+2025-02-06 01:50:53,HVD,HJT,Oncologia,Rutina
+2025-02-06 03:10:27,HJT,HVD,Trasplantament,Rutina
+2025-02-06 03:52:28,HB,HC,Cardiologia,Rutina
+2025-02-06 04:02:13,HJT,HSP,Traumatologia,Urgent
+2025-02-06 04:06:56,HVD,HC,Neurologia,Rutina
+2025-02-06 04:08:25,HCR,HC,Neurologia,Urgent
+2025-02-06 06:12:13,HB,HVD,Neurologia,Rutina
+2025-02-06 06:27:09,HAV,HSP,Neurologia,Rutina
+2025-02-06 06:42:23,HAV,HSP,Traumatologia,Rutina
+2025-02-06 08:11:42,HB,HC,Cremats,Urgent
+2025-02-06 08:31:36,HB,HVD,Cardiologia,Urgent
+2025-02-06 08:42:54,HAV,HC,Cremats,Rutina
+2025-02-06 08:53:20,HC,HB,Cremats,Urgent
+2025-02-06 09:00:08,HCR,HSP,Traumatologia,Rutina
+2025-02-06 10:43:02,HAV,HSP,Cremats,Emergencia Vital
+2025-02-06 12:03:09,HB,HC,Cardiologia,Rutina
+2025-02-06 12:23:59,HAV,HSP,Trasplantament,Rutina
+2025-02-06 13:20:11,HJT,HVD,Neurologia,Rutina
+2025-02-06 13:31:08,HAV,HC,Cremats,Emergencia Vital
+2025-02-06 14:19:48,HAV,HSP,Traumatologia,Rutina
+2025-02-06 15:09:34,HAV,HSP,Neurologia,Rutina
+2025-02-06 15:14:32,HJT,HC,Cardiologia,Rutina
+2025-02-06 15:25:42,HJT,HVD,Cremats,Rutina
+2025-02-06 15:56:31,HCR,HC,Oncologia,Rutina
+2025-02-06 16:24:57,HCR,HC,Cremats,Emergencia Vital
+2025-02-06 17:03:00,HSP,HB,Neurologia,Rutina
+2025-02-06 18:03:06,HB,HC,Cremats,Rutina
+2025-02-06 18:11:16,HC,HVD,Cardiologia,Rutina
+2025-02-06 19:08:18,HSP,HVD,Neurologia,Urgent
+2025-02-06 19:59:28,HVD,HSP,Cardiologia,Rutina
+2025-02-06 20:01:07,HB,HSP,Trasplantament,Rutina
+2025-02-06 20:44:21,HB,HSP,Cremats,Rutina
+2025-02-06 21:08:21,HC,HB,Cremats,Rutina
+2025-02-06 21:23:55,HB,HSP,Cremats,Rutina
+2025-02-06 21:45:41,HJT,HVD,Oncologia,Rutina
+2025-02-06 22:08:13,HAV,HSP,Oncologia,Rutina
+2025-02-06 23:51:20,HAV,HVD,Cremats,Rutina
+2025-02-07 01:10:21,HCR,HC,Neurologia,Urgent
+2025-02-07 08:59:40,HC,HAV,Neurologia,Rutina
+2025-02-07 09:11:49,HCR,HVD,Cardiologia,Urgent
+2025-02-07 09:54:19,HC,HAV,Traumatologia,Rutina
+2025-02-07 10:14:31,HJT,HSP,Neurologia,Emergencia Vital
+2025-02-07 10:36:45,HVD,HC,Oncologia,Rutina
+2025-02-07 10:46:22,HB,HSP,Oncologia,Rutina
+2025-02-07 10:53:13,HC,HAV,Neurologia,Urgent
+2025-02-07 10:56:28,HB,HSP,Cardiologia,Emergencia Vital
+2025-02-07 11:07:16,HAV,HVD,Cardiologia,Urgent
+2025-02-07 11:38:45,HC,HSP,Trasplantament,Rutina
+2025-02-07 11:55:35,HSP,HCR,Traumatologia,Rutina
+2025-02-07 12:03:36,HJT,HVD,Cremats,Rutina
+2025-02-07 12:09:32,HCR,HC,Cardiologia,Rutina
+2025-02-07 12:26:09,HCR,HVD,Cardiologia,Rutina
+2025-02-07 13:01:52,HSP,HVD,Neurologia,Rutina
+2025-02-07 13:03:41,HB,HSP,Cardiologia,Rutina
+2025-02-07 14:17:45,HB,HVD,Cardiologia,Urgent
+2025-02-07 14:41:00,HC,HJT,Neurologia,Rutina
+2025-02-07 15:19:39,HAV,HC,Neurologia,Rutina
+2025-02-07 16:02:02,HJT,HSP,Cardiologia,Emergencia Vital
+2025-02-07 16:18:18,HAV,HSP,Trasplantament,Rutina
+2025-02-07 16:41:39,HVD,HJT,Cardiologia,Urgent
+2025-02-07 16:50:59,HCR,HSP,Cardiologia,Emergencia Vital
+2025-02-07 17:06:32,HCR,HVD,Cremats,Rutina
+2025-02-07 17:08:51,HCR,HVD,Traumatologia,Rutina
+2025-02-07 17:25:29,HCR,HSP,Traumatologia,Rutina
+2025-02-07 17:39:44,HJT,HSP,Cardiologia,Urgent
+2025-02-07 18:01:59,HB,HVD,Cardiologia,Rutina
+2025-02-07 18:28:02,HVD,HCR,Cremats,Emergencia Vital
+2025-02-07 19:06:01,HAV,HSP,Traumatologia,Rutina
+2025-02-07 19:24:50,HAV,HVD,Cremats,Rutina
+2025-02-07 19:26:00,HB,HC,Cremats,Urgent
+2025-02-07 19:28:27,HAV,HVD,Trasplantament,Rutina
+2025-02-07 20:00:31,HVD,HJT,Traumatologia,Urgent
+2025-02-07 20:48:21,HAV,HSP,Trasplantament,Rutina
+2025-02-07 21:00:04,HVD,HB,Cremats,Urgent

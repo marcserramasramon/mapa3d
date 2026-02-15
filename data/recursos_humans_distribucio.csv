@@ -1,0 +1,41 @@
+Hospital_Code,Hospital_Name,Categoria,Personal
+HJT,Hospital Josep Trueta,Metges,601
+HJT,Hospital Josep Trueta,Infermeres,983
+HJT,Hospital Josep Trueta,Administratius,375
+HJT,Hospital Josep Trueta,Altres,516
+HSC,Hospital Santa Caterina,Metges,236
+HSC,Hospital Santa Caterina,Infermeres,384
+HSC,Hospital Santa Caterina,Administratius,132
+HSC,Hospital Santa Caterina,Altres,213
+HOL,Hospital d'Olot,Metges,124
+HOL,Hospital d'Olot,Infermeres,155
+HOL,Hospital d'Olot,Administratius,57
+HOL,Hospital d'Olot,Altres,101
+HCF,Hospital de Campdevànol,Metges,119
+HCF,Hospital de Campdevànol,Infermeres,199
+HCF,Hospital de Campdevànol,Administratius,60
+HCF,Hospital de Campdevànol,Altres,83
+HP,Hospital de Palamós,Metges,257
+HP,Hospital de Palamós,Infermeres,363
+HP,Hospital de Palamós,Administratius,157
+HP,Hospital de Palamós,Altres,173
+HBF,Hospital de Blanes,Metges,79
+HBF,Hospital de Blanes,Infermeres,185
+HBF,Hospital de Blanes,Administratius,56
+HBF,Hospital de Blanes,Altres,87
+HCS,Hospital de la Selva,Metges,106
+HCS,Hospital de la Selva,Infermeres,185
+HCS,Hospital de la Selva,Administratius,75
+HCS,Hospital de la Selva,Altres,83
+ABS_Girona,CAP Girona,Metges,22
+ABS_Girona,CAP Girona,Infermeres,48
+ABS_Girona,CAP Girona,Administratius,19
+ABS_Girona,CAP Girona,Altres,24
+ABS_Salt,CAP Salt,Metges,33
+ABS_Salt,CAP Salt,Infermeres,44
+ABS_Salt,CAP Salt,Administratius,15
+ABS_Salt,CAP Salt,Altres,20
+ABS_Banyoles,CAP Banyoles,Metges,19
+ABS_Banyoles,CAP Banyoles,Infermeres,41
+ABS_Banyoles,CAP Banyoles,Administratius,14
+ABS_Banyoles,CAP Banyoles,Altres,16

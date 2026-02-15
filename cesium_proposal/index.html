@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <script src="https://cesium.com/downloads/cesiumjs/releases/1.107/Build/Cesium/Cesium.js"></script>
+    <link href="https://cesium.com/downloads/cesiumjs/releases/1.107/Build/Cesium/Widgets/widgets.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <title>CesiumJS Proposal</title>
+</head>
+
+<body>
+    <div id="cesiumContainer"></div>
+
+    <!-- HUD Layer -->
+    <div id="hud-top-bar">
+        <!-- Patient Cards will be injected here -->
+    </div>
+    <svg id="connections-layer"></svg>
+
+    <!-- Detailed Patient View -->
+    <div id="patient-detail-overlay" class="hidden">
+        <h3 id="detail-id">PACIENT #000</h3>
+        <div id="detail-content">
+            <p><strong>Nom:</strong> <span id="detail-name">-</span></p>
+            <p><strong>Edat:</strong> <span id="detail-age">-</span></p>
+            <p><strong>Patologia:</strong> <span id="detail-pathology">-</span></p>
+            <p><strong>Urgència:</strong> <span id="detail-urgency">-</span></p>
+            <p><strong>Origen:</strong> <span id="detail-origin">-</span></p>
+            <p><strong>Destí:</strong> <span id="detail-dest">-</span></p>
+        </div>
+        <button onclick="document.getElementById('patient-detail-overlay').classList.add('hidden')">Tancar</button>
+    </div>
+
+    <div id="sidebar">
+        <h2>Regió Sanitària Girona</h2>
+        <div class="stat-box">
+            <h3>Total Pacients</h3>
+            <span id="total-patients">0</span>
+        </div>
+        <div class="stat-box">
+            <h3>Urgències (1h)</h3>
+            <span id="er-rate">0</span>
+        </div>
+        <div class="stat-box">
+            <h3>Ambulàncies Actives</h3>
+            <span id="active-ambulances">0</span>
+        </div>
+        <div id="entity-info" class="hidden">
+            <h3>Detall Centre</h3>
+            <div id="info-content">Selecciona un centre</div>
+        </div>
+    </div>
+
+    <div id="settings">
+        <h3>Configuració</h3>
+        <label><input type="checkbox" id="toggle-caps" checked> Mostrar CAPs</label>
+        <label><input type="checkbox" id="toggle-hospitals" checked> Mostrar Hospitals</label>
+        <label><input type="checkbox" id="toggle-traffic" checked> Flux de Trànsit</label>
+        <label>Estil Visual:
+            <select id="traffic-style">
+                <option value="ambulance">Ambulàncies 3D</option>
+                <option value="particle">Partícules de Flux</option>
+            </select>
+        </label>
+        <label><input type="checkbox" id="toggle-arcs" checked> Veure Connexions</label>
+        <label><input type="checkbox" id="toggle-civilians"> Veure Civils (Llars &rarr; CAPs)</label>
+        <label>Tipus de Mapa:
+            <select id="map-style">
+                <option value="satellite">Satèl·lit (Ion)</option>
+                <option value="osm">Mapa (OpenStreetMap)</option>
+            </select>
+        </label>
+        <label>Velocitat Simulació: <input type="range" id="sim-speed" min="0.1" max="10" step="0.1" value="1"></label>
+    </div>
+
+    <script type="module" src="app.js"></script>
+</body>
+
+</html>

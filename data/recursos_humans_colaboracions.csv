@@ -1,0 +1,13 @@
+Origen,Desti,Tipus,Personal_Movil
+ABS_Girona,ABS_Salt,Formació,8
+ABS_Salt,ABS_Girona,Formació,8
+HBF,ABS_Salt,Rotació Residents,2
+HCS,HCF,Guàrdies Compartides,9
+HCS,HJT,Formació,1
+HCS,HP,Guàrdies Compartides,2
+HJT,ABS_Banyoles,Formació,5
+HJT,ABS_Salt,Formació,5
+HOL,ABS_Banyoles,Guàrdies Compartides,5
+HOL,HJT,Formació,9
+HOL,HJT,Rotació Residents,5
+HSC,ABS_Salt,Suport Especialista,5

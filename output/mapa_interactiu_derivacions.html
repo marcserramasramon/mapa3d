@@ -1,0 +1,780 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_249c94620aef1536c1393a9bbc069905 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_249c94620aef1536c1393a9bbc069905" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_249c94620aef1536c1393a9bbc069905 = L.map(
+                "map_249c94620aef1536c1393a9bbc069905",
+                {
+                    center: [41.6, 1.8],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 8,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_e99d1b53017b8d7060764618e8ae271b = L.tileLayer(
+                "https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 20,
+  "maxNativeZoom": 20,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"https://carto.com/attributions\"\u003eCARTO\u003c/a\u003e",
+  "subdomains": "abcd",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_e99d1b53017b8d7060764618e8ae271b.addTo(map_249c94620aef1536c1393a9bbc069905);
+        
+    
+            var poly_line_2098fa1741025f07d3086a486d52dd7e = L.polyline(
+                [[41.6247, 0.6083], [41.3896, 2.1557]],
+                {"bubblingMouseEvents": true, "color": "#00ff00", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#00ff00", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.9263157894736842, "smoothFactor": 1.0, "stroke": true, "weight": 6.473684210526316}
+            ).addTo(map_249c94620aef1536c1393a9bbc069905);
+        
+    
+            poly_line_2098fa1741025f07d3086a486d52dd7e.bindTooltip(
+                `<div>
+                     HAV -> HC: 17
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_4544d8f30babc2c1493d190a7228b7cf = L.polyline(
+                [[41.6247, 0.6083], [41.413, 2.176]],
+                {"bubblingMouseEvents": true, "color": "#00ff00", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#00ff00", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 7.0}
+            ).addTo(map_249c94620aef1536c1393a9bbc069905);
+        
+    
+            poly_line_4544d8f30babc2c1493d190a7228b7cf.bindTooltip(
+                `<div>
+                     HAV -> HSP: 19
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_27d1db308865259d5485901e90c76fe7 = L.polyline(
+                [[41.6247, 0.6083], [41.4276, 2.1449]],
+                {"bubblingMouseEvents": true, "color": "#00ff00", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#00ff00", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 7.0}
+            ).addTo(map_249c94620aef1536c1393a9bbc069905);
+        
+    
+            poly_line_27d1db308865259d5485901e90c76fe7.bindTooltip(
+                `<div>
+                     HAV -> HVD: 19
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_c3660c8d3a75ffde949eab2ee524571f = L.polyline(
+                [[41.3444, 2.1066], [41.3896, 2.1557]],
+                {"bubblingMouseEvents": true, "color": "#00ff00", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#00ff00", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8894736842105262, "smoothFactor": 1.0, "stroke": true, "weight": 6.2105263157894735}
+            ).addTo(map_249c94620aef1536c1393a9bbc069905);
+        
+    
+            poly_line_c3660c8d3a75ffde949eab2ee524571f.bindTooltip(
+                `<div>
+                     HB -> HC: 16
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_14d6f2e951764c03b0255f8226d54d19 = L.polyline(
+                [[41.3444, 2.1066], [41.413, 2.176]],
+                {"bubblingMouseEvents": true, "color": "#00ff00", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#00ff00", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8526315789473684, "smoothFactor": 1.0, "stroke": true, "weight": 5.947368421052632}
+            ).addTo(map_249c94620aef1536c1393a9bbc069905);
+        
+    
+            poly_line_14d6f2e951764c03b0255f8226d54d19.bindTooltip(
+                `<div>
+                     HB -> HSP: 15
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_e9d01ae7db66fc701c1a6e461d7bf6b1 = L.polyline(
+                [[41.3444, 2.1066], [41.4276, 2.1449]],
+                {"bubblingMouseEvents": true, "color": "#00ff00", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#00ff00", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7789473684210526, "smoothFactor": 1.0, "stroke": true, "weight": 5.421052631578947}
+            ).addTo(map_249c94620aef1536c1393a9bbc069905);
+        
+    
+            poly_line_e9d01ae7db66fc701c1a6e461d7bf6b1.bindTooltip(
+                `<div>
+                     HB -> HVD: 13
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_929d5c89963157f4df6b7a5022da5c59 = L.polyline(
+                [[41.3896, 2.1557], [41.6247, 0.6083]],
+                {"bubblingMouseEvents": true, "color": "#ff0000", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#ff0000", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.41052631578947363, "smoothFactor": 1.0, "stroke": true, "weight": 2.7894736842105265}
+            ).addTo(map_249c94620aef1536c1393a9bbc069905);
+        
+    
+            poly_line_929d5c89963157f4df6b7a5022da5c59.bindTooltip(
+                `<div>
+                     HC -> HAV: 3
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_9aab95950a34c3fe1fad717b7c774c53 = L.polyline(
+                [[41.3896, 2.1557], [41.3444, 2.1066]],
+                {"bubblingMouseEvents": true, "color": "#ff0000", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#ff0000", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.3736842105263158, "smoothFactor": 1.0, "stroke": true, "weight": 2.526315789473684}
+            ).addTo(map_249c94620aef1536c1393a9bbc069905);
+        
+    
+            poly_line_9aab95950a34c3fe1fad717b7c774c53.bindTooltip(
+                `<div>
+                     HC -> HB: 2
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_81d344b5eb0215568b289f9560692afb = L.polyline(
+                [[41.3896, 2.1557], [41.9964, 2.8242]],
+                {"bubblingMouseEvents": true, "color": "#ff0000", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#ff0000", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.41052631578947363, "smoothFactor": 1.0, "stroke": true, "weight": 2.7894736842105265}
+            ).addTo(map_249c94620aef1536c1393a9bbc069905);
+        
+    
+            poly_line_81d344b5eb0215568b289f9560692afb.bindTooltip(
+                `<div>
+                     HC -> HJT: 3
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_89f507e188b9ba09227eef4a36b0cd45 = L.polyline(
+                [[41.3896, 2.1557], [41.413, 2.176]],
+                {"bubblingMouseEvents": true, "color": "#00ff00", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#00ff00", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.4842105263157894, "smoothFactor": 1.0, "stroke": true, "weight": 3.3157894736842106}
+            ).addTo(map_249c94620aef1536c1393a9bbc069905);
+        
+    
+            poly_line_89f507e188b9ba09227eef4a36b0cd45.bindTooltip(
+                `<div>
+                     HC -> HSP: 5
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_f42619cbe202a6085ce5d287b363e579 = L.polyline(
+                [[41.3896, 2.1557], [41.4276, 2.1449]],
+                {"bubblingMouseEvents": true, "color": "#00ff00", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#00ff00", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.41052631578947363, "smoothFactor": 1.0, "stroke": true, "weight": 2.7894736842105265}
+            ).addTo(map_249c94620aef1536c1393a9bbc069905);
+        
+    
+            poly_line_f42619cbe202a6085ce5d287b363e579.bindTooltip(
+                `<div>
+                     HC -> HVD: 3
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_592d3c82a4d65af5a510684c6f4974bf = L.polyline(
+                [[41.4816, 2.2389], [41.3896, 2.1557]],
+                {"bubblingMouseEvents": true, "color": "#00ff00", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#00ff00", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.963157894736842, "smoothFactor": 1.0, "stroke": true, "weight": 6.7368421052631575}
+            ).addTo(map_249c94620aef1536c1393a9bbc069905);
+        
+    
+            poly_line_592d3c82a4d65af5a510684c6f4974bf.bindTooltip(
+                `<div>
+                     HCR -> HC: 18
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_457353a2fbe3b1c59538ee594d62106c = L.polyline(
+                [[41.4816, 2.2389], [41.413, 2.176]],
+                {"bubblingMouseEvents": true, "color": "#00ff00", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#00ff00", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7789473684210526, "smoothFactor": 1.0, "stroke": true, "weight": 5.421052631578947}
+            ).addTo(map_249c94620aef1536c1393a9bbc069905);
+        
+    
+            poly_line_457353a2fbe3b1c59538ee594d62106c.bindTooltip(
+                `<div>
+                     HCR -> HSP: 13
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_d6376db33cb9d39e2b6a7d744ddab7c8 = L.polyline(
+                [[41.4816, 2.2389], [41.4276, 2.1449]],
+                {"bubblingMouseEvents": true, "color": "#00ff00", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#00ff00", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.631578947368421, "smoothFactor": 1.0, "stroke": true, "weight": 4.368421052631579}
+            ).addTo(map_249c94620aef1536c1393a9bbc069905);
+        
+    
+            poly_line_d6376db33cb9d39e2b6a7d744ddab7c8.bindTooltip(
+                `<div>
+                     HCR -> HVD: 9
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_9a13094c60ccb90ee703db01a93728ba = L.polyline(
+                [[41.9964, 2.8242], [41.3896, 2.1557]],
+                {"bubblingMouseEvents": true, "color": "#00ff00", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#00ff00", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.631578947368421, "smoothFactor": 1.0, "stroke": true, "weight": 4.368421052631579}
+            ).addTo(map_249c94620aef1536c1393a9bbc069905);
+        
+    
+            poly_line_9a13094c60ccb90ee703db01a93728ba.bindTooltip(
+                `<div>
+                     HJT -> HC: 9
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_45f6cd85e0e34bc33a9ff80a0db84df5 = L.polyline(
+                [[41.9964, 2.8242], [41.413, 2.176]],
+                {"bubblingMouseEvents": true, "color": "#00ff00", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#00ff00", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8526315789473684, "smoothFactor": 1.0, "stroke": true, "weight": 5.947368421052632}
+            ).addTo(map_249c94620aef1536c1393a9bbc069905);
+        
+    
+            poly_line_45f6cd85e0e34bc33a9ff80a0db84df5.bindTooltip(
+                `<div>
+                     HJT -> HSP: 15
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_c62ee78ede656b8efbe552e0e222d24a = L.polyline(
+                [[41.9964, 2.8242], [41.4276, 2.1449]],
+                {"bubblingMouseEvents": true, "color": "#00ff00", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#00ff00", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7789473684210526, "smoothFactor": 1.0, "stroke": true, "weight": 5.421052631578947}
+            ).addTo(map_249c94620aef1536c1393a9bbc069905);
+        
+    
+            poly_line_c62ee78ede656b8efbe552e0e222d24a.bindTooltip(
+                `<div>
+                     HJT -> HVD: 13
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_fdb89ccb48bfac9188fc7fbddff7caf3 = L.polyline(
+                [[41.413, 2.176], [41.6247, 0.6083]],
+                {"bubblingMouseEvents": true, "color": "#ff0000", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#ff0000", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.3736842105263158, "smoothFactor": 1.0, "stroke": true, "weight": 2.526315789473684}
+            ).addTo(map_249c94620aef1536c1393a9bbc069905);
+        
+    
+            poly_line_fdb89ccb48bfac9188fc7fbddff7caf3.bindTooltip(
+                `<div>
+                     HSP -> HAV: 2
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_86624b5493f8bc9bcd368b235cda42e5 = L.polyline(
+                [[41.413, 2.176], [41.3444, 2.1066]],
+                {"bubblingMouseEvents": true, "color": "#ff0000", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#ff0000", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.3368421052631579, "smoothFactor": 1.0, "stroke": true, "weight": 2.263157894736842}
+            ).addTo(map_249c94620aef1536c1393a9bbc069905);
+        
+    
+            poly_line_86624b5493f8bc9bcd368b235cda42e5.bindTooltip(
+                `<div>
+                     HSP -> HB: 1
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_e54995641dd3c22918094e3b256482be = L.polyline(
+                [[41.413, 2.176], [41.3896, 2.1557]],
+                {"bubblingMouseEvents": true, "color": "#00ff00", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#00ff00", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.4842105263157894, "smoothFactor": 1.0, "stroke": true, "weight": 3.3157894736842106}
+            ).addTo(map_249c94620aef1536c1393a9bbc069905);
+        
+    
+            poly_line_e54995641dd3c22918094e3b256482be.bindTooltip(
+                `<div>
+                     HSP -> HC: 5
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_c80cc9044c40d7e1ca4040f823f80ab9 = L.polyline(
+                [[41.413, 2.176], [41.4816, 2.2389]],
+                {"bubblingMouseEvents": true, "color": "#ff0000", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#ff0000", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.3736842105263158, "smoothFactor": 1.0, "stroke": true, "weight": 2.526315789473684}
+            ).addTo(map_249c94620aef1536c1393a9bbc069905);
+        
+    
+            poly_line_c80cc9044c40d7e1ca4040f823f80ab9.bindTooltip(
+                `<div>
+                     HSP -> HCR: 2
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_f47c955a5f8e9d81d885d9f80deae799 = L.polyline(
+                [[41.413, 2.176], [41.4276, 2.1449]],
+                {"bubblingMouseEvents": true, "color": "#00ff00", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#00ff00", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.5578947368421052, "smoothFactor": 1.0, "stroke": true, "weight": 3.8421052631578947}
+            ).addTo(map_249c94620aef1536c1393a9bbc069905);
+        
+    
+            poly_line_f47c955a5f8e9d81d885d9f80deae799.bindTooltip(
+                `<div>
+                     HSP -> HVD: 7
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_702da40ad0cc9b4d27cf8e540e94abb2 = L.polyline(
+                [[41.4276, 2.1449], [41.6247, 0.6083]],
+                {"bubblingMouseEvents": true, "color": "#ff0000", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#ff0000", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.3736842105263158, "smoothFactor": 1.0, "stroke": true, "weight": 2.526315789473684}
+            ).addTo(map_249c94620aef1536c1393a9bbc069905);
+        
+    
+            poly_line_702da40ad0cc9b4d27cf8e540e94abb2.bindTooltip(
+                `<div>
+                     HVD -> HAV: 2
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_33750242a9c672025f3959f35ce46f27 = L.polyline(
+                [[41.4276, 2.1449], [41.3444, 2.1066]],
+                {"bubblingMouseEvents": true, "color": "#ff0000", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#ff0000", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.3368421052631579, "smoothFactor": 1.0, "stroke": true, "weight": 2.263157894736842}
+            ).addTo(map_249c94620aef1536c1393a9bbc069905);
+        
+    
+            poly_line_33750242a9c672025f3959f35ce46f27.bindTooltip(
+                `<div>
+                     HVD -> HB: 1
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_9acd45ae1ef87b6268b9d4e14cabcd70 = L.polyline(
+                [[41.4276, 2.1449], [41.3896, 2.1557]],
+                {"bubblingMouseEvents": true, "color": "#00ff00", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#00ff00", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.5578947368421052, "smoothFactor": 1.0, "stroke": true, "weight": 3.8421052631578947}
+            ).addTo(map_249c94620aef1536c1393a9bbc069905);
+        
+    
+            poly_line_9acd45ae1ef87b6268b9d4e14cabcd70.bindTooltip(
+                `<div>
+                     HVD -> HC: 7
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_4818439ac90f879cde9c2378bb4d303c = L.polyline(
+                [[41.4276, 2.1449], [41.4816, 2.2389]],
+                {"bubblingMouseEvents": true, "color": "#ff0000", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#ff0000", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.4842105263157894, "smoothFactor": 1.0, "stroke": true, "weight": 3.3157894736842106}
+            ).addTo(map_249c94620aef1536c1393a9bbc069905);
+        
+    
+            poly_line_4818439ac90f879cde9c2378bb4d303c.bindTooltip(
+                `<div>
+                     HVD -> HCR: 5
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_5f774d09931bb16134657b7790556e9a = L.polyline(
+                [[41.4276, 2.1449], [41.9964, 2.8242]],
+                {"bubblingMouseEvents": true, "color": "#ff0000", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#ff0000", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.41052631578947363, "smoothFactor": 1.0, "stroke": true, "weight": 2.7894736842105265}
+            ).addTo(map_249c94620aef1536c1393a9bbc069905);
+        
+    
+            poly_line_5f774d09931bb16134657b7790556e9a.bindTooltip(
+                `<div>
+                     HVD -> HJT: 3
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_fed4fb560f12413e0179e9a0050b436c = L.polyline(
+                [[41.4276, 2.1449], [41.413, 2.176]],
+                {"bubblingMouseEvents": true, "color": "#00ff00", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#00ff00", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.41052631578947363, "smoothFactor": 1.0, "stroke": true, "weight": 2.7894736842105265}
+            ).addTo(map_249c94620aef1536c1393a9bbc069905);
+        
+    
+            poly_line_fed4fb560f12413e0179e9a0050b436c.bindTooltip(
+                `<div>
+                     HVD -> HSP: 3
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_c0aef4e320fe5cd6eaa8164750b98ff7 = L.circleMarker(
+                [41.4276, 2.1449],
+                {"bubblingMouseEvents": true, "color": "magenta", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "magenta", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 47.5, "stroke": true, "weight": 3}
+            ).addTo(map_249c94620aef1536c1393a9bbc069905);
+        
+    
+        var popup_6713d70ac54d55f8b490535f4779d22e = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_f5b4a9fd4a066e4842be38cb242c541c = $(`<div id="html_f5b4a9fd4a066e4842be38cb242c541c" style="width: 100.0%; height: 100.0%;">         <div style="width: 200px;">             <h4>Hospital Vall d'Hebron (HVD)</h4>             <hr>             <b>Volume: 85</b><br>             In: 64 | Out: 21         </div>         </div>`)[0];
+                popup_6713d70ac54d55f8b490535f4779d22e.setContent(html_f5b4a9fd4a066e4842be38cb242c541c);
+            
+        
+
+        circle_marker_c0aef4e320fe5cd6eaa8164750b98ff7.bindPopup(popup_6713d70ac54d55f8b490535f4779d22e)
+        ;
+
+        
+    
+    
+            circle_marker_c0aef4e320fe5cd6eaa8164750b98ff7.bindTooltip(
+                `<div>
+                     Hospital Vall d'Hebron: 85 patients
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_fe00193e270f1100f6ac6378ba237239 = L.circleMarker(
+                [41.3896, 2.1557],
+                {"bubblingMouseEvents": true, "color": "magenta", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "magenta", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 49.0, "stroke": true, "weight": 3}
+            ).addTo(map_249c94620aef1536c1393a9bbc069905);
+        
+    
+        var popup_8f828f4ad87360566c4227dfe3b12020 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_8fd661bf91ce5b5871447883339a4fff = $(`<div id="html_8fd661bf91ce5b5871447883339a4fff" style="width: 100.0%; height: 100.0%;">         <div style="width: 200px;">             <h4>Hospital Clínic (HC)</h4>             <hr>             <b>Volume: 88</b><br>             In: 72 | Out: 16         </div>         </div>`)[0];
+                popup_8f828f4ad87360566c4227dfe3b12020.setContent(html_8fd661bf91ce5b5871447883339a4fff);
+            
+        
+
+        circle_marker_fe00193e270f1100f6ac6378ba237239.bindPopup(popup_8f828f4ad87360566c4227dfe3b12020)
+        ;
+
+        
+    
+    
+            circle_marker_fe00193e270f1100f6ac6378ba237239.bindTooltip(
+                `<div>
+                     Hospital Clínic: 88 patients
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_54423154b5f264473ace8e8ce6f9a23e = L.circleMarker(
+                [41.413, 2.176],
+                {"bubblingMouseEvents": true, "color": "magenta", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "magenta", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 48.5, "stroke": true, "weight": 3}
+            ).addTo(map_249c94620aef1536c1393a9bbc069905);
+        
+    
+        var popup_618768b28dc1ddbfe4ce3a2834a5ddd8 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_c10f588efb3d3216ce86d174e22e2e01 = $(`<div id="html_c10f588efb3d3216ce86d174e22e2e01" style="width: 100.0%; height: 100.0%;">         <div style="width: 200px;">             <h4>Hospital Sant Pau (HSP)</h4>             <hr>             <b>Volume: 87</b><br>             In: 70 | Out: 17         </div>         </div>`)[0];
+                popup_618768b28dc1ddbfe4ce3a2834a5ddd8.setContent(html_c10f588efb3d3216ce86d174e22e2e01);
+            
+        
+
+        circle_marker_54423154b5f264473ace8e8ce6f9a23e.bindPopup(popup_618768b28dc1ddbfe4ce3a2834a5ddd8)
+        ;
+
+        
+    
+    
+            circle_marker_54423154b5f264473ace8e8ce6f9a23e.bindTooltip(
+                `<div>
+                     Hospital Sant Pau: 87 patients
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_d17f955b906622cc06ee2049accf09f3 = L.circleMarker(
+                [41.3444, 2.1066],
+                {"bubblingMouseEvents": true, "color": "cyan", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "cyan", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 29.0, "stroke": true, "weight": 3}
+            ).addTo(map_249c94620aef1536c1393a9bbc069905);
+        
+    
+        var popup_dbcbe0c803e8ac8e47bc725a23ce9799 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_cd8c612461dbce427967bf5cb92f5ee6 = $(`<div id="html_cd8c612461dbce427967bf5cb92f5ee6" style="width: 100.0%; height: 100.0%;">         <div style="width: 200px;">             <h4>Hospital Bellvitge (HB)</h4>             <hr>             <b>Volume: 48</b><br>             In: 4 | Out: 44         </div>         </div>`)[0];
+                popup_dbcbe0c803e8ac8e47bc725a23ce9799.setContent(html_cd8c612461dbce427967bf5cb92f5ee6);
+            
+        
+
+        circle_marker_d17f955b906622cc06ee2049accf09f3.bindPopup(popup_dbcbe0c803e8ac8e47bc725a23ce9799)
+        ;
+
+        
+    
+    
+            circle_marker_d17f955b906622cc06ee2049accf09f3.bindTooltip(
+                `<div>
+                     Hospital Bellvitge: 48 patients
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_1cb20f6eb1c2b6694aad4ebb989490a6 = L.circleMarker(
+                [41.4816, 2.2389],
+                {"bubblingMouseEvents": true, "color": "cyan", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "cyan", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 28.5, "stroke": true, "weight": 3}
+            ).addTo(map_249c94620aef1536c1393a9bbc069905);
+        
+    
+        var popup_900e8a4f2c23f9616324f6e6bdaf3c66 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_d738debb9a9b179b4ac9df37cbcd345c = $(`<div id="html_d738debb9a9b179b4ac9df37cbcd345c" style="width: 100.0%; height: 100.0%;">         <div style="width: 200px;">             <h4>Hospital Can Ruti (HCR)</h4>             <hr>             <b>Volume: 47</b><br>             In: 7 | Out: 40         </div>         </div>`)[0];
+                popup_900e8a4f2c23f9616324f6e6bdaf3c66.setContent(html_d738debb9a9b179b4ac9df37cbcd345c);
+            
+        
+
+        circle_marker_1cb20f6eb1c2b6694aad4ebb989490a6.bindPopup(popup_900e8a4f2c23f9616324f6e6bdaf3c66)
+        ;
+
+        
+    
+    
+            circle_marker_1cb20f6eb1c2b6694aad4ebb989490a6.bindTooltip(
+                `<div>
+                     Hospital Can Ruti: 47 patients
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_2a21e0b0dea1d75f5ffe8409bbceb761 = L.circleMarker(
+                [41.6247, 0.6083],
+                {"bubblingMouseEvents": true, "color": "cyan", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "cyan", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 36.0, "stroke": true, "weight": 3}
+            ).addTo(map_249c94620aef1536c1393a9bbc069905);
+        
+    
+        var popup_a315f47e721c5397b2bd031f3ad143b7 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_8991041e149c17831661fad3686629bd = $(`<div id="html_8991041e149c17831661fad3686629bd" style="width: 100.0%; height: 100.0%;">         <div style="width: 200px;">             <h4>Hospital Arnau de Vilanova (HAV)</h4>             <hr>             <b>Volume: 62</b><br>             In: 7 | Out: 55         </div>         </div>`)[0];
+                popup_a315f47e721c5397b2bd031f3ad143b7.setContent(html_8991041e149c17831661fad3686629bd);
+            
+        
+
+        circle_marker_2a21e0b0dea1d75f5ffe8409bbceb761.bindPopup(popup_a315f47e721c5397b2bd031f3ad143b7)
+        ;
+
+        
+    
+    
+            circle_marker_2a21e0b0dea1d75f5ffe8409bbceb761.bindTooltip(
+                `<div>
+                     Hospital Arnau de Vilanova: 62 patients
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_0c9179c26fce423d400cd8274cb42e51 = L.circleMarker(
+                [41.9964, 2.8242],
+                {"bubblingMouseEvents": true, "color": "cyan", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "cyan", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 26.5, "stroke": true, "weight": 3}
+            ).addTo(map_249c94620aef1536c1393a9bbc069905);
+        
+    
+        var popup_d18366757095d9c9eca89d5a1a242180 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_cad3f4f1de6fdb7f619ddc04b58b9a5c = $(`<div id="html_cad3f4f1de6fdb7f619ddc04b58b9a5c" style="width: 100.0%; height: 100.0%;">         <div style="width: 200px;">             <h4>Hospital Josep Trueta (HJT)</h4>             <hr>             <b>Volume: 43</b><br>             In: 6 | Out: 37         </div>         </div>`)[0];
+                popup_d18366757095d9c9eca89d5a1a242180.setContent(html_cad3f4f1de6fdb7f619ddc04b58b9a5c);
+            
+        
+
+        circle_marker_0c9179c26fce423d400cd8274cb42e51.bindPopup(popup_d18366757095d9c9eca89d5a1a242180)
+        ;
+
+        
+    
+    
+            circle_marker_0c9179c26fce423d400cd8274cb42e51.bindTooltip(
+                `<div>
+                     Hospital Josep Trueta: 43 patients
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+</script>
+</html>

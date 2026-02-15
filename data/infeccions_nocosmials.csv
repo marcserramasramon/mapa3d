@@ -1,0 +1,3361 @@
+Data,Hospital,Acronim,Grup_Edat,Genere,Infeccions,Risc_Contagi_Calc
+2025-01-01,Hospital Vall d'Hebron,HVD,0-14,Dona,0,2.71
+2025-01-01,Hospital Vall d'Hebron,HVD,0-14,Home,2,2.71
+2025-01-01,Hospital Vall d'Hebron,HVD,15-44,Dona,2,2.71
+2025-01-01,Hospital Vall d'Hebron,HVD,15-44,Home,1,2.71
+2025-01-01,Hospital Vall d'Hebron,HVD,45-64,Dona,4,2.71
+2025-01-01,Hospital Vall d'Hebron,HVD,45-64,Home,3,2.71
+2025-01-01,Hospital Vall d'Hebron,HVD,65+,Dona,4,2.71
+2025-01-01,Hospital Vall d'Hebron,HVD,65+,Home,6,2.71
+2025-01-01,Hospital Clínic,HC,0-14,Dona,0,0.68
+2025-01-01,Hospital Clínic,HC,0-14,Home,0,0.68
+2025-01-01,Hospital Clínic,HC,15-44,Dona,2,0.68
+2025-01-01,Hospital Clínic,HC,15-44,Home,0,0.68
+2025-01-01,Hospital Clínic,HC,45-64,Dona,2,0.68
+2025-01-01,Hospital Clínic,HC,45-64,Home,2,0.68
+2025-01-01,Hospital Clínic,HC,65+,Dona,5,0.68
+2025-01-01,Hospital Clínic,HC,65+,Home,5,0.68
+2025-01-01,Hospital Sant Pau,HSP,0-14,Dona,2,0.12
+2025-01-01,Hospital Sant Pau,HSP,0-14,Home,1,0.12
+2025-01-01,Hospital Sant Pau,HSP,15-44,Dona,2,0.12
+2025-01-01,Hospital Sant Pau,HSP,15-44,Home,3,0.12
+2025-01-01,Hospital Sant Pau,HSP,45-64,Dona,0,0.12
+2025-01-01,Hospital Sant Pau,HSP,45-64,Home,0,0.12
+2025-01-01,Hospital Sant Pau,HSP,65+,Dona,1,0.12
+2025-01-01,Hospital Sant Pau,HSP,65+,Home,2,0.12
+2025-01-01,Hospital Bellvitge,HB,0-14,Dona,0,0.01
+2025-01-01,Hospital Bellvitge,HB,0-14,Home,2,0.01
+2025-01-01,Hospital Bellvitge,HB,15-44,Dona,0,0.01
+2025-01-01,Hospital Bellvitge,HB,15-44,Home,1,0.01
+2025-01-01,Hospital Bellvitge,HB,45-64,Dona,0,0.01
+2025-01-01,Hospital Bellvitge,HB,45-64,Home,0,0.01
+2025-01-01,Hospital Bellvitge,HB,65+,Dona,0,0.01
+2025-01-01,Hospital Bellvitge,HB,65+,Home,2,0.01
+2025-01-01,Hospital Can Ruti,HCR,0-14,Dona,0,0.0
+2025-01-01,Hospital Can Ruti,HCR,0-14,Home,0,0.0
+2025-01-01,Hospital Can Ruti,HCR,15-44,Dona,1,0.0
+2025-01-01,Hospital Can Ruti,HCR,15-44,Home,1,0.0
+2025-01-01,Hospital Can Ruti,HCR,45-64,Dona,2,0.0
+2025-01-01,Hospital Can Ruti,HCR,45-64,Home,2,0.0
+2025-01-01,Hospital Can Ruti,HCR,65+,Dona,1,0.0
+2025-01-01,Hospital Can Ruti,HCR,65+,Home,5,0.0
+2025-01-01,Hospital Arnau de Vilanova,HAV,0-14,Dona,0,0.0
+2025-01-01,Hospital Arnau de Vilanova,HAV,0-14,Home,0,0.0
+2025-01-01,Hospital Arnau de Vilanova,HAV,15-44,Dona,0,0.0
+2025-01-01,Hospital Arnau de Vilanova,HAV,15-44,Home,1,0.0
+2025-01-01,Hospital Arnau de Vilanova,HAV,45-64,Dona,2,0.0
+2025-01-01,Hospital Arnau de Vilanova,HAV,45-64,Home,1,0.0
+2025-01-01,Hospital Arnau de Vilanova,HAV,65+,Dona,3,0.0
+2025-01-01,Hospital Arnau de Vilanova,HAV,65+,Home,0,0.0
+2025-01-01,Hospital Josep Trueta,HJT,0-14,Dona,2,0.0
+2025-01-01,Hospital Josep Trueta,HJT,0-14,Home,2,0.0
+2025-01-01,Hospital Josep Trueta,HJT,15-44,Dona,2,0.0
+2025-01-01,Hospital Josep Trueta,HJT,15-44,Home,2,0.0
+2025-01-01,Hospital Josep Trueta,HJT,45-64,Dona,0,0.0
+2025-01-01,Hospital Josep Trueta,HJT,45-64,Home,0,0.0
+2025-01-01,Hospital Josep Trueta,HJT,65+,Dona,1,0.0
+2025-01-01,Hospital Josep Trueta,HJT,65+,Home,2,0.0
+2025-01-02,Hospital Vall d'Hebron,HVD,0-14,Dona,3,3.96
+2025-01-02,Hospital Vall d'Hebron,HVD,0-14,Home,1,3.96
+2025-01-02,Hospital Vall d'Hebron,HVD,15-44,Dona,4,3.96
+2025-01-02,Hospital Vall d'Hebron,HVD,15-44,Home,1,3.96
+2025-01-02,Hospital Vall d'Hebron,HVD,45-64,Dona,0,3.96
+2025-01-02,Hospital Vall d'Hebron,HVD,45-64,Home,3,3.96
+2025-01-02,Hospital Vall d'Hebron,HVD,65+,Dona,6,3.96
+2025-01-02,Hospital Vall d'Hebron,HVD,65+,Home,6,3.96
+2025-01-02,Hospital Clínic,HC,0-14,Dona,0,1.12
+2025-01-02,Hospital Clínic,HC,0-14,Home,0,1.12
+2025-01-02,Hospital Clínic,HC,15-44,Dona,1,1.12
+2025-01-02,Hospital Clínic,HC,15-44,Home,2,1.12
+2025-01-02,Hospital Clínic,HC,45-64,Dona,3,1.12
+2025-01-02,Hospital Clínic,HC,45-64,Home,1,1.12
+2025-01-02,Hospital Clínic,HC,65+,Dona,6,1.12
+2025-01-02,Hospital Clínic,HC,65+,Home,2,1.12
+2025-01-02,Hospital Sant Pau,HSP,0-14,Dona,0,0.22
+2025-01-02,Hospital Sant Pau,HSP,0-14,Home,1,0.22
+2025-01-02,Hospital Sant Pau,HSP,15-44,Dona,0,0.22
+2025-01-02,Hospital Sant Pau,HSP,15-44,Home,2,0.22
+2025-01-02,Hospital Sant Pau,HSP,45-64,Dona,0,0.22
+2025-01-02,Hospital Sant Pau,HSP,45-64,Home,1,0.22
+2025-01-02,Hospital Sant Pau,HSP,65+,Dona,3,0.22
+2025-01-02,Hospital Sant Pau,HSP,65+,Home,4,0.22
+2025-01-02,Hospital Bellvitge,HB,0-14,Dona,0,0.03
+2025-01-02,Hospital Bellvitge,HB,0-14,Home,0,0.03
+2025-01-02,Hospital Bellvitge,HB,15-44,Dona,0,0.03
+2025-01-02,Hospital Bellvitge,HB,15-44,Home,0,0.03
+2025-01-02,Hospital Bellvitge,HB,45-64,Dona,1,0.03
+2025-01-02,Hospital Bellvitge,HB,45-64,Home,0,0.03
+2025-01-02,Hospital Bellvitge,HB,65+,Dona,0,0.03
+2025-01-02,Hospital Bellvitge,HB,65+,Home,0,0.03
+2025-01-02,Hospital Can Ruti,HCR,0-14,Dona,1,0.0
+2025-01-02,Hospital Can Ruti,HCR,0-14,Home,0,0.0
+2025-01-02,Hospital Can Ruti,HCR,15-44,Dona,3,0.0
+2025-01-02,Hospital Can Ruti,HCR,15-44,Home,0,0.0
+2025-01-02,Hospital Can Ruti,HCR,45-64,Dona,3,0.0
+2025-01-02,Hospital Can Ruti,HCR,45-64,Home,0,0.0
+2025-01-02,Hospital Can Ruti,HCR,65+,Dona,5,0.0
+2025-01-02,Hospital Can Ruti,HCR,65+,Home,2,0.0
+2025-01-02,Hospital Arnau de Vilanova,HAV,0-14,Dona,0,0.0
+2025-01-02,Hospital Arnau de Vilanova,HAV,0-14,Home,0,0.0
+2025-01-02,Hospital Arnau de Vilanova,HAV,15-44,Dona,1,0.0
+2025-01-02,Hospital Arnau de Vilanova,HAV,15-44,Home,1,0.0
+2025-01-02,Hospital Arnau de Vilanova,HAV,45-64,Dona,2,0.0
+2025-01-02,Hospital Arnau de Vilanova,HAV,45-64,Home,1,0.0
+2025-01-02,Hospital Arnau de Vilanova,HAV,65+,Dona,3,0.0
+2025-01-02,Hospital Arnau de Vilanova,HAV,65+,Home,3,0.0
+2025-01-02,Hospital Josep Trueta,HJT,0-14,Dona,4,0.0
+2025-01-02,Hospital Josep Trueta,HJT,0-14,Home,0,0.0
+2025-01-02,Hospital Josep Trueta,HJT,15-44,Dona,2,0.0
+2025-01-02,Hospital Josep Trueta,HJT,15-44,Home,2,0.0
+2025-01-02,Hospital Josep Trueta,HJT,45-64,Dona,2,0.0
+2025-01-02,Hospital Josep Trueta,HJT,45-64,Home,1,0.0
+2025-01-02,Hospital Josep Trueta,HJT,65+,Dona,5,0.0
+2025-01-02,Hospital Josep Trueta,HJT,65+,Home,4,0.0
+2025-01-03,Hospital Vall d'Hebron,HVD,0-14,Dona,0,5.56
+2025-01-03,Hospital Vall d'Hebron,HVD,0-14,Home,2,5.56
+2025-01-03,Hospital Vall d'Hebron,HVD,15-44,Dona,4,5.56
+2025-01-03,Hospital Vall d'Hebron,HVD,15-44,Home,3,5.56
+2025-01-03,Hospital Vall d'Hebron,HVD,45-64,Dona,2,5.56
+2025-01-03,Hospital Vall d'Hebron,HVD,45-64,Home,2,5.56
+2025-01-03,Hospital Vall d'Hebron,HVD,65+,Dona,2,5.56
+2025-01-03,Hospital Vall d'Hebron,HVD,65+,Home,8,5.56
+2025-01-03,Hospital Clínic,HC,0-14,Dona,0,1.78
+2025-01-03,Hospital Clínic,HC,0-14,Home,1,1.78
+2025-01-03,Hospital Clínic,HC,15-44,Dona,5,1.78
+2025-01-03,Hospital Clínic,HC,15-44,Home,5,1.78
+2025-01-03,Hospital Clínic,HC,45-64,Dona,2,1.78
+2025-01-03,Hospital Clínic,HC,45-64,Home,2,1.78
+2025-01-03,Hospital Clínic,HC,65+,Dona,7,1.78
+2025-01-03,Hospital Clínic,HC,65+,Home,6,1.78
+2025-01-03,Hospital Sant Pau,HSP,0-14,Dona,0,0.4
+2025-01-03,Hospital Sant Pau,HSP,0-14,Home,0,0.4
+2025-01-03,Hospital Sant Pau,HSP,15-44,Dona,1,0.4
+2025-01-03,Hospital Sant Pau,HSP,15-44,Home,1,0.4
+2025-01-03,Hospital Sant Pau,HSP,45-64,Dona,4,0.4
+2025-01-03,Hospital Sant Pau,HSP,45-64,Home,0,0.4
+2025-01-03,Hospital Sant Pau,HSP,65+,Dona,5,0.4
+2025-01-03,Hospital Sant Pau,HSP,65+,Home,4,0.4
+2025-01-03,Hospital Bellvitge,HB,0-14,Dona,0,0.06
+2025-01-03,Hospital Bellvitge,HB,0-14,Home,0,0.06
+2025-01-03,Hospital Bellvitge,HB,15-44,Dona,1,0.06
+2025-01-03,Hospital Bellvitge,HB,15-44,Home,1,0.06
+2025-01-03,Hospital Bellvitge,HB,45-64,Dona,0,0.06
+2025-01-03,Hospital Bellvitge,HB,45-64,Home,0,0.06
+2025-01-03,Hospital Bellvitge,HB,65+,Dona,5,0.06
+2025-01-03,Hospital Bellvitge,HB,65+,Home,4,0.06
+2025-01-03,Hospital Can Ruti,HCR,0-14,Dona,0,0.01
+2025-01-03,Hospital Can Ruti,HCR,0-14,Home,0,0.01
+2025-01-03,Hospital Can Ruti,HCR,15-44,Dona,2,0.01
+2025-01-03,Hospital Can Ruti,HCR,15-44,Home,0,0.01
+2025-01-03,Hospital Can Ruti,HCR,45-64,Dona,4,0.01
+2025-01-03,Hospital Can Ruti,HCR,45-64,Home,0,0.01
+2025-01-03,Hospital Can Ruti,HCR,65+,Dona,3,0.01
+2025-01-03,Hospital Can Ruti,HCR,65+,Home,1,0.01
+2025-01-03,Hospital Arnau de Vilanova,HAV,0-14,Dona,1,0.0
+2025-01-03,Hospital Arnau de Vilanova,HAV,0-14,Home,2,0.0
+2025-01-03,Hospital Arnau de Vilanova,HAV,15-44,Dona,3,0.0
+2025-01-03,Hospital Arnau de Vilanova,HAV,15-44,Home,2,0.0
+2025-01-03,Hospital Arnau de Vilanova,HAV,45-64,Dona,2,0.0
+2025-01-03,Hospital Arnau de Vilanova,HAV,45-64,Home,2,0.0
+2025-01-03,Hospital Arnau de Vilanova,HAV,65+,Dona,3,0.0
+2025-01-03,Hospital Arnau de Vilanova,HAV,65+,Home,0,0.0
+2025-01-03,Hospital Josep Trueta,HJT,0-14,Dona,1,0.0
+2025-01-03,Hospital Josep Trueta,HJT,0-14,Home,0,0.0
+2025-01-03,Hospital Josep Trueta,HJT,15-44,Dona,3,0.0
+2025-01-03,Hospital Josep Trueta,HJT,15-44,Home,1,0.0
+2025-01-03,Hospital Josep Trueta,HJT,45-64,Dona,4,0.0
+2025-01-03,Hospital Josep Trueta,HJT,45-64,Home,3,0.0
+2025-01-03,Hospital Josep Trueta,HJT,65+,Dona,4,0.0
+2025-01-03,Hospital Josep Trueta,HJT,65+,Home,10,0.0
+2025-01-04,Hospital Vall d'Hebron,HVD,0-14,Dona,2,7.51
+2025-01-04,Hospital Vall d'Hebron,HVD,0-14,Home,2,7.51
+2025-01-04,Hospital Vall d'Hebron,HVD,15-44,Dona,3,7.51
+2025-01-04,Hospital Vall d'Hebron,HVD,15-44,Home,3,7.51
+2025-01-04,Hospital Vall d'Hebron,HVD,45-64,Dona,2,7.51
+2025-01-04,Hospital Vall d'Hebron,HVD,45-64,Home,0,7.51
+2025-01-04,Hospital Vall d'Hebron,HVD,65+,Dona,8,7.51
+2025-01-04,Hospital Vall d'Hebron,HVD,65+,Home,3,7.51
+2025-01-04,Hospital Clínic,HC,0-14,Dona,1,2.71
+2025-01-04,Hospital Clínic,HC,0-14,Home,0,2.71
+2025-01-04,Hospital Clínic,HC,15-44,Dona,8,2.71
+2025-01-04,Hospital Clínic,HC,15-44,Home,4,2.71
+2025-01-04,Hospital Clínic,HC,45-64,Dona,5,2.71
+2025-01-04,Hospital Clínic,HC,45-64,Home,1,2.71
+2025-01-04,Hospital Clínic,HC,65+,Dona,2,2.71
+2025-01-04,Hospital Clínic,HC,65+,Home,4,2.71
+2025-01-04,Hospital Sant Pau,HSP,0-14,Dona,3,0.68
+2025-01-04,Hospital Sant Pau,HSP,0-14,Home,0,0.68
+2025-01-04,Hospital Sant Pau,HSP,15-44,Dona,0,0.68
+2025-01-04,Hospital Sant Pau,HSP,15-44,Home,1,0.68
+2025-01-04,Hospital Sant Pau,HSP,45-64,Dona,1,0.68
+2025-01-04,Hospital Sant Pau,HSP,45-64,Home,1,0.68
+2025-01-04,Hospital Sant Pau,HSP,65+,Dona,4,0.68
+2025-01-04,Hospital Sant Pau,HSP,65+,Home,3,0.68
+2025-01-04,Hospital Bellvitge,HB,0-14,Dona,0,0.12
+2025-01-04,Hospital Bellvitge,HB,0-14,Home,1,0.12
+2025-01-04,Hospital Bellvitge,HB,15-44,Dona,1,0.12
+2025-01-04,Hospital Bellvitge,HB,15-44,Home,0,0.12
+2025-01-04,Hospital Bellvitge,HB,45-64,Dona,1,0.12
+2025-01-04,Hospital Bellvitge,HB,45-64,Home,2,0.12
+2025-01-04,Hospital Bellvitge,HB,65+,Dona,4,0.12
+2025-01-04,Hospital Bellvitge,HB,65+,Home,0,0.12
+2025-01-04,Hospital Can Ruti,HCR,0-14,Dona,1,0.01
+2025-01-04,Hospital Can Ruti,HCR,0-14,Home,0,0.01
+2025-01-04,Hospital Can Ruti,HCR,15-44,Dona,1,0.01
+2025-01-04,Hospital Can Ruti,HCR,15-44,Home,1,0.01
+2025-01-04,Hospital Can Ruti,HCR,45-64,Dona,2,0.01
+2025-01-04,Hospital Can Ruti,HCR,45-64,Home,2,0.01
+2025-01-04,Hospital Can Ruti,HCR,65+,Dona,3,0.01
+2025-01-04,Hospital Can Ruti,HCR,65+,Home,4,0.01
+2025-01-04,Hospital Arnau de Vilanova,HAV,0-14,Dona,0,0.0
+2025-01-04,Hospital Arnau de Vilanova,HAV,0-14,Home,0,0.0
+2025-01-04,Hospital Arnau de Vilanova,HAV,15-44,Dona,2,0.0
+2025-01-04,Hospital Arnau de Vilanova,HAV,15-44,Home,1,0.0
+2025-01-04,Hospital Arnau de Vilanova,HAV,45-64,Dona,1,0.0
+2025-01-04,Hospital Arnau de Vilanova,HAV,45-64,Home,0,0.0
+2025-01-04,Hospital Arnau de Vilanova,HAV,65+,Dona,0,0.0
+2025-01-04,Hospital Arnau de Vilanova,HAV,65+,Home,0,0.0
+2025-01-04,Hospital Josep Trueta,HJT,0-14,Dona,1,0.0
+2025-01-04,Hospital Josep Trueta,HJT,0-14,Home,2,0.0
+2025-01-04,Hospital Josep Trueta,HJT,15-44,Dona,0,0.0
+2025-01-04,Hospital Josep Trueta,HJT,15-44,Home,1,0.0
+2025-01-04,Hospital Josep Trueta,HJT,45-64,Dona,1,0.0
+2025-01-04,Hospital Josep Trueta,HJT,45-64,Home,3,0.0
+2025-01-04,Hospital Josep Trueta,HJT,65+,Dona,5,0.0
+2025-01-04,Hospital Josep Trueta,HJT,65+,Home,4,0.0
+2025-01-05,Hospital Vall d'Hebron,HVD,0-14,Dona,3,9.74
+2025-01-05,Hospital Vall d'Hebron,HVD,0-14,Home,3,9.74
+2025-01-05,Hospital Vall d'Hebron,HVD,15-44,Dona,0,9.74
+2025-01-05,Hospital Vall d'Hebron,HVD,15-44,Home,3,9.74
+2025-01-05,Hospital Vall d'Hebron,HVD,45-64,Dona,3,9.74
+2025-01-05,Hospital Vall d'Hebron,HVD,45-64,Home,2,9.74
+2025-01-05,Hospital Vall d'Hebron,HVD,65+,Dona,8,9.74
+2025-01-05,Hospital Vall d'Hebron,HVD,65+,Home,8,9.74
+2025-01-05,Hospital Clínic,HC,0-14,Dona,1,3.96
+2025-01-05,Hospital Clínic,HC,0-14,Home,0,3.96
+2025-01-05,Hospital Clínic,HC,15-44,Dona,0,3.96
+2025-01-05,Hospital Clínic,HC,15-44,Home,1,3.96
+2025-01-05,Hospital Clínic,HC,45-64,Dona,0,3.96
+2025-01-05,Hospital Clínic,HC,45-64,Home,4,3.96
+2025-01-05,Hospital Clínic,HC,65+,Dona,4,3.96
+2025-01-05,Hospital Clínic,HC,65+,Home,9,3.96
+2025-01-05,Hospital Sant Pau,HSP,0-14,Dona,1,1.12
+2025-01-05,Hospital Sant Pau,HSP,0-14,Home,0,1.12
+2025-01-05,Hospital Sant Pau,HSP,15-44,Dona,1,1.12
+2025-01-05,Hospital Sant Pau,HSP,15-44,Home,3,1.12
+2025-01-05,Hospital Sant Pau,HSP,45-64,Dona,0,1.12
+2025-01-05,Hospital Sant Pau,HSP,45-64,Home,0,1.12
+2025-01-05,Hospital Sant Pau,HSP,65+,Dona,5,1.12
+2025-01-05,Hospital Sant Pau,HSP,65+,Home,2,1.12
+2025-01-05,Hospital Bellvitge,HB,0-14,Dona,1,0.22
+2025-01-05,Hospital Bellvitge,HB,0-14,Home,0,0.22
+2025-01-05,Hospital Bellvitge,HB,15-44,Dona,2,0.22
+2025-01-05,Hospital Bellvitge,HB,15-44,Home,0,0.22
+2025-01-05,Hospital Bellvitge,HB,45-64,Dona,2,0.22
+2025-01-05,Hospital Bellvitge,HB,45-64,Home,1,0.22
+2025-01-05,Hospital Bellvitge,HB,65+,Dona,0,0.22
+2025-01-05,Hospital Bellvitge,HB,65+,Home,0,0.22
+2025-01-05,Hospital Can Ruti,HCR,0-14,Dona,1,0.03
+2025-01-05,Hospital Can Ruti,HCR,0-14,Home,0,0.03
+2025-01-05,Hospital Can Ruti,HCR,15-44,Dona,0,0.03
+2025-01-05,Hospital Can Ruti,HCR,15-44,Home,2,0.03
+2025-01-05,Hospital Can Ruti,HCR,45-64,Dona,1,0.03
+2025-01-05,Hospital Can Ruti,HCR,45-64,Home,2,0.03
+2025-01-05,Hospital Can Ruti,HCR,65+,Dona,2,0.03
+2025-01-05,Hospital Can Ruti,HCR,65+,Home,1,0.03
+2025-01-05,Hospital Arnau de Vilanova,HAV,0-14,Dona,0,0.0
+2025-01-05,Hospital Arnau de Vilanova,HAV,0-14,Home,0,0.0
+2025-01-05,Hospital Arnau de Vilanova,HAV,15-44,Dona,1,0.0
+2025-01-05,Hospital Arnau de Vilanova,HAV,15-44,Home,1,0.0
+2025-01-05,Hospital Arnau de Vilanova,HAV,45-64,Dona,0,0.0
+2025-01-05,Hospital Arnau de Vilanova,HAV,45-64,Home,3,0.0
+2025-01-05,Hospital Arnau de Vilanova,HAV,65+,Dona,3,0.0
+2025-01-05,Hospital Arnau de Vilanova,HAV,65+,Home,4,0.0
+2025-01-05,Hospital Josep Trueta,HJT,0-14,Dona,1,0.0
+2025-01-05,Hospital Josep Trueta,HJT,0-14,Home,0,0.0
+2025-01-05,Hospital Josep Trueta,HJT,15-44,Dona,0,0.0
+2025-01-05,Hospital Josep Trueta,HJT,15-44,Home,1,0.0
+2025-01-05,Hospital Josep Trueta,HJT,45-64,Dona,1,0.0
+2025-01-05,Hospital Josep Trueta,HJT,45-64,Home,1,0.0
+2025-01-05,Hospital Josep Trueta,HJT,65+,Dona,4,0.0
+2025-01-05,Hospital Josep Trueta,HJT,65+,Home,3,0.0
+2025-01-06,Hospital Vall d'Hebron,HVD,0-14,Dona,3,12.13
+2025-01-06,Hospital Vall d'Hebron,HVD,0-14,Home,0,12.13
+2025-01-06,Hospital Vall d'Hebron,HVD,15-44,Dona,4,12.13
+2025-01-06,Hospital Vall d'Hebron,HVD,15-44,Home,4,12.13
+2025-01-06,Hospital Vall d'Hebron,HVD,45-64,Dona,2,12.13
+2025-01-06,Hospital Vall d'Hebron,HVD,45-64,Home,1,12.13
+2025-01-06,Hospital Vall d'Hebron,HVD,65+,Dona,7,12.13
+2025-01-06,Hospital Vall d'Hebron,HVD,65+,Home,10,12.13
+2025-01-06,Hospital Clínic,HC,0-14,Dona,1,5.56
+2025-01-06,Hospital Clínic,HC,0-14,Home,1,5.56
+2025-01-06,Hospital Clínic,HC,15-44,Dona,2,5.56
+2025-01-06,Hospital Clínic,HC,15-44,Home,2,5.56
+2025-01-06,Hospital Clínic,HC,45-64,Dona,0,5.56
+2025-01-06,Hospital Clínic,HC,45-64,Home,4,5.56
+2025-01-06,Hospital Clínic,HC,65+,Dona,6,5.56
+2025-01-06,Hospital Clínic,HC,65+,Home,7,5.56
+2025-01-06,Hospital Sant Pau,HSP,0-14,Dona,1,1.78
+2025-01-06,Hospital Sant Pau,HSP,0-14,Home,1,1.78
+2025-01-06,Hospital Sant Pau,HSP,15-44,Dona,1,1.78
+2025-01-06,Hospital Sant Pau,HSP,15-44,Home,2,1.78
+2025-01-06,Hospital Sant Pau,HSP,45-64,Dona,0,1.78
+2025-01-06,Hospital Sant Pau,HSP,45-64,Home,1,1.78
+2025-01-06,Hospital Sant Pau,HSP,65+,Dona,2,1.78
+2025-01-06,Hospital Sant Pau,HSP,65+,Home,0,1.78
+2025-01-06,Hospital Bellvitge,HB,0-14,Dona,0,0.4
+2025-01-06,Hospital Bellvitge,HB,0-14,Home,0,0.4
+2025-01-06,Hospital Bellvitge,HB,15-44,Dona,3,0.4
+2025-01-06,Hospital Bellvitge,HB,15-44,Home,1,0.4
+2025-01-06,Hospital Bellvitge,HB,45-64,Dona,3,0.4
+2025-01-06,Hospital Bellvitge,HB,45-64,Home,0,0.4
+2025-01-06,Hospital Bellvitge,HB,65+,Dona,1,0.4
+2025-01-06,Hospital Bellvitge,HB,65+,Home,0,0.4
+2025-01-06,Hospital Can Ruti,HCR,0-14,Dona,1,0.06
+2025-01-06,Hospital Can Ruti,HCR,0-14,Home,0,0.06
+2025-01-06,Hospital Can Ruti,HCR,15-44,Dona,0,0.06
+2025-01-06,Hospital Can Ruti,HCR,15-44,Home,1,0.06
+2025-01-06,Hospital Can Ruti,HCR,45-64,Dona,3,0.06
+2025-01-06,Hospital Can Ruti,HCR,45-64,Home,1,0.06
+2025-01-06,Hospital Can Ruti,HCR,65+,Dona,4,0.06
+2025-01-06,Hospital Can Ruti,HCR,65+,Home,3,0.06
+2025-01-06,Hospital Arnau de Vilanova,HAV,0-14,Dona,0,0.01
+2025-01-06,Hospital Arnau de Vilanova,HAV,0-14,Home,0,0.01
+2025-01-06,Hospital Arnau de Vilanova,HAV,15-44,Dona,0,0.01
+2025-01-06,Hospital Arnau de Vilanova,HAV,15-44,Home,0,0.01
+2025-01-06,Hospital Arnau de Vilanova,HAV,45-64,Dona,2,0.01
+2025-01-06,Hospital Arnau de Vilanova,HAV,45-64,Home,0,0.01
+2025-01-06,Hospital Arnau de Vilanova,HAV,65+,Dona,5,0.01
+2025-01-06,Hospital Arnau de Vilanova,HAV,65+,Home,0,0.01
+2025-01-06,Hospital Josep Trueta,HJT,0-14,Dona,2,0.0
+2025-01-06,Hospital Josep Trueta,HJT,0-14,Home,0,0.0
+2025-01-06,Hospital Josep Trueta,HJT,15-44,Dona,1,0.0
+2025-01-06,Hospital Josep Trueta,HJT,15-44,Home,1,0.0
+2025-01-06,Hospital Josep Trueta,HJT,45-64,Dona,1,0.0
+2025-01-06,Hospital Josep Trueta,HJT,45-64,Home,1,0.0
+2025-01-06,Hospital Josep Trueta,HJT,65+,Dona,4,0.0
+2025-01-06,Hospital Josep Trueta,HJT,65+,Home,3,0.0
+2025-01-07,Hospital Vall d'Hebron,HVD,0-14,Dona,2,14.52
+2025-01-07,Hospital Vall d'Hebron,HVD,0-14,Home,0,14.52
+2025-01-07,Hospital Vall d'Hebron,HVD,15-44,Dona,2,14.52
+2025-01-07,Hospital Vall d'Hebron,HVD,15-44,Home,2,14.52
+2025-01-07,Hospital Vall d'Hebron,HVD,45-64,Dona,3,14.52
+2025-01-07,Hospital Vall d'Hebron,HVD,45-64,Home,3,14.52
+2025-01-07,Hospital Vall d'Hebron,HVD,65+,Dona,7,14.52
+2025-01-07,Hospital Vall d'Hebron,HVD,65+,Home,6,14.52
+2025-01-07,Hospital Clínic,HC,0-14,Dona,0,7.51
+2025-01-07,Hospital Clínic,HC,0-14,Home,1,7.51
+2025-01-07,Hospital Clínic,HC,15-44,Dona,0,7.51
+2025-01-07,Hospital Clínic,HC,15-44,Home,1,7.51
+2025-01-07,Hospital Clínic,HC,45-64,Dona,1,7.51
+2025-01-07,Hospital Clínic,HC,45-64,Home,4,7.51
+2025-01-07,Hospital Clínic,HC,65+,Dona,3,7.51
+2025-01-07,Hospital Clínic,HC,65+,Home,7,7.51
+2025-01-07,Hospital Sant Pau,HSP,0-14,Dona,0,2.71
+2025-01-07,Hospital Sant Pau,HSP,0-14,Home,0,2.71
+2025-01-07,Hospital Sant Pau,HSP,15-44,Dona,1,2.71
+2025-01-07,Hospital Sant Pau,HSP,15-44,Home,0,2.71
+2025-01-07,Hospital Sant Pau,HSP,45-64,Dona,2,2.71
+2025-01-07,Hospital Sant Pau,HSP,45-64,Home,4,2.71
+2025-01-07,Hospital Sant Pau,HSP,65+,Dona,0,2.71
+2025-01-07,Hospital Sant Pau,HSP,65+,Home,3,2.71
+2025-01-07,Hospital Bellvitge,HB,0-14,Dona,0,0.68
+2025-01-07,Hospital Bellvitge,HB,0-14,Home,0,0.68
+2025-01-07,Hospital Bellvitge,HB,15-44,Dona,0,0.68
+2025-01-07,Hospital Bellvitge,HB,15-44,Home,2,0.68
+2025-01-07,Hospital Bellvitge,HB,45-64,Dona,2,0.68
+2025-01-07,Hospital Bellvitge,HB,45-64,Home,1,0.68
+2025-01-07,Hospital Bellvitge,HB,65+,Dona,0,0.68
+2025-01-07,Hospital Bellvitge,HB,65+,Home,7,0.68
+2025-01-07,Hospital Can Ruti,HCR,0-14,Dona,0,0.12
+2025-01-07,Hospital Can Ruti,HCR,0-14,Home,0,0.12
+2025-01-07,Hospital Can Ruti,HCR,15-44,Dona,2,0.12
+2025-01-07,Hospital Can Ruti,HCR,15-44,Home,2,0.12
+2025-01-07,Hospital Can Ruti,HCR,45-64,Dona,0,0.12
+2025-01-07,Hospital Can Ruti,HCR,45-64,Home,1,0.12
+2025-01-07,Hospital Can Ruti,HCR,65+,Dona,3,0.12
+2025-01-07,Hospital Can Ruti,HCR,65+,Home,6,0.12
+2025-01-07,Hospital Arnau de Vilanova,HAV,0-14,Dona,0,0.01
+2025-01-07,Hospital Arnau de Vilanova,HAV,0-14,Home,0,0.01
+2025-01-07,Hospital Arnau de Vilanova,HAV,15-44,Dona,0,0.01
+2025-01-07,Hospital Arnau de Vilanova,HAV,15-44,Home,0,0.01
+2025-01-07,Hospital Arnau de Vilanova,HAV,45-64,Dona,0,0.01
+2025-01-07,Hospital Arnau de Vilanova,HAV,45-64,Home,0,0.01
+2025-01-07,Hospital Arnau de Vilanova,HAV,65+,Dona,0,0.01
+2025-01-07,Hospital Arnau de Vilanova,HAV,65+,Home,0,0.01
+2025-01-07,Hospital Josep Trueta,HJT,0-14,Dona,4,0.0
+2025-01-07,Hospital Josep Trueta,HJT,0-14,Home,0,0.0
+2025-01-07,Hospital Josep Trueta,HJT,15-44,Dona,1,0.0
+2025-01-07,Hospital Josep Trueta,HJT,15-44,Home,0,0.0
+2025-01-07,Hospital Josep Trueta,HJT,45-64,Dona,0,0.0
+2025-01-07,Hospital Josep Trueta,HJT,45-64,Home,0,0.0
+2025-01-07,Hospital Josep Trueta,HJT,65+,Dona,4,0.0
+2025-01-07,Hospital Josep Trueta,HJT,65+,Home,5,0.0
+2025-01-08,Hospital Vall d'Hebron,HVD,0-14,Dona,0,16.71
+2025-01-08,Hospital Vall d'Hebron,HVD,0-14,Home,0,16.71
+2025-01-08,Hospital Vall d'Hebron,HVD,15-44,Dona,7,16.71
+2025-01-08,Hospital Vall d'Hebron,HVD,15-44,Home,4,16.71
+2025-01-08,Hospital Vall d'Hebron,HVD,45-64,Dona,4,16.71
+2025-01-08,Hospital Vall d'Hebron,HVD,45-64,Home,2,16.71
+2025-01-08,Hospital Vall d'Hebron,HVD,65+,Dona,6,16.71
+2025-01-08,Hospital Vall d'Hebron,HVD,65+,Home,3,16.71
+2025-01-08,Hospital Clínic,HC,0-14,Dona,1,9.74
+2025-01-08,Hospital Clínic,HC,0-14,Home,0,9.74
+2025-01-08,Hospital Clínic,HC,15-44,Dona,8,9.74
+2025-01-08,Hospital Clínic,HC,15-44,Home,4,9.74
+2025-01-08,Hospital Clínic,HC,45-64,Dona,3,9.74
+2025-01-08,Hospital Clínic,HC,45-64,Home,4,9.74
+2025-01-08,Hospital Clínic,HC,65+,Dona,3,9.74
+2025-01-08,Hospital Clínic,HC,65+,Home,9,9.74
+2025-01-08,Hospital Sant Pau,HSP,0-14,Dona,2,3.96
+2025-01-08,Hospital Sant Pau,HSP,0-14,Home,0,3.96
+2025-01-08,Hospital Sant Pau,HSP,15-44,Dona,1,3.96
+2025-01-08,Hospital Sant Pau,HSP,15-44,Home,1,3.96
+2025-01-08,Hospital Sant Pau,HSP,45-64,Dona,0,3.96
+2025-01-08,Hospital Sant Pau,HSP,45-64,Home,0,3.96
+2025-01-08,Hospital Sant Pau,HSP,65+,Dona,4,3.96
+2025-01-08,Hospital Sant Pau,HSP,65+,Home,1,3.96
+2025-01-08,Hospital Bellvitge,HB,0-14,Dona,0,1.12
+2025-01-08,Hospital Bellvitge,HB,0-14,Home,1,1.12
+2025-01-08,Hospital Bellvitge,HB,15-44,Dona,2,1.12
+2025-01-08,Hospital Bellvitge,HB,15-44,Home,0,1.12
+2025-01-08,Hospital Bellvitge,HB,45-64,Dona,3,1.12
+2025-01-08,Hospital Bellvitge,HB,45-64,Home,0,1.12
+2025-01-08,Hospital Bellvitge,HB,65+,Dona,4,1.12
+2025-01-08,Hospital Bellvitge,HB,65+,Home,2,1.12
+2025-01-08,Hospital Can Ruti,HCR,0-14,Dona,1,0.22
+2025-01-08,Hospital Can Ruti,HCR,0-14,Home,0,0.22
+2025-01-08,Hospital Can Ruti,HCR,15-44,Dona,2,0.22
+2025-01-08,Hospital Can Ruti,HCR,15-44,Home,0,0.22
+2025-01-08,Hospital Can Ruti,HCR,45-64,Dona,0,0.22
+2025-01-08,Hospital Can Ruti,HCR,45-64,Home,2,0.22
+2025-01-08,Hospital Can Ruti,HCR,65+,Dona,5,0.22
+2025-01-08,Hospital Can Ruti,HCR,65+,Home,2,0.22
+2025-01-08,Hospital Arnau de Vilanova,HAV,0-14,Dona,1,0.03
+2025-01-08,Hospital Arnau de Vilanova,HAV,0-14,Home,0,0.03
+2025-01-08,Hospital Arnau de Vilanova,HAV,15-44,Dona,0,0.03
+2025-01-08,Hospital Arnau de Vilanova,HAV,15-44,Home,3,0.03
+2025-01-08,Hospital Arnau de Vilanova,HAV,45-64,Dona,0,0.03
+2025-01-08,Hospital Arnau de Vilanova,HAV,45-64,Home,2,0.03
+2025-01-08,Hospital Arnau de Vilanova,HAV,65+,Dona,2,0.03
+2025-01-08,Hospital Arnau de Vilanova,HAV,65+,Home,1,0.03
+2025-01-08,Hospital Josep Trueta,HJT,0-14,Dona,1,0.0
+2025-01-08,Hospital Josep Trueta,HJT,0-14,Home,1,0.0
+2025-01-08,Hospital Josep Trueta,HJT,15-44,Dona,2,0.0
+2025-01-08,Hospital Josep Trueta,HJT,15-44,Home,2,0.0
+2025-01-08,Hospital Josep Trueta,HJT,45-64,Dona,3,0.0
+2025-01-08,Hospital Josep Trueta,HJT,45-64,Home,1,0.0
+2025-01-08,Hospital Josep Trueta,HJT,65+,Dona,4,0.0
+2025-01-08,Hospital Josep Trueta,HJT,65+,Home,2,0.0
+2025-01-09,Hospital Vall d'Hebron,HVD,0-14,Dona,3,18.46
+2025-01-09,Hospital Vall d'Hebron,HVD,0-14,Home,1,18.46
+2025-01-09,Hospital Vall d'Hebron,HVD,15-44,Dona,10,18.46
+2025-01-09,Hospital Vall d'Hebron,HVD,15-44,Home,2,18.46
+2025-01-09,Hospital Vall d'Hebron,HVD,45-64,Dona,4,18.46
+2025-01-09,Hospital Vall d'Hebron,HVD,45-64,Home,8,18.46
+2025-01-09,Hospital Vall d'Hebron,HVD,65+,Dona,13,18.46
+2025-01-09,Hospital Vall d'Hebron,HVD,65+,Home,11,18.46
+2025-01-09,Hospital Clínic,HC,0-14,Dona,3,12.13
+2025-01-09,Hospital Clínic,HC,0-14,Home,3,12.13
+2025-01-09,Hospital Clínic,HC,15-44,Dona,4,12.13
+2025-01-09,Hospital Clínic,HC,15-44,Home,3,12.13
+2025-01-09,Hospital Clínic,HC,45-64,Dona,3,12.13
+2025-01-09,Hospital Clínic,HC,45-64,Home,6,12.13
+2025-01-09,Hospital Clínic,HC,65+,Dona,7,12.13
+2025-01-09,Hospital Clínic,HC,65+,Home,8,12.13
+2025-01-09,Hospital Sant Pau,HSP,0-14,Dona,1,5.56
+2025-01-09,Hospital Sant Pau,HSP,0-14,Home,1,5.56
+2025-01-09,Hospital Sant Pau,HSP,15-44,Dona,1,5.56
+2025-01-09,Hospital Sant Pau,HSP,15-44,Home,2,5.56
+2025-01-09,Hospital Sant Pau,HSP,45-64,Dona,2,5.56
+2025-01-09,Hospital Sant Pau,HSP,45-64,Home,0,5.56
+2025-01-09,Hospital Sant Pau,HSP,65+,Dona,4,5.56
+2025-01-09,Hospital Sant Pau,HSP,65+,Home,3,5.56
+2025-01-09,Hospital Bellvitge,HB,0-14,Dona,0,1.78
+2025-01-09,Hospital Bellvitge,HB,0-14,Home,0,1.78
+2025-01-09,Hospital Bellvitge,HB,15-44,Dona,1,1.78
+2025-01-09,Hospital Bellvitge,HB,15-44,Home,0,1.78
+2025-01-09,Hospital Bellvitge,HB,45-64,Dona,1,1.78
+2025-01-09,Hospital Bellvitge,HB,45-64,Home,1,1.78
+2025-01-09,Hospital Bellvitge,HB,65+,Dona,4,1.78
+2025-01-09,Hospital Bellvitge,HB,65+,Home,1,1.78
+2025-01-09,Hospital Can Ruti,HCR,0-14,Dona,2,0.4
+2025-01-09,Hospital Can Ruti,HCR,0-14,Home,0,0.4
+2025-01-09,Hospital Can Ruti,HCR,15-44,Dona,0,0.4
+2025-01-09,Hospital Can Ruti,HCR,15-44,Home,5,0.4
+2025-01-09,Hospital Can Ruti,HCR,45-64,Dona,1,0.4
+2025-01-09,Hospital Can Ruti,HCR,45-64,Home,2,0.4
+2025-01-09,Hospital Can Ruti,HCR,65+,Dona,3,0.4
+2025-01-09,Hospital Can Ruti,HCR,65+,Home,5,0.4
+2025-01-09,Hospital Arnau de Vilanova,HAV,0-14,Dona,2,0.06
+2025-01-09,Hospital Arnau de Vilanova,HAV,0-14,Home,1,0.06
+2025-01-09,Hospital Arnau de Vilanova,HAV,15-44,Dona,2,0.06
+2025-01-09,Hospital Arnau de Vilanova,HAV,15-44,Home,0,0.06
+2025-01-09,Hospital Arnau de Vilanova,HAV,45-64,Dona,3,0.06
+2025-01-09,Hospital Arnau de Vilanova,HAV,45-64,Home,0,0.06
+2025-01-09,Hospital Arnau de Vilanova,HAV,65+,Dona,2,0.06
+2025-01-09,Hospital Arnau de Vilanova,HAV,65+,Home,1,0.06
+2025-01-09,Hospital Josep Trueta,HJT,0-14,Dona,2,0.01
+2025-01-09,Hospital Josep Trueta,HJT,0-14,Home,0,0.01
+2025-01-09,Hospital Josep Trueta,HJT,15-44,Dona,1,0.01
+2025-01-09,Hospital Josep Trueta,HJT,15-44,Home,1,0.01
+2025-01-09,Hospital Josep Trueta,HJT,45-64,Dona,3,0.01
+2025-01-09,Hospital Josep Trueta,HJT,45-64,Home,4,0.01
+2025-01-09,Hospital Josep Trueta,HJT,65+,Dona,5,0.01
+2025-01-09,Hospital Josep Trueta,HJT,65+,Home,6,0.01
+2025-01-10,Hospital Vall d'Hebron,HVD,0-14,Dona,1,19.6
+2025-01-10,Hospital Vall d'Hebron,HVD,0-14,Home,4,19.6
+2025-01-10,Hospital Vall d'Hebron,HVD,15-44,Dona,6,19.6
+2025-01-10,Hospital Vall d'Hebron,HVD,15-44,Home,5,19.6
+2025-01-10,Hospital Vall d'Hebron,HVD,45-64,Dona,3,19.6
+2025-01-10,Hospital Vall d'Hebron,HVD,45-64,Home,6,19.6
+2025-01-10,Hospital Vall d'Hebron,HVD,65+,Dona,6,19.6
+2025-01-10,Hospital Vall d'Hebron,HVD,65+,Home,12,19.6
+2025-01-10,Hospital Clínic,HC,0-14,Dona,1,14.52
+2025-01-10,Hospital Clínic,HC,0-14,Home,2,14.52
+2025-01-10,Hospital Clínic,HC,15-44,Dona,4,14.52
+2025-01-10,Hospital Clínic,HC,15-44,Home,4,14.52
+2025-01-10,Hospital Clínic,HC,45-64,Dona,8,14.52
+2025-01-10,Hospital Clínic,HC,45-64,Home,4,14.52
+2025-01-10,Hospital Clínic,HC,65+,Dona,6,14.52
+2025-01-10,Hospital Clínic,HC,65+,Home,2,14.52
+2025-01-10,Hospital Sant Pau,HSP,0-14,Dona,2,7.51
+2025-01-10,Hospital Sant Pau,HSP,0-14,Home,2,7.51
+2025-01-10,Hospital Sant Pau,HSP,15-44,Dona,1,7.51
+2025-01-10,Hospital Sant Pau,HSP,15-44,Home,2,7.51
+2025-01-10,Hospital Sant Pau,HSP,45-64,Dona,4,7.51
+2025-01-10,Hospital Sant Pau,HSP,45-64,Home,1,7.51
+2025-01-10,Hospital Sant Pau,HSP,65+,Dona,6,7.51
+2025-01-10,Hospital Sant Pau,HSP,65+,Home,1,7.51
+2025-01-10,Hospital Bellvitge,HB,0-14,Dona,0,2.71
+2025-01-10,Hospital Bellvitge,HB,0-14,Home,0,2.71
+2025-01-10,Hospital Bellvitge,HB,15-44,Dona,1,2.71
+2025-01-10,Hospital Bellvitge,HB,15-44,Home,3,2.71
+2025-01-10,Hospital Bellvitge,HB,45-64,Dona,0,2.71
+2025-01-10,Hospital Bellvitge,HB,45-64,Home,2,2.71
+2025-01-10,Hospital Bellvitge,HB,65+,Dona,3,2.71
+2025-01-10,Hospital Bellvitge,HB,65+,Home,3,2.71
+2025-01-10,Hospital Can Ruti,HCR,0-14,Dona,1,0.68
+2025-01-10,Hospital Can Ruti,HCR,0-14,Home,2,0.68
+2025-01-10,Hospital Can Ruti,HCR,15-44,Dona,1,0.68
+2025-01-10,Hospital Can Ruti,HCR,15-44,Home,2,0.68
+2025-01-10,Hospital Can Ruti,HCR,45-64,Dona,0,0.68
+2025-01-10,Hospital Can Ruti,HCR,45-64,Home,2,0.68
+2025-01-10,Hospital Can Ruti,HCR,65+,Dona,3,0.68
+2025-01-10,Hospital Can Ruti,HCR,65+,Home,5,0.68
+2025-01-10,Hospital Arnau de Vilanova,HAV,0-14,Dona,0,0.12
+2025-01-10,Hospital Arnau de Vilanova,HAV,0-14,Home,2,0.12
+2025-01-10,Hospital Arnau de Vilanova,HAV,15-44,Dona,2,0.12
+2025-01-10,Hospital Arnau de Vilanova,HAV,15-44,Home,1,0.12
+2025-01-10,Hospital Arnau de Vilanova,HAV,45-64,Dona,1,0.12
+2025-01-10,Hospital Arnau de Vilanova,HAV,45-64,Home,0,0.12
+2025-01-10,Hospital Arnau de Vilanova,HAV,65+,Dona,2,0.12
+2025-01-10,Hospital Arnau de Vilanova,HAV,65+,Home,1,0.12
+2025-01-10,Hospital Josep Trueta,HJT,0-14,Dona,0,0.01
+2025-01-10,Hospital Josep Trueta,HJT,0-14,Home,0,0.01
+2025-01-10,Hospital Josep Trueta,HJT,15-44,Dona,6,0.01
+2025-01-10,Hospital Josep Trueta,HJT,15-44,Home,7,0.01
+2025-01-10,Hospital Josep Trueta,HJT,45-64,Dona,3,0.01
+2025-01-10,Hospital Josep Trueta,HJT,45-64,Home,3,0.01
+2025-01-10,Hospital Josep Trueta,HJT,65+,Dona,8,0.01
+2025-01-10,Hospital Josep Trueta,HJT,65+,Home,5,0.01
+2025-01-11,Hospital Vall d'Hebron,HVD,0-14,Dona,3,20.0
+2025-01-11,Hospital Vall d'Hebron,HVD,0-14,Home,2,20.0
+2025-01-11,Hospital Vall d'Hebron,HVD,15-44,Dona,2,20.0
+2025-01-11,Hospital Vall d'Hebron,HVD,15-44,Home,6,20.0
+2025-01-11,Hospital Vall d'Hebron,HVD,45-64,Dona,4,20.0
+2025-01-11,Hospital Vall d'Hebron,HVD,45-64,Home,8,20.0
+2025-01-11,Hospital Vall d'Hebron,HVD,65+,Dona,14,20.0
+2025-01-11,Hospital Vall d'Hebron,HVD,65+,Home,10,20.0
+2025-01-11,Hospital Clínic,HC,0-14,Dona,0,16.71
+2025-01-11,Hospital Clínic,HC,0-14,Home,2,16.71
+2025-01-11,Hospital Clínic,HC,15-44,Dona,7,16.71
+2025-01-11,Hospital Clínic,HC,15-44,Home,7,16.71
+2025-01-11,Hospital Clínic,HC,45-64,Dona,6,16.71
+2025-01-11,Hospital Clínic,HC,45-64,Home,2,16.71
+2025-01-11,Hospital Clínic,HC,65+,Dona,11,16.71
+2025-01-11,Hospital Clínic,HC,65+,Home,9,16.71
+2025-01-11,Hospital Sant Pau,HSP,0-14,Dona,3,9.74
+2025-01-11,Hospital Sant Pau,HSP,0-14,Home,1,9.74
+2025-01-11,Hospital Sant Pau,HSP,15-44,Dona,3,9.74
+2025-01-11,Hospital Sant Pau,HSP,15-44,Home,3,9.74
+2025-01-11,Hospital Sant Pau,HSP,45-64,Dona,2,9.74
+2025-01-11,Hospital Sant Pau,HSP,45-64,Home,4,9.74
+2025-01-11,Hospital Sant Pau,HSP,65+,Dona,4,9.74
+2025-01-11,Hospital Sant Pau,HSP,65+,Home,9,9.74
+2025-01-11,Hospital Bellvitge,HB,0-14,Dona,0,3.96
+2025-01-11,Hospital Bellvitge,HB,0-14,Home,0,3.96
+2025-01-11,Hospital Bellvitge,HB,15-44,Dona,0,3.96
+2025-01-11,Hospital Bellvitge,HB,15-44,Home,2,3.96
+2025-01-11,Hospital Bellvitge,HB,45-64,Dona,1,3.96
+2025-01-11,Hospital Bellvitge,HB,45-64,Home,2,3.96
+2025-01-11,Hospital Bellvitge,HB,65+,Dona,2,3.96
+2025-01-11,Hospital Bellvitge,HB,65+,Home,3,3.96
+2025-01-11,Hospital Can Ruti,HCR,0-14,Dona,2,1.12
+2025-01-11,Hospital Can Ruti,HCR,0-14,Home,2,1.12
+2025-01-11,Hospital Can Ruti,HCR,15-44,Dona,5,1.12
+2025-01-11,Hospital Can Ruti,HCR,15-44,Home,1,1.12
+2025-01-11,Hospital Can Ruti,HCR,45-64,Dona,3,1.12
+2025-01-11,Hospital Can Ruti,HCR,45-64,Home,1,1.12
+2025-01-11,Hospital Can Ruti,HCR,65+,Dona,2,1.12
+2025-01-11,Hospital Can Ruti,HCR,65+,Home,5,1.12
+2025-01-11,Hospital Arnau de Vilanova,HAV,0-14,Dona,1,0.22
+2025-01-11,Hospital Arnau de Vilanova,HAV,0-14,Home,1,0.22
+2025-01-11,Hospital Arnau de Vilanova,HAV,15-44,Dona,2,0.22
+2025-01-11,Hospital Arnau de Vilanova,HAV,15-44,Home,2,0.22
+2025-01-11,Hospital Arnau de Vilanova,HAV,45-64,Dona,0,0.22
+2025-01-11,Hospital Arnau de Vilanova,HAV,45-64,Home,0,0.22
+2025-01-11,Hospital Arnau de Vilanova,HAV,65+,Dona,1,0.22
+2025-01-11,Hospital Arnau de Vilanova,HAV,65+,Home,3,0.22
+2025-01-11,Hospital Josep Trueta,HJT,0-14,Dona,1,0.03
+2025-01-11,Hospital Josep Trueta,HJT,0-14,Home,2,0.03
+2025-01-11,Hospital Josep Trueta,HJT,15-44,Dona,2,0.03
+2025-01-11,Hospital Josep Trueta,HJT,15-44,Home,2,0.03
+2025-01-11,Hospital Josep Trueta,HJT,45-64,Dona,3,0.03
+2025-01-11,Hospital Josep Trueta,HJT,45-64,Home,0,0.03
+2025-01-11,Hospital Josep Trueta,HJT,65+,Dona,2,0.03
+2025-01-11,Hospital Josep Trueta,HJT,65+,Home,4,0.03
+2025-01-12,Hospital Vall d'Hebron,HVD,0-14,Dona,1,19.6
+2025-01-12,Hospital Vall d'Hebron,HVD,0-14,Home,2,19.6
+2025-01-12,Hospital Vall d'Hebron,HVD,15-44,Dona,12,19.6
+2025-01-12,Hospital Vall d'Hebron,HVD,15-44,Home,4,19.6
+2025-01-12,Hospital Vall d'Hebron,HVD,45-64,Dona,5,19.6
+2025-01-12,Hospital Vall d'Hebron,HVD,45-64,Home,5,19.6
+2025-01-12,Hospital Vall d'Hebron,HVD,65+,Dona,11,19.6
+2025-01-12,Hospital Vall d'Hebron,HVD,65+,Home,7,19.6
+2025-01-12,Hospital Clínic,HC,0-14,Dona,2,18.46
+2025-01-12,Hospital Clínic,HC,0-14,Home,1,18.46
+2025-01-12,Hospital Clínic,HC,15-44,Dona,7,18.46
+2025-01-12,Hospital Clínic,HC,15-44,Home,7,18.46
+2025-01-12,Hospital Clínic,HC,45-64,Dona,2,18.46
+2025-01-12,Hospital Clínic,HC,45-64,Home,2,18.46
+2025-01-12,Hospital Clínic,HC,65+,Dona,5,18.46
+2025-01-12,Hospital Clínic,HC,65+,Home,5,18.46
+2025-01-12,Hospital Sant Pau,HSP,0-14,Dona,0,12.13
+2025-01-12,Hospital Sant Pau,HSP,0-14,Home,1,12.13
+2025-01-12,Hospital Sant Pau,HSP,15-44,Dona,1,12.13
+2025-01-12,Hospital Sant Pau,HSP,15-44,Home,5,12.13
+2025-01-12,Hospital Sant Pau,HSP,45-64,Dona,2,12.13
+2025-01-12,Hospital Sant Pau,HSP,45-64,Home,1,12.13
+2025-01-12,Hospital Sant Pau,HSP,65+,Dona,5,12.13
+2025-01-12,Hospital Sant Pau,HSP,65+,Home,3,12.13
+2025-01-12,Hospital Bellvitge,HB,0-14,Dona,0,5.56
+2025-01-12,Hospital Bellvitge,HB,0-14,Home,0,5.56
+2025-01-12,Hospital Bellvitge,HB,15-44,Dona,1,5.56
+2025-01-12,Hospital Bellvitge,HB,15-44,Home,2,5.56
+2025-01-12,Hospital Bellvitge,HB,45-64,Dona,3,5.56
+2025-01-12,Hospital Bellvitge,HB,45-64,Home,0,5.56
+2025-01-12,Hospital Bellvitge,HB,65+,Dona,2,5.56
+2025-01-12,Hospital Bellvitge,HB,65+,Home,2,5.56
+2025-01-12,Hospital Can Ruti,HCR,0-14,Dona,1,1.78
+2025-01-12,Hospital Can Ruti,HCR,0-14,Home,1,1.78
+2025-01-12,Hospital Can Ruti,HCR,15-44,Dona,4,1.78
+2025-01-12,Hospital Can Ruti,HCR,15-44,Home,3,1.78
+2025-01-12,Hospital Can Ruti,HCR,45-64,Dona,2,1.78
+2025-01-12,Hospital Can Ruti,HCR,45-64,Home,0,1.78
+2025-01-12,Hospital Can Ruti,HCR,65+,Dona,4,1.78
+2025-01-12,Hospital Can Ruti,HCR,65+,Home,3,1.78
+2025-01-12,Hospital Arnau de Vilanova,HAV,0-14,Dona,0,0.4
+2025-01-12,Hospital Arnau de Vilanova,HAV,0-14,Home,1,0.4
+2025-01-12,Hospital Arnau de Vilanova,HAV,15-44,Dona,3,0.4
+2025-01-12,Hospital Arnau de Vilanova,HAV,15-44,Home,0,0.4
+2025-01-12,Hospital Arnau de Vilanova,HAV,45-64,Dona,1,0.4
+2025-01-12,Hospital Arnau de Vilanova,HAV,45-64,Home,3,0.4
+2025-01-12,Hospital Arnau de Vilanova,HAV,65+,Dona,1,0.4
+2025-01-12,Hospital Arnau de Vilanova,HAV,65+,Home,2,0.4
+2025-01-12,Hospital Josep Trueta,HJT,0-14,Dona,1,0.06
+2025-01-12,Hospital Josep Trueta,HJT,0-14,Home,1,0.06
+2025-01-12,Hospital Josep Trueta,HJT,15-44,Dona,1,0.06
+2025-01-12,Hospital Josep Trueta,HJT,15-44,Home,0,0.06
+2025-01-12,Hospital Josep Trueta,HJT,45-64,Dona,3,0.06
+2025-01-12,Hospital Josep Trueta,HJT,45-64,Home,1,0.06
+2025-01-12,Hospital Josep Trueta,HJT,65+,Dona,4,0.06
+2025-01-12,Hospital Josep Trueta,HJT,65+,Home,3,0.06
+2025-01-13,Hospital Vall d'Hebron,HVD,0-14,Dona,1,18.46
+2025-01-13,Hospital Vall d'Hebron,HVD,0-14,Home,2,18.46
+2025-01-13,Hospital Vall d'Hebron,HVD,15-44,Dona,4,18.46
+2025-01-13,Hospital Vall d'Hebron,HVD,15-44,Home,3,18.46
+2025-01-13,Hospital Vall d'Hebron,HVD,45-64,Dona,7,18.46
+2025-01-13,Hospital Vall d'Hebron,HVD,45-64,Home,5,18.46
+2025-01-13,Hospital Vall d'Hebron,HVD,65+,Dona,8,18.46
+2025-01-13,Hospital Vall d'Hebron,HVD,65+,Home,9,18.46
+2025-01-13,Hospital Clínic,HC,0-14,Dona,0,19.6
+2025-01-13,Hospital Clínic,HC,0-14,Home,1,19.6
+2025-01-13,Hospital Clínic,HC,15-44,Dona,7,19.6
+2025-01-13,Hospital Clínic,HC,15-44,Home,3,19.6
+2025-01-13,Hospital Clínic,HC,45-64,Dona,1,19.6
+2025-01-13,Hospital Clínic,HC,45-64,Home,4,19.6
+2025-01-13,Hospital Clínic,HC,65+,Dona,7,19.6
+2025-01-13,Hospital Clínic,HC,65+,Home,12,19.6
+2025-01-13,Hospital Sant Pau,HSP,0-14,Dona,0,14.52
+2025-01-13,Hospital Sant Pau,HSP,0-14,Home,2,14.52
+2025-01-13,Hospital Sant Pau,HSP,15-44,Dona,2,14.52
+2025-01-13,Hospital Sant Pau,HSP,15-44,Home,2,14.52
+2025-01-13,Hospital Sant Pau,HSP,45-64,Dona,2,14.52
+2025-01-13,Hospital Sant Pau,HSP,45-64,Home,3,14.52
+2025-01-13,Hospital Sant Pau,HSP,65+,Dona,6,14.52
+2025-01-13,Hospital Sant Pau,HSP,65+,Home,10,14.52
+2025-01-13,Hospital Bellvitge,HB,0-14,Dona,1,7.51
+2025-01-13,Hospital Bellvitge,HB,0-14,Home,1,7.51
+2025-01-13,Hospital Bellvitge,HB,15-44,Dona,3,7.51
+2025-01-13,Hospital Bellvitge,HB,15-44,Home,2,7.51
+2025-01-13,Hospital Bellvitge,HB,45-64,Dona,2,7.51
+2025-01-13,Hospital Bellvitge,HB,45-64,Home,2,7.51
+2025-01-13,Hospital Bellvitge,HB,65+,Dona,4,7.51
+2025-01-13,Hospital Bellvitge,HB,65+,Home,3,7.51
+2025-01-13,Hospital Can Ruti,HCR,0-14,Dona,2,2.71
+2025-01-13,Hospital Can Ruti,HCR,0-14,Home,1,2.71
+2025-01-13,Hospital Can Ruti,HCR,15-44,Dona,1,2.71
+2025-01-13,Hospital Can Ruti,HCR,15-44,Home,1,2.71
+2025-01-13,Hospital Can Ruti,HCR,45-64,Dona,1,2.71
+2025-01-13,Hospital Can Ruti,HCR,45-64,Home,2,2.71
+2025-01-13,Hospital Can Ruti,HCR,65+,Dona,5,2.71
+2025-01-13,Hospital Can Ruti,HCR,65+,Home,6,2.71
+2025-01-13,Hospital Arnau de Vilanova,HAV,0-14,Dona,1,0.68
+2025-01-13,Hospital Arnau de Vilanova,HAV,0-14,Home,0,0.68
+2025-01-13,Hospital Arnau de Vilanova,HAV,15-44,Dona,0,0.68
+2025-01-13,Hospital Arnau de Vilanova,HAV,15-44,Home,0,0.68
+2025-01-13,Hospital Arnau de Vilanova,HAV,45-64,Dona,0,0.68
+2025-01-13,Hospital Arnau de Vilanova,HAV,45-64,Home,0,0.68
+2025-01-13,Hospital Arnau de Vilanova,HAV,65+,Dona,2,0.68
+2025-01-13,Hospital Arnau de Vilanova,HAV,65+,Home,0,0.68
+2025-01-13,Hospital Josep Trueta,HJT,0-14,Dona,1,0.12
+2025-01-13,Hospital Josep Trueta,HJT,0-14,Home,1,0.12
+2025-01-13,Hospital Josep Trueta,HJT,15-44,Dona,1,0.12
+2025-01-13,Hospital Josep Trueta,HJT,15-44,Home,2,0.12
+2025-01-13,Hospital Josep Trueta,HJT,45-64,Dona,0,0.12
+2025-01-13,Hospital Josep Trueta,HJT,45-64,Home,5,0.12
+2025-01-13,Hospital Josep Trueta,HJT,65+,Dona,5,0.12
+2025-01-13,Hospital Josep Trueta,HJT,65+,Home,3,0.12
+2025-01-14,Hospital Vall d'Hebron,HVD,0-14,Dona,3,16.71
+2025-01-14,Hospital Vall d'Hebron,HVD,0-14,Home,2,16.71
+2025-01-14,Hospital Vall d'Hebron,HVD,15-44,Dona,4,16.71
+2025-01-14,Hospital Vall d'Hebron,HVD,15-44,Home,1,16.71
+2025-01-14,Hospital Vall d'Hebron,HVD,45-64,Dona,6,16.71
+2025-01-14,Hospital Vall d'Hebron,HVD,45-64,Home,2,16.71
+2025-01-14,Hospital Vall d'Hebron,HVD,65+,Dona,5,16.71
+2025-01-14,Hospital Vall d'Hebron,HVD,65+,Home,10,16.71
+2025-01-14,Hospital Clínic,HC,0-14,Dona,3,20.0
+2025-01-14,Hospital Clínic,HC,0-14,Home,4,20.0
+2025-01-14,Hospital Clínic,HC,15-44,Dona,6,20.0
+2025-01-14,Hospital Clínic,HC,15-44,Home,2,20.0
+2025-01-14,Hospital Clínic,HC,45-64,Dona,9,20.0
+2025-01-14,Hospital Clínic,HC,45-64,Home,5,20.0
+2025-01-14,Hospital Clínic,HC,65+,Dona,10,20.0
+2025-01-14,Hospital Clínic,HC,65+,Home,8,20.0
+2025-01-14,Hospital Sant Pau,HSP,0-14,Dona,1,16.71
+2025-01-14,Hospital Sant Pau,HSP,0-14,Home,0,16.71
+2025-01-14,Hospital Sant Pau,HSP,15-44,Dona,6,16.71
+2025-01-14,Hospital Sant Pau,HSP,15-44,Home,3,16.71
+2025-01-14,Hospital Sant Pau,HSP,45-64,Dona,1,16.71
+2025-01-14,Hospital Sant Pau,HSP,45-64,Home,4,16.71
+2025-01-14,Hospital Sant Pau,HSP,65+,Dona,8,16.71
+2025-01-14,Hospital Sant Pau,HSP,65+,Home,8,16.71
+2025-01-14,Hospital Bellvitge,HB,0-14,Dona,1,9.74
+2025-01-14,Hospital Bellvitge,HB,0-14,Home,1,9.74
+2025-01-14,Hospital Bellvitge,HB,15-44,Dona,3,9.74
+2025-01-14,Hospital Bellvitge,HB,15-44,Home,3,9.74
+2025-01-14,Hospital Bellvitge,HB,45-64,Dona,1,9.74
+2025-01-14,Hospital Bellvitge,HB,45-64,Home,0,9.74
+2025-01-14,Hospital Bellvitge,HB,65+,Dona,2,9.74
+2025-01-14,Hospital Bellvitge,HB,65+,Home,1,9.74
+2025-01-14,Hospital Can Ruti,HCR,0-14,Dona,0,3.96
+2025-01-14,Hospital Can Ruti,HCR,0-14,Home,0,3.96
+2025-01-14,Hospital Can Ruti,HCR,15-44,Dona,1,3.96
+2025-01-14,Hospital Can Ruti,HCR,15-44,Home,2,3.96
+2025-01-14,Hospital Can Ruti,HCR,45-64,Dona,1,3.96
+2025-01-14,Hospital Can Ruti,HCR,45-64,Home,0,3.96
+2025-01-14,Hospital Can Ruti,HCR,65+,Dona,5,3.96
+2025-01-14,Hospital Can Ruti,HCR,65+,Home,7,3.96
+2025-01-14,Hospital Arnau de Vilanova,HAV,0-14,Dona,0,1.12
+2025-01-14,Hospital Arnau de Vilanova,HAV,0-14,Home,1,1.12
+2025-01-14,Hospital Arnau de Vilanova,HAV,15-44,Dona,2,1.12
+2025-01-14,Hospital Arnau de Vilanova,HAV,15-44,Home,2,1.12
+2025-01-14,Hospital Arnau de Vilanova,HAV,45-64,Dona,3,1.12
+2025-01-14,Hospital Arnau de Vilanova,HAV,45-64,Home,1,1.12
+2025-01-14,Hospital Arnau de Vilanova,HAV,65+,Dona,1,1.12
+2025-01-14,Hospital Arnau de Vilanova,HAV,65+,Home,4,1.12
+2025-01-14,Hospital Josep Trueta,HJT,0-14,Dona,0,0.22
+2025-01-14,Hospital Josep Trueta,HJT,0-14,Home,0,0.22
+2025-01-14,Hospital Josep Trueta,HJT,15-44,Dona,1,0.22
+2025-01-14,Hospital Josep Trueta,HJT,15-44,Home,0,0.22
+2025-01-14,Hospital Josep Trueta,HJT,45-64,Dona,2,0.22
+2025-01-14,Hospital Josep Trueta,HJT,45-64,Home,1,0.22
+2025-01-14,Hospital Josep Trueta,HJT,65+,Dona,3,0.22
+2025-01-14,Hospital Josep Trueta,HJT,65+,Home,2,0.22
+2025-01-15,Hospital Vall d'Hebron,HVD,0-14,Dona,2,14.52
+2025-01-15,Hospital Vall d'Hebron,HVD,0-14,Home,1,14.52
+2025-01-15,Hospital Vall d'Hebron,HVD,15-44,Dona,1,14.52
+2025-01-15,Hospital Vall d'Hebron,HVD,15-44,Home,3,14.52
+2025-01-15,Hospital Vall d'Hebron,HVD,45-64,Dona,5,14.52
+2025-01-15,Hospital Vall d'Hebron,HVD,45-64,Home,4,14.52
+2025-01-15,Hospital Vall d'Hebron,HVD,65+,Dona,10,14.52
+2025-01-15,Hospital Vall d'Hebron,HVD,65+,Home,10,14.52
+2025-01-15,Hospital Clínic,HC,0-14,Dona,1,19.6
+2025-01-15,Hospital Clínic,HC,0-14,Home,4,19.6
+2025-01-15,Hospital Clínic,HC,15-44,Dona,7,19.6
+2025-01-15,Hospital Clínic,HC,15-44,Home,5,19.6
+2025-01-15,Hospital Clínic,HC,45-64,Dona,7,19.6
+2025-01-15,Hospital Clínic,HC,45-64,Home,4,19.6
+2025-01-15,Hospital Clínic,HC,65+,Dona,8,19.6
+2025-01-15,Hospital Clínic,HC,65+,Home,12,19.6
+2025-01-15,Hospital Sant Pau,HSP,0-14,Dona,0,18.46
+2025-01-15,Hospital Sant Pau,HSP,0-14,Home,2,18.46
+2025-01-15,Hospital Sant Pau,HSP,15-44,Dona,5,18.46
+2025-01-15,Hospital Sant Pau,HSP,15-44,Home,4,18.46
+2025-01-15,Hospital Sant Pau,HSP,45-64,Dona,1,18.46
+2025-01-15,Hospital Sant Pau,HSP,45-64,Home,2,18.46
+2025-01-15,Hospital Sant Pau,HSP,65+,Dona,10,18.46
+2025-01-15,Hospital Sant Pau,HSP,65+,Home,1,18.46
+2025-01-15,Hospital Bellvitge,HB,0-14,Dona,0,12.13
+2025-01-15,Hospital Bellvitge,HB,0-14,Home,0,12.13
+2025-01-15,Hospital Bellvitge,HB,15-44,Dona,3,12.13
+2025-01-15,Hospital Bellvitge,HB,15-44,Home,1,12.13
+2025-01-15,Hospital Bellvitge,HB,45-64,Dona,3,12.13
+2025-01-15,Hospital Bellvitge,HB,45-64,Home,4,12.13
+2025-01-15,Hospital Bellvitge,HB,65+,Dona,4,12.13
+2025-01-15,Hospital Bellvitge,HB,65+,Home,3,12.13
+2025-01-15,Hospital Can Ruti,HCR,0-14,Dona,1,5.56
+2025-01-15,Hospital Can Ruti,HCR,0-14,Home,4,5.56
+2025-01-15,Hospital Can Ruti,HCR,15-44,Dona,1,5.56
+2025-01-15,Hospital Can Ruti,HCR,15-44,Home,2,5.56
+2025-01-15,Hospital Can Ruti,HCR,45-64,Dona,4,5.56
+2025-01-15,Hospital Can Ruti,HCR,45-64,Home,4,5.56
+2025-01-15,Hospital Can Ruti,HCR,65+,Dona,4,5.56
+2025-01-15,Hospital Can Ruti,HCR,65+,Home,3,5.56
+2025-01-15,Hospital Arnau de Vilanova,HAV,0-14,Dona,0,1.78
+2025-01-15,Hospital Arnau de Vilanova,HAV,0-14,Home,1,1.78
+2025-01-15,Hospital Arnau de Vilanova,HAV,15-44,Dona,0,1.78
+2025-01-15,Hospital Arnau de Vilanova,HAV,15-44,Home,1,1.78
+2025-01-15,Hospital Arnau de Vilanova,HAV,45-64,Dona,2,1.78
+2025-01-15,Hospital Arnau de Vilanova,HAV,45-64,Home,1,1.78
+2025-01-15,Hospital Arnau de Vilanova,HAV,65+,Dona,9,1.78
+2025-01-15,Hospital Arnau de Vilanova,HAV,65+,Home,4,1.78
+2025-01-15,Hospital Josep Trueta,HJT,0-14,Dona,1,0.4
+2025-01-15,Hospital Josep Trueta,HJT,0-14,Home,0,0.4
+2025-01-15,Hospital Josep Trueta,HJT,15-44,Dona,2,0.4
+2025-01-15,Hospital Josep Trueta,HJT,15-44,Home,1,0.4
+2025-01-15,Hospital Josep Trueta,HJT,45-64,Dona,1,0.4
+2025-01-15,Hospital Josep Trueta,HJT,45-64,Home,3,0.4
+2025-01-15,Hospital Josep Trueta,HJT,65+,Dona,1,0.4
+2025-01-15,Hospital Josep Trueta,HJT,65+,Home,4,0.4
+2025-01-16,Hospital Vall d'Hebron,HVD,0-14,Dona,0,12.13
+2025-01-16,Hospital Vall d'Hebron,HVD,0-14,Home,4,12.13
+2025-01-16,Hospital Vall d'Hebron,HVD,15-44,Dona,5,12.13
+2025-01-16,Hospital Vall d'Hebron,HVD,15-44,Home,7,12.13
+2025-01-16,Hospital Vall d'Hebron,HVD,45-64,Dona,6,12.13
+2025-01-16,Hospital Vall d'Hebron,HVD,45-64,Home,1,12.13
+2025-01-16,Hospital Vall d'Hebron,HVD,65+,Dona,6,12.13
+2025-01-16,Hospital Vall d'Hebron,HVD,65+,Home,5,12.13
+2025-01-16,Hospital Clínic,HC,0-14,Dona,0,18.46
+2025-01-16,Hospital Clínic,HC,0-14,Home,1,18.46
+2025-01-16,Hospital Clínic,HC,15-44,Dona,4,18.46
+2025-01-16,Hospital Clínic,HC,15-44,Home,2,18.46
+2025-01-16,Hospital Clínic,HC,45-64,Dona,13,18.46
+2025-01-16,Hospital Clínic,HC,45-64,Home,7,18.46
+2025-01-16,Hospital Clínic,HC,65+,Dona,7,18.46
+2025-01-16,Hospital Clínic,HC,65+,Home,4,18.46
+2025-01-16,Hospital Sant Pau,HSP,0-14,Dona,0,19.6
+2025-01-16,Hospital Sant Pau,HSP,0-14,Home,2,19.6
+2025-01-16,Hospital Sant Pau,HSP,15-44,Dona,4,19.6
+2025-01-16,Hospital Sant Pau,HSP,15-44,Home,4,19.6
+2025-01-16,Hospital Sant Pau,HSP,45-64,Dona,2,19.6
+2025-01-16,Hospital Sant Pau,HSP,45-64,Home,4,19.6
+2025-01-16,Hospital Sant Pau,HSP,65+,Dona,8,19.6
+2025-01-16,Hospital Sant Pau,HSP,65+,Home,0,19.6
+2025-01-16,Hospital Bellvitge,HB,0-14,Dona,0,14.52
+2025-01-16,Hospital Bellvitge,HB,0-14,Home,1,14.52
+2025-01-16,Hospital Bellvitge,HB,15-44,Dona,6,14.52
+2025-01-16,Hospital Bellvitge,HB,15-44,Home,1,14.52
+2025-01-16,Hospital Bellvitge,HB,45-64,Dona,6,14.52
+2025-01-16,Hospital Bellvitge,HB,45-64,Home,3,14.52
+2025-01-16,Hospital Bellvitge,HB,65+,Dona,5,14.52
+2025-01-16,Hospital Bellvitge,HB,65+,Home,5,14.52
+2025-01-16,Hospital Can Ruti,HCR,0-14,Dona,3,7.51
+2025-01-16,Hospital Can Ruti,HCR,0-14,Home,0,7.51
+2025-01-16,Hospital Can Ruti,HCR,15-44,Dona,3,7.51
+2025-01-16,Hospital Can Ruti,HCR,15-44,Home,4,7.51
+2025-01-16,Hospital Can Ruti,HCR,45-64,Dona,3,7.51
+2025-01-16,Hospital Can Ruti,HCR,45-64,Home,4,7.51
+2025-01-16,Hospital Can Ruti,HCR,65+,Dona,4,7.51
+2025-01-16,Hospital Can Ruti,HCR,65+,Home,2,7.51
+2025-01-16,Hospital Arnau de Vilanova,HAV,0-14,Dona,0,2.71
+2025-01-16,Hospital Arnau de Vilanova,HAV,0-14,Home,0,2.71
+2025-01-16,Hospital Arnau de Vilanova,HAV,15-44,Dona,2,2.71
+2025-01-16,Hospital Arnau de Vilanova,HAV,15-44,Home,0,2.71
+2025-01-16,Hospital Arnau de Vilanova,HAV,45-64,Dona,1,2.71
+2025-01-16,Hospital Arnau de Vilanova,HAV,45-64,Home,1,2.71
+2025-01-16,Hospital Arnau de Vilanova,HAV,65+,Dona,3,2.71
+2025-01-16,Hospital Arnau de Vilanova,HAV,65+,Home,2,2.71
+2025-01-16,Hospital Josep Trueta,HJT,0-14,Dona,3,0.68
+2025-01-16,Hospital Josep Trueta,HJT,0-14,Home,0,0.68
+2025-01-16,Hospital Josep Trueta,HJT,15-44,Dona,2,0.68
+2025-01-16,Hospital Josep Trueta,HJT,15-44,Home,1,0.68
+2025-01-16,Hospital Josep Trueta,HJT,45-64,Dona,4,0.68
+2025-01-16,Hospital Josep Trueta,HJT,45-64,Home,0,0.68
+2025-01-16,Hospital Josep Trueta,HJT,65+,Dona,6,0.68
+2025-01-16,Hospital Josep Trueta,HJT,65+,Home,8,0.68
+2025-01-17,Hospital Vall d'Hebron,HVD,0-14,Dona,0,9.74
+2025-01-17,Hospital Vall d'Hebron,HVD,0-14,Home,1,9.74
+2025-01-17,Hospital Vall d'Hebron,HVD,15-44,Dona,4,9.74
+2025-01-17,Hospital Vall d'Hebron,HVD,15-44,Home,4,9.74
+2025-01-17,Hospital Vall d'Hebron,HVD,45-64,Dona,3,9.74
+2025-01-17,Hospital Vall d'Hebron,HVD,45-64,Home,3,9.74
+2025-01-17,Hospital Vall d'Hebron,HVD,65+,Dona,5,9.74
+2025-01-17,Hospital Vall d'Hebron,HVD,65+,Home,6,9.74
+2025-01-17,Hospital Clínic,HC,0-14,Dona,2,16.71
+2025-01-17,Hospital Clínic,HC,0-14,Home,3,16.71
+2025-01-17,Hospital Clínic,HC,15-44,Dona,3,16.71
+2025-01-17,Hospital Clínic,HC,15-44,Home,4,16.71
+2025-01-17,Hospital Clínic,HC,45-64,Dona,5,16.71
+2025-01-17,Hospital Clínic,HC,45-64,Home,6,16.71
+2025-01-17,Hospital Clínic,HC,65+,Dona,8,16.71
+2025-01-17,Hospital Clínic,HC,65+,Home,16,16.71
+2025-01-17,Hospital Sant Pau,HSP,0-14,Dona,0,20.0
+2025-01-17,Hospital Sant Pau,HSP,0-14,Home,2,20.0
+2025-01-17,Hospital Sant Pau,HSP,15-44,Dona,3,20.0
+2025-01-17,Hospital Sant Pau,HSP,15-44,Home,2,20.0
+2025-01-17,Hospital Sant Pau,HSP,45-64,Dona,2,20.0
+2025-01-17,Hospital Sant Pau,HSP,45-64,Home,3,20.0
+2025-01-17,Hospital Sant Pau,HSP,65+,Dona,9,20.0
+2025-01-17,Hospital Sant Pau,HSP,65+,Home,6,20.0
+2025-01-17,Hospital Bellvitge,HB,0-14,Dona,0,16.71
+2025-01-17,Hospital Bellvitge,HB,0-14,Home,0,16.71
+2025-01-17,Hospital Bellvitge,HB,15-44,Dona,4,16.71
+2025-01-17,Hospital Bellvitge,HB,15-44,Home,8,16.71
+2025-01-17,Hospital Bellvitge,HB,45-64,Dona,3,16.71
+2025-01-17,Hospital Bellvitge,HB,45-64,Home,2,16.71
+2025-01-17,Hospital Bellvitge,HB,65+,Dona,10,16.71
+2025-01-17,Hospital Bellvitge,HB,65+,Home,6,16.71
+2025-01-17,Hospital Can Ruti,HCR,0-14,Dona,4,9.74
+2025-01-17,Hospital Can Ruti,HCR,0-14,Home,0,9.74
+2025-01-17,Hospital Can Ruti,HCR,15-44,Dona,4,9.74
+2025-01-17,Hospital Can Ruti,HCR,15-44,Home,5,9.74
+2025-01-17,Hospital Can Ruti,HCR,45-64,Dona,2,9.74
+2025-01-17,Hospital Can Ruti,HCR,45-64,Home,3,9.74
+2025-01-17,Hospital Can Ruti,HCR,65+,Dona,4,9.74
+2025-01-17,Hospital Can Ruti,HCR,65+,Home,6,9.74
+2025-01-17,Hospital Arnau de Vilanova,HAV,0-14,Dona,2,3.96
+2025-01-17,Hospital Arnau de Vilanova,HAV,0-14,Home,0,3.96
+2025-01-17,Hospital Arnau de Vilanova,HAV,15-44,Dona,1,3.96
+2025-01-17,Hospital Arnau de Vilanova,HAV,15-44,Home,3,3.96
+2025-01-17,Hospital Arnau de Vilanova,HAV,45-64,Dona,4,3.96
+2025-01-17,Hospital Arnau de Vilanova,HAV,45-64,Home,6,3.96
+2025-01-17,Hospital Arnau de Vilanova,HAV,65+,Dona,2,3.96
+2025-01-17,Hospital Arnau de Vilanova,HAV,65+,Home,3,3.96
+2025-01-17,Hospital Josep Trueta,HJT,0-14,Dona,0,1.12
+2025-01-17,Hospital Josep Trueta,HJT,0-14,Home,1,1.12
+2025-01-17,Hospital Josep Trueta,HJT,15-44,Dona,1,1.12
+2025-01-17,Hospital Josep Trueta,HJT,15-44,Home,2,1.12
+2025-01-17,Hospital Josep Trueta,HJT,45-64,Dona,0,1.12
+2025-01-17,Hospital Josep Trueta,HJT,45-64,Home,1,1.12
+2025-01-17,Hospital Josep Trueta,HJT,65+,Dona,3,1.12
+2025-01-17,Hospital Josep Trueta,HJT,65+,Home,7,1.12
+2025-01-18,Hospital Vall d'Hebron,HVD,0-14,Dona,2,7.51
+2025-01-18,Hospital Vall d'Hebron,HVD,0-14,Home,3,7.51
+2025-01-18,Hospital Vall d'Hebron,HVD,15-44,Dona,1,7.51
+2025-01-18,Hospital Vall d'Hebron,HVD,15-44,Home,1,7.51
+2025-01-18,Hospital Vall d'Hebron,HVD,45-64,Dona,2,7.51
+2025-01-18,Hospital Vall d'Hebron,HVD,45-64,Home,3,7.51
+2025-01-18,Hospital Vall d'Hebron,HVD,65+,Dona,3,7.51
+2025-01-18,Hospital Vall d'Hebron,HVD,65+,Home,5,7.51
+2025-01-18,Hospital Clínic,HC,0-14,Dona,4,14.52
+2025-01-18,Hospital Clínic,HC,0-14,Home,1,14.52
+2025-01-18,Hospital Clínic,HC,15-44,Dona,2,14.52
+2025-01-18,Hospital Clínic,HC,15-44,Home,1,14.52
+2025-01-18,Hospital Clínic,HC,45-64,Dona,3,14.52
+2025-01-18,Hospital Clínic,HC,45-64,Home,6,14.52
+2025-01-18,Hospital Clínic,HC,65+,Dona,11,14.52
+2025-01-18,Hospital Clínic,HC,65+,Home,10,14.52
+2025-01-18,Hospital Sant Pau,HSP,0-14,Dona,5,19.6
+2025-01-18,Hospital Sant Pau,HSP,0-14,Home,1,19.6
+2025-01-18,Hospital Sant Pau,HSP,15-44,Dona,2,19.6
+2025-01-18,Hospital Sant Pau,HSP,15-44,Home,3,19.6
+2025-01-18,Hospital Sant Pau,HSP,45-64,Dona,4,19.6
+2025-01-18,Hospital Sant Pau,HSP,45-64,Home,4,19.6
+2025-01-18,Hospital Sant Pau,HSP,65+,Dona,11,19.6
+2025-01-18,Hospital Sant Pau,HSP,65+,Home,6,19.6
+2025-01-18,Hospital Bellvitge,HB,0-14,Dona,0,18.46
+2025-01-18,Hospital Bellvitge,HB,0-14,Home,1,18.46
+2025-01-18,Hospital Bellvitge,HB,15-44,Dona,5,18.46
+2025-01-18,Hospital Bellvitge,HB,15-44,Home,2,18.46
+2025-01-18,Hospital Bellvitge,HB,45-64,Dona,1,18.46
+2025-01-18,Hospital Bellvitge,HB,45-64,Home,3,18.46
+2025-01-18,Hospital Bellvitge,HB,65+,Dona,4,18.46
+2025-01-18,Hospital Bellvitge,HB,65+,Home,2,18.46
+2025-01-18,Hospital Can Ruti,HCR,0-14,Dona,1,12.13
+2025-01-18,Hospital Can Ruti,HCR,0-14,Home,1,12.13
+2025-01-18,Hospital Can Ruti,HCR,15-44,Dona,4,12.13
+2025-01-18,Hospital Can Ruti,HCR,15-44,Home,5,12.13
+2025-01-18,Hospital Can Ruti,HCR,45-64,Dona,0,12.13
+2025-01-18,Hospital Can Ruti,HCR,45-64,Home,3,12.13
+2025-01-18,Hospital Can Ruti,HCR,65+,Dona,2,12.13
+2025-01-18,Hospital Can Ruti,HCR,65+,Home,5,12.13
+2025-01-18,Hospital Arnau de Vilanova,HAV,0-14,Dona,0,5.56
+2025-01-18,Hospital Arnau de Vilanova,HAV,0-14,Home,0,5.56
+2025-01-18,Hospital Arnau de Vilanova,HAV,15-44,Dona,2,5.56
+2025-01-18,Hospital Arnau de Vilanova,HAV,15-44,Home,3,5.56
+2025-01-18,Hospital Arnau de Vilanova,HAV,45-64,Dona,2,5.56
+2025-01-18,Hospital Arnau de Vilanova,HAV,45-64,Home,3,5.56
+2025-01-18,Hospital Arnau de Vilanova,HAV,65+,Dona,2,5.56
+2025-01-18,Hospital Arnau de Vilanova,HAV,65+,Home,4,5.56
+2025-01-18,Hospital Josep Trueta,HJT,0-14,Dona,0,1.78
+2025-01-18,Hospital Josep Trueta,HJT,0-14,Home,0,1.78
+2025-01-18,Hospital Josep Trueta,HJT,15-44,Dona,2,1.78
+2025-01-18,Hospital Josep Trueta,HJT,15-44,Home,2,1.78
+2025-01-18,Hospital Josep Trueta,HJT,45-64,Dona,2,1.78
+2025-01-18,Hospital Josep Trueta,HJT,45-64,Home,3,1.78
+2025-01-18,Hospital Josep Trueta,HJT,65+,Dona,6,1.78
+2025-01-18,Hospital Josep Trueta,HJT,65+,Home,7,1.78
+2025-01-19,Hospital Vall d'Hebron,HVD,0-14,Dona,3,5.56
+2025-01-19,Hospital Vall d'Hebron,HVD,0-14,Home,2,5.56
+2025-01-19,Hospital Vall d'Hebron,HVD,15-44,Dona,2,5.56
+2025-01-19,Hospital Vall d'Hebron,HVD,15-44,Home,4,5.56
+2025-01-19,Hospital Vall d'Hebron,HVD,45-64,Dona,3,5.56
+2025-01-19,Hospital Vall d'Hebron,HVD,45-64,Home,3,5.56
+2025-01-19,Hospital Vall d'Hebron,HVD,65+,Dona,6,5.56
+2025-01-19,Hospital Vall d'Hebron,HVD,65+,Home,5,5.56
+2025-01-19,Hospital Clínic,HC,0-14,Dona,2,12.13
+2025-01-19,Hospital Clínic,HC,0-14,Home,3,12.13
+2025-01-19,Hospital Clínic,HC,15-44,Dona,2,12.13
+2025-01-19,Hospital Clínic,HC,15-44,Home,4,12.13
+2025-01-19,Hospital Clínic,HC,45-64,Dona,6,12.13
+2025-01-19,Hospital Clínic,HC,45-64,Home,6,12.13
+2025-01-19,Hospital Clínic,HC,65+,Dona,2,12.13
+2025-01-19,Hospital Clínic,HC,65+,Home,11,12.13
+2025-01-19,Hospital Sant Pau,HSP,0-14,Dona,1,18.46
+2025-01-19,Hospital Sant Pau,HSP,0-14,Home,1,18.46
+2025-01-19,Hospital Sant Pau,HSP,15-44,Dona,2,18.46
+2025-01-19,Hospital Sant Pau,HSP,15-44,Home,2,18.46
+2025-01-19,Hospital Sant Pau,HSP,45-64,Dona,6,18.46
+2025-01-19,Hospital Sant Pau,HSP,45-64,Home,4,18.46
+2025-01-19,Hospital Sant Pau,HSP,65+,Dona,4,18.46
+2025-01-19,Hospital Sant Pau,HSP,65+,Home,6,18.46
+2025-01-19,Hospital Bellvitge,HB,0-14,Dona,2,19.6
+2025-01-19,Hospital Bellvitge,HB,0-14,Home,2,19.6
+2025-01-19,Hospital Bellvitge,HB,15-44,Dona,4,19.6
+2025-01-19,Hospital Bellvitge,HB,15-44,Home,4,19.6
+2025-01-19,Hospital Bellvitge,HB,45-64,Dona,1,19.6
+2025-01-19,Hospital Bellvitge,HB,45-64,Home,3,19.6
+2025-01-19,Hospital Bellvitge,HB,65+,Dona,4,19.6
+2025-01-19,Hospital Bellvitge,HB,65+,Home,9,19.6
+2025-01-19,Hospital Can Ruti,HCR,0-14,Dona,0,14.52
+2025-01-19,Hospital Can Ruti,HCR,0-14,Home,0,14.52
+2025-01-19,Hospital Can Ruti,HCR,15-44,Dona,4,14.52
+2025-01-19,Hospital Can Ruti,HCR,15-44,Home,3,14.52
+2025-01-19,Hospital Can Ruti,HCR,45-64,Dona,2,14.52
+2025-01-19,Hospital Can Ruti,HCR,45-64,Home,3,14.52
+2025-01-19,Hospital Can Ruti,HCR,65+,Dona,6,14.52
+2025-01-19,Hospital Can Ruti,HCR,65+,Home,9,14.52
+2025-01-19,Hospital Arnau de Vilanova,HAV,0-14,Dona,0,7.51
+2025-01-19,Hospital Arnau de Vilanova,HAV,0-14,Home,1,7.51
+2025-01-19,Hospital Arnau de Vilanova,HAV,15-44,Dona,1,7.51
+2025-01-19,Hospital Arnau de Vilanova,HAV,15-44,Home,0,7.51
+2025-01-19,Hospital Arnau de Vilanova,HAV,45-64,Dona,1,7.51
+2025-01-19,Hospital Arnau de Vilanova,HAV,45-64,Home,3,7.51
+2025-01-19,Hospital Arnau de Vilanova,HAV,65+,Dona,6,7.51
+2025-01-19,Hospital Arnau de Vilanova,HAV,65+,Home,4,7.51
+2025-01-19,Hospital Josep Trueta,HJT,0-14,Dona,1,2.71
+2025-01-19,Hospital Josep Trueta,HJT,0-14,Home,1,2.71
+2025-01-19,Hospital Josep Trueta,HJT,15-44,Dona,2,2.71
+2025-01-19,Hospital Josep Trueta,HJT,15-44,Home,4,2.71
+2025-01-19,Hospital Josep Trueta,HJT,45-64,Dona,3,2.71
+2025-01-19,Hospital Josep Trueta,HJT,45-64,Home,2,2.71
+2025-01-19,Hospital Josep Trueta,HJT,65+,Dona,3,2.71
+2025-01-19,Hospital Josep Trueta,HJT,65+,Home,2,2.71
+2025-01-20,Hospital Vall d'Hebron,HVD,0-14,Dona,2,3.96
+2025-01-20,Hospital Vall d'Hebron,HVD,0-14,Home,3,3.96
+2025-01-20,Hospital Vall d'Hebron,HVD,15-44,Dona,3,3.96
+2025-01-20,Hospital Vall d'Hebron,HVD,15-44,Home,6,3.96
+2025-01-20,Hospital Vall d'Hebron,HVD,45-64,Dona,2,3.96
+2025-01-20,Hospital Vall d'Hebron,HVD,45-64,Home,3,3.96
+2025-01-20,Hospital Vall d'Hebron,HVD,65+,Dona,2,3.96
+2025-01-20,Hospital Vall d'Hebron,HVD,65+,Home,9,3.96
+2025-01-20,Hospital Clínic,HC,0-14,Dona,2,9.74
+2025-01-20,Hospital Clínic,HC,0-14,Home,1,9.74
+2025-01-20,Hospital Clínic,HC,15-44,Dona,3,9.74
+2025-01-20,Hospital Clínic,HC,15-44,Home,3,9.74
+2025-01-20,Hospital Clínic,HC,45-64,Dona,0,9.74
+2025-01-20,Hospital Clínic,HC,45-64,Home,1,9.74
+2025-01-20,Hospital Clínic,HC,65+,Dona,2,9.74
+2025-01-20,Hospital Clínic,HC,65+,Home,3,9.74
+2025-01-20,Hospital Sant Pau,HSP,0-14,Dona,2,16.71
+2025-01-20,Hospital Sant Pau,HSP,0-14,Home,2,16.71
+2025-01-20,Hospital Sant Pau,HSP,15-44,Dona,1,16.71
+2025-01-20,Hospital Sant Pau,HSP,15-44,Home,1,16.71
+2025-01-20,Hospital Sant Pau,HSP,45-64,Dona,2,16.71
+2025-01-20,Hospital Sant Pau,HSP,45-64,Home,3,16.71
+2025-01-20,Hospital Sant Pau,HSP,65+,Dona,5,16.71
+2025-01-20,Hospital Sant Pau,HSP,65+,Home,3,16.71
+2025-01-20,Hospital Bellvitge,HB,0-14,Dona,2,20.0
+2025-01-20,Hospital Bellvitge,HB,0-14,Home,1,20.0
+2025-01-20,Hospital Bellvitge,HB,15-44,Dona,2,20.0
+2025-01-20,Hospital Bellvitge,HB,15-44,Home,3,20.0
+2025-01-20,Hospital Bellvitge,HB,45-64,Dona,1,20.0
+2025-01-20,Hospital Bellvitge,HB,45-64,Home,2,20.0
+2025-01-20,Hospital Bellvitge,HB,65+,Dona,6,20.0
+2025-01-20,Hospital Bellvitge,HB,65+,Home,10,20.0
+2025-01-20,Hospital Can Ruti,HCR,0-14,Dona,4,16.71
+2025-01-20,Hospital Can Ruti,HCR,0-14,Home,4,16.71
+2025-01-20,Hospital Can Ruti,HCR,15-44,Dona,2,16.71
+2025-01-20,Hospital Can Ruti,HCR,15-44,Home,2,16.71
+2025-01-20,Hospital Can Ruti,HCR,45-64,Dona,6,16.71
+2025-01-20,Hospital Can Ruti,HCR,45-64,Home,3,16.71
+2025-01-20,Hospital Can Ruti,HCR,65+,Dona,3,16.71
+2025-01-20,Hospital Can Ruti,HCR,65+,Home,5,16.71
+2025-01-20,Hospital Arnau de Vilanova,HAV,0-14,Dona,0,9.74
+2025-01-20,Hospital Arnau de Vilanova,HAV,0-14,Home,2,9.74
+2025-01-20,Hospital Arnau de Vilanova,HAV,15-44,Dona,2,9.74
+2025-01-20,Hospital Arnau de Vilanova,HAV,15-44,Home,2,9.74
+2025-01-20,Hospital Arnau de Vilanova,HAV,45-64,Dona,2,9.74
+2025-01-20,Hospital Arnau de Vilanova,HAV,45-64,Home,4,9.74
+2025-01-20,Hospital Arnau de Vilanova,HAV,65+,Dona,4,9.74
+2025-01-20,Hospital Arnau de Vilanova,HAV,65+,Home,3,9.74
+2025-01-20,Hospital Josep Trueta,HJT,0-14,Dona,1,3.96
+2025-01-20,Hospital Josep Trueta,HJT,0-14,Home,0,3.96
+2025-01-20,Hospital Josep Trueta,HJT,15-44,Dona,1,3.96
+2025-01-20,Hospital Josep Trueta,HJT,15-44,Home,2,3.96
+2025-01-20,Hospital Josep Trueta,HJT,45-64,Dona,2,3.96
+2025-01-20,Hospital Josep Trueta,HJT,45-64,Home,1,3.96
+2025-01-20,Hospital Josep Trueta,HJT,65+,Dona,5,3.96
+2025-01-20,Hospital Josep Trueta,HJT,65+,Home,4,3.96
+2025-01-21,Hospital Vall d'Hebron,HVD,0-14,Dona,0,2.71
+2025-01-21,Hospital Vall d'Hebron,HVD,0-14,Home,2,2.71
+2025-01-21,Hospital Vall d'Hebron,HVD,15-44,Dona,6,2.71
+2025-01-21,Hospital Vall d'Hebron,HVD,15-44,Home,0,2.71
+2025-01-21,Hospital Vall d'Hebron,HVD,45-64,Dona,2,2.71
+2025-01-21,Hospital Vall d'Hebron,HVD,45-64,Home,1,2.71
+2025-01-21,Hospital Vall d'Hebron,HVD,65+,Dona,2,2.71
+2025-01-21,Hospital Vall d'Hebron,HVD,65+,Home,2,2.71
+2025-01-21,Hospital Clínic,HC,0-14,Dona,1,7.51
+2025-01-21,Hospital Clínic,HC,0-14,Home,1,7.51
+2025-01-21,Hospital Clínic,HC,15-44,Dona,1,7.51
+2025-01-21,Hospital Clínic,HC,15-44,Home,2,7.51
+2025-01-21,Hospital Clínic,HC,45-64,Dona,3,7.51
+2025-01-21,Hospital Clínic,HC,45-64,Home,0,7.51
+2025-01-21,Hospital Clínic,HC,65+,Dona,5,7.51
+2025-01-21,Hospital Clínic,HC,65+,Home,7,7.51
+2025-01-21,Hospital Sant Pau,HSP,0-14,Dona,2,14.52
+2025-01-21,Hospital Sant Pau,HSP,0-14,Home,2,14.52
+2025-01-21,Hospital Sant Pau,HSP,15-44,Dona,5,14.52
+2025-01-21,Hospital Sant Pau,HSP,15-44,Home,5,14.52
+2025-01-21,Hospital Sant Pau,HSP,45-64,Dona,3,14.52
+2025-01-21,Hospital Sant Pau,HSP,45-64,Home,3,14.52
+2025-01-21,Hospital Sant Pau,HSP,65+,Dona,3,14.52
+2025-01-21,Hospital Sant Pau,HSP,65+,Home,10,14.52
+2025-01-21,Hospital Bellvitge,HB,0-14,Dona,0,19.6
+2025-01-21,Hospital Bellvitge,HB,0-14,Home,1,19.6
+2025-01-21,Hospital Bellvitge,HB,15-44,Dona,4,19.6
+2025-01-21,Hospital Bellvitge,HB,15-44,Home,3,19.6
+2025-01-21,Hospital Bellvitge,HB,45-64,Dona,3,19.6
+2025-01-21,Hospital Bellvitge,HB,45-64,Home,5,19.6
+2025-01-21,Hospital Bellvitge,HB,65+,Dona,6,19.6
+2025-01-21,Hospital Bellvitge,HB,65+,Home,7,19.6
+2025-01-21,Hospital Can Ruti,HCR,0-14,Dona,2,18.46
+2025-01-21,Hospital Can Ruti,HCR,0-14,Home,3,18.46
+2025-01-21,Hospital Can Ruti,HCR,15-44,Dona,3,18.46
+2025-01-21,Hospital Can Ruti,HCR,15-44,Home,3,18.46
+2025-01-21,Hospital Can Ruti,HCR,45-64,Dona,3,18.46
+2025-01-21,Hospital Can Ruti,HCR,45-64,Home,1,18.46
+2025-01-21,Hospital Can Ruti,HCR,65+,Dona,10,18.46
+2025-01-21,Hospital Can Ruti,HCR,65+,Home,9,18.46
+2025-01-21,Hospital Arnau de Vilanova,HAV,0-14,Dona,4,12.13
+2025-01-21,Hospital Arnau de Vilanova,HAV,0-14,Home,2,12.13
+2025-01-21,Hospital Arnau de Vilanova,HAV,15-44,Dona,4,12.13
+2025-01-21,Hospital Arnau de Vilanova,HAV,15-44,Home,2,12.13
+2025-01-21,Hospital Arnau de Vilanova,HAV,45-64,Dona,0,12.13
+2025-01-21,Hospital Arnau de Vilanova,HAV,45-64,Home,0,12.13
+2025-01-21,Hospital Arnau de Vilanova,HAV,65+,Dona,5,12.13
+2025-01-21,Hospital Arnau de Vilanova,HAV,65+,Home,4,12.13
+2025-01-21,Hospital Josep Trueta,HJT,0-14,Dona,2,5.56
+2025-01-21,Hospital Josep Trueta,HJT,0-14,Home,1,5.56
+2025-01-21,Hospital Josep Trueta,HJT,15-44,Dona,1,5.56
+2025-01-21,Hospital Josep Trueta,HJT,15-44,Home,1,5.56
+2025-01-21,Hospital Josep Trueta,HJT,45-64,Dona,2,5.56
+2025-01-21,Hospital Josep Trueta,HJT,45-64,Home,5,5.56
+2025-01-21,Hospital Josep Trueta,HJT,65+,Dona,3,5.56
+2025-01-21,Hospital Josep Trueta,HJT,65+,Home,1,5.56
+2025-01-22,Hospital Vall d'Hebron,HVD,0-14,Dona,2,1.78
+2025-01-22,Hospital Vall d'Hebron,HVD,0-14,Home,1,1.78
+2025-01-22,Hospital Vall d'Hebron,HVD,15-44,Dona,1,1.78
+2025-01-22,Hospital Vall d'Hebron,HVD,15-44,Home,2,1.78
+2025-01-22,Hospital Vall d'Hebron,HVD,45-64,Dona,0,1.78
+2025-01-22,Hospital Vall d'Hebron,HVD,45-64,Home,0,1.78
+2025-01-22,Hospital Vall d'Hebron,HVD,65+,Dona,7,1.78
+2025-01-22,Hospital Vall d'Hebron,HVD,65+,Home,9,1.78
+2025-01-22,Hospital Clínic,HC,0-14,Dona,1,5.56
+2025-01-22,Hospital Clínic,HC,0-14,Home,2,5.56
+2025-01-22,Hospital Clínic,HC,15-44,Dona,4,5.56
+2025-01-22,Hospital Clínic,HC,15-44,Home,1,5.56
+2025-01-22,Hospital Clínic,HC,45-64,Dona,6,5.56
+2025-01-22,Hospital Clínic,HC,45-64,Home,2,5.56
+2025-01-22,Hospital Clínic,HC,65+,Dona,4,5.56
+2025-01-22,Hospital Clínic,HC,65+,Home,5,5.56
+2025-01-22,Hospital Sant Pau,HSP,0-14,Dona,0,12.13
+2025-01-22,Hospital Sant Pau,HSP,0-14,Home,1,12.13
+2025-01-22,Hospital Sant Pau,HSP,15-44,Dona,7,12.13
+2025-01-22,Hospital Sant Pau,HSP,15-44,Home,1,12.13
+2025-01-22,Hospital Sant Pau,HSP,45-64,Dona,4,12.13
+2025-01-22,Hospital Sant Pau,HSP,45-64,Home,3,12.13
+2025-01-22,Hospital Sant Pau,HSP,65+,Dona,12,12.13
+2025-01-22,Hospital Sant Pau,HSP,65+,Home,3,12.13
+2025-01-22,Hospital Bellvitge,HB,0-14,Dona,2,18.46
+2025-01-22,Hospital Bellvitge,HB,0-14,Home,3,18.46
+2025-01-22,Hospital Bellvitge,HB,15-44,Dona,2,18.46
+2025-01-22,Hospital Bellvitge,HB,15-44,Home,5,18.46
+2025-01-22,Hospital Bellvitge,HB,45-64,Dona,3,18.46
+2025-01-22,Hospital Bellvitge,HB,45-64,Home,5,18.46
+2025-01-22,Hospital Bellvitge,HB,65+,Dona,6,18.46
+2025-01-22,Hospital Bellvitge,HB,65+,Home,2,18.46
+2025-01-22,Hospital Can Ruti,HCR,0-14,Dona,0,19.6
+2025-01-22,Hospital Can Ruti,HCR,0-14,Home,0,19.6
+2025-01-22,Hospital Can Ruti,HCR,15-44,Dona,4,19.6
+2025-01-22,Hospital Can Ruti,HCR,15-44,Home,2,19.6
+2025-01-22,Hospital Can Ruti,HCR,45-64,Dona,0,19.6
+2025-01-22,Hospital Can Ruti,HCR,45-64,Home,8,19.6
+2025-01-22,Hospital Can Ruti,HCR,65+,Dona,8,19.6
+2025-01-22,Hospital Can Ruti,HCR,65+,Home,6,19.6
+2025-01-22,Hospital Arnau de Vilanova,HAV,0-14,Dona,2,14.52
+2025-01-22,Hospital Arnau de Vilanova,HAV,0-14,Home,1,14.52
+2025-01-22,Hospital Arnau de Vilanova,HAV,15-44,Dona,2,14.52
+2025-01-22,Hospital Arnau de Vilanova,HAV,15-44,Home,4,14.52
+2025-01-22,Hospital Arnau de Vilanova,HAV,45-64,Dona,1,14.52
+2025-01-22,Hospital Arnau de Vilanova,HAV,45-64,Home,3,14.52
+2025-01-22,Hospital Arnau de Vilanova,HAV,65+,Dona,6,14.52
+2025-01-22,Hospital Arnau de Vilanova,HAV,65+,Home,6,14.52
+2025-01-22,Hospital Josep Trueta,HJT,0-14,Dona,0,7.51
+2025-01-22,Hospital Josep Trueta,HJT,0-14,Home,1,7.51
+2025-01-22,Hospital Josep Trueta,HJT,15-44,Dona,4,7.51
+2025-01-22,Hospital Josep Trueta,HJT,15-44,Home,3,7.51
+2025-01-22,Hospital Josep Trueta,HJT,45-64,Dona,1,7.51
+2025-01-22,Hospital Josep Trueta,HJT,45-64,Home,2,7.51
+2025-01-22,Hospital Josep Trueta,HJT,65+,Dona,4,7.51
+2025-01-22,Hospital Josep Trueta,HJT,65+,Home,4,7.51
+2025-01-23,Hospital Vall d'Hebron,HVD,0-14,Dona,0,1.12
+2025-01-23,Hospital Vall d'Hebron,HVD,0-14,Home,2,1.12
+2025-01-23,Hospital Vall d'Hebron,HVD,15-44,Dona,2,1.12
+2025-01-23,Hospital Vall d'Hebron,HVD,15-44,Home,3,1.12
+2025-01-23,Hospital Vall d'Hebron,HVD,45-64,Dona,2,1.12
+2025-01-23,Hospital Vall d'Hebron,HVD,45-64,Home,2,1.12
+2025-01-23,Hospital Vall d'Hebron,HVD,65+,Dona,10,1.12
+2025-01-23,Hospital Vall d'Hebron,HVD,65+,Home,6,1.12
+2025-01-23,Hospital Clínic,HC,0-14,Dona,0,3.96
+2025-01-23,Hospital Clínic,HC,0-14,Home,1,3.96
+2025-01-23,Hospital Clínic,HC,15-44,Dona,1,3.96
+2025-01-23,Hospital Clínic,HC,15-44,Home,1,3.96
+2025-01-23,Hospital Clínic,HC,45-64,Dona,5,3.96
+2025-01-23,Hospital Clínic,HC,45-64,Home,3,3.96
+2025-01-23,Hospital Clínic,HC,65+,Dona,8,3.96
+2025-01-23,Hospital Clínic,HC,65+,Home,1,3.96
+2025-01-23,Hospital Sant Pau,HSP,0-14,Dona,2,9.74
+2025-01-23,Hospital Sant Pau,HSP,0-14,Home,1,9.74
+2025-01-23,Hospital Sant Pau,HSP,15-44,Dona,4,9.74
+2025-01-23,Hospital Sant Pau,HSP,15-44,Home,1,9.74
+2025-01-23,Hospital Sant Pau,HSP,45-64,Dona,0,9.74
+2025-01-23,Hospital Sant Pau,HSP,45-64,Home,2,9.74
+2025-01-23,Hospital Sant Pau,HSP,65+,Dona,6,9.74
+2025-01-23,Hospital Sant Pau,HSP,65+,Home,6,9.74
+2025-01-23,Hospital Bellvitge,HB,0-14,Dona,4,16.71
+2025-01-23,Hospital Bellvitge,HB,0-14,Home,0,16.71
+2025-01-23,Hospital Bellvitge,HB,15-44,Dona,2,16.71
+2025-01-23,Hospital Bellvitge,HB,15-44,Home,8,16.71
+2025-01-23,Hospital Bellvitge,HB,45-64,Dona,7,16.71
+2025-01-23,Hospital Bellvitge,HB,45-64,Home,2,16.71
+2025-01-23,Hospital Bellvitge,HB,65+,Dona,7,16.71
+2025-01-23,Hospital Bellvitge,HB,65+,Home,7,16.71
+2025-01-23,Hospital Can Ruti,HCR,0-14,Dona,4,20.0
+2025-01-23,Hospital Can Ruti,HCR,0-14,Home,2,20.0
+2025-01-23,Hospital Can Ruti,HCR,15-44,Dona,3,20.0
+2025-01-23,Hospital Can Ruti,HCR,15-44,Home,5,20.0
+2025-01-23,Hospital Can Ruti,HCR,45-64,Dona,8,20.0
+2025-01-23,Hospital Can Ruti,HCR,45-64,Home,2,20.0
+2025-01-23,Hospital Can Ruti,HCR,65+,Dona,9,20.0
+2025-01-23,Hospital Can Ruti,HCR,65+,Home,7,20.0
+2025-01-23,Hospital Arnau de Vilanova,HAV,0-14,Dona,3,16.71
+2025-01-23,Hospital Arnau de Vilanova,HAV,0-14,Home,2,16.71
+2025-01-23,Hospital Arnau de Vilanova,HAV,15-44,Dona,8,16.71
+2025-01-23,Hospital Arnau de Vilanova,HAV,15-44,Home,2,16.71
+2025-01-23,Hospital Arnau de Vilanova,HAV,45-64,Dona,2,16.71
+2025-01-23,Hospital Arnau de Vilanova,HAV,45-64,Home,3,16.71
+2025-01-23,Hospital Arnau de Vilanova,HAV,65+,Dona,4,16.71
+2025-01-23,Hospital Arnau de Vilanova,HAV,65+,Home,7,16.71
+2025-01-23,Hospital Josep Trueta,HJT,0-14,Dona,0,9.74
+2025-01-23,Hospital Josep Trueta,HJT,0-14,Home,4,9.74
+2025-01-23,Hospital Josep Trueta,HJT,15-44,Dona,3,9.74
+2025-01-23,Hospital Josep Trueta,HJT,15-44,Home,4,9.74
+2025-01-23,Hospital Josep Trueta,HJT,45-64,Dona,2,9.74
+2025-01-23,Hospital Josep Trueta,HJT,45-64,Home,5,9.74
+2025-01-23,Hospital Josep Trueta,HJT,65+,Dona,6,9.74
+2025-01-23,Hospital Josep Trueta,HJT,65+,Home,9,9.74
+2025-01-24,Hospital Vall d'Hebron,HVD,0-14,Dona,0,0.68
+2025-01-24,Hospital Vall d'Hebron,HVD,0-14,Home,0,0.68
+2025-01-24,Hospital Vall d'Hebron,HVD,15-44,Dona,2,0.68
+2025-01-24,Hospital Vall d'Hebron,HVD,15-44,Home,4,0.68
+2025-01-24,Hospital Vall d'Hebron,HVD,45-64,Dona,4,0.68
+2025-01-24,Hospital Vall d'Hebron,HVD,45-64,Home,1,0.68
+2025-01-24,Hospital Vall d'Hebron,HVD,65+,Dona,4,0.68
+2025-01-24,Hospital Vall d'Hebron,HVD,65+,Home,5,0.68
+2025-01-24,Hospital Clínic,HC,0-14,Dona,2,2.71
+2025-01-24,Hospital Clínic,HC,0-14,Home,0,2.71
+2025-01-24,Hospital Clínic,HC,15-44,Dona,2,2.71
+2025-01-24,Hospital Clínic,HC,15-44,Home,4,2.71
+2025-01-24,Hospital Clínic,HC,45-64,Dona,4,2.71
+2025-01-24,Hospital Clínic,HC,45-64,Home,2,2.71
+2025-01-24,Hospital Clínic,HC,65+,Dona,5,2.71
+2025-01-24,Hospital Clínic,HC,65+,Home,9,2.71
+2025-01-24,Hospital Sant Pau,HSP,0-14,Dona,1,7.51
+2025-01-24,Hospital Sant Pau,HSP,0-14,Home,1,7.51
+2025-01-24,Hospital Sant Pau,HSP,15-44,Dona,1,7.51
+2025-01-24,Hospital Sant Pau,HSP,15-44,Home,2,7.51
+2025-01-24,Hospital Sant Pau,HSP,45-64,Dona,5,7.51
+2025-01-24,Hospital Sant Pau,HSP,45-64,Home,2,7.51
+2025-01-24,Hospital Sant Pau,HSP,65+,Dona,7,7.51
+2025-01-24,Hospital Sant Pau,HSP,65+,Home,2,7.51
+2025-01-24,Hospital Bellvitge,HB,0-14,Dona,0,14.52
+2025-01-24,Hospital Bellvitge,HB,0-14,Home,1,14.52
+2025-01-24,Hospital Bellvitge,HB,15-44,Dona,2,14.52
+2025-01-24,Hospital Bellvitge,HB,15-44,Home,7,14.52
+2025-01-24,Hospital Bellvitge,HB,45-64,Dona,3,14.52
+2025-01-24,Hospital Bellvitge,HB,45-64,Home,3,14.52
+2025-01-24,Hospital Bellvitge,HB,65+,Dona,5,14.52
+2025-01-24,Hospital Bellvitge,HB,65+,Home,7,14.52
+2025-01-24,Hospital Can Ruti,HCR,0-14,Dona,2,19.6
+2025-01-24,Hospital Can Ruti,HCR,0-14,Home,2,19.6
+2025-01-24,Hospital Can Ruti,HCR,15-44,Dona,6,19.6
+2025-01-24,Hospital Can Ruti,HCR,15-44,Home,2,19.6
+2025-01-24,Hospital Can Ruti,HCR,45-64,Dona,7,19.6
+2025-01-24,Hospital Can Ruti,HCR,45-64,Home,5,19.6
+2025-01-24,Hospital Can Ruti,HCR,65+,Dona,4,19.6
+2025-01-24,Hospital Can Ruti,HCR,65+,Home,8,19.6
+2025-01-24,Hospital Arnau de Vilanova,HAV,0-14,Dona,0,18.46
+2025-01-24,Hospital Arnau de Vilanova,HAV,0-14,Home,1,18.46
+2025-01-24,Hospital Arnau de Vilanova,HAV,15-44,Dona,1,18.46
+2025-01-24,Hospital Arnau de Vilanova,HAV,15-44,Home,2,18.46
+2025-01-24,Hospital Arnau de Vilanova,HAV,45-64,Dona,4,18.46
+2025-01-24,Hospital Arnau de Vilanova,HAV,45-64,Home,2,18.46
+2025-01-24,Hospital Arnau de Vilanova,HAV,65+,Dona,10,18.46
+2025-01-24,Hospital Arnau de Vilanova,HAV,65+,Home,4,18.46
+2025-01-24,Hospital Josep Trueta,HJT,0-14,Dona,1,12.13
+2025-01-24,Hospital Josep Trueta,HJT,0-14,Home,4,12.13
+2025-01-24,Hospital Josep Trueta,HJT,15-44,Dona,5,12.13
+2025-01-24,Hospital Josep Trueta,HJT,15-44,Home,2,12.13
+2025-01-24,Hospital Josep Trueta,HJT,45-64,Dona,4,12.13
+2025-01-24,Hospital Josep Trueta,HJT,45-64,Home,6,12.13
+2025-01-24,Hospital Josep Trueta,HJT,65+,Dona,7,12.13
+2025-01-24,Hospital Josep Trueta,HJT,65+,Home,6,12.13
+2025-01-25,Hospital Vall d'Hebron,HVD,0-14,Dona,2,0.4
+2025-01-25,Hospital Vall d'Hebron,HVD,0-14,Home,0,0.4
+2025-01-25,Hospital Vall d'Hebron,HVD,15-44,Dona,1,0.4
+2025-01-25,Hospital Vall d'Hebron,HVD,15-44,Home,2,0.4
+2025-01-25,Hospital Vall d'Hebron,HVD,45-64,Dona,2,0.4
+2025-01-25,Hospital Vall d'Hebron,HVD,45-64,Home,1,0.4
+2025-01-25,Hospital Vall d'Hebron,HVD,65+,Dona,4,0.4
+2025-01-25,Hospital Vall d'Hebron,HVD,65+,Home,4,0.4
+2025-01-25,Hospital Clínic,HC,0-14,Dona,1,1.78
+2025-01-25,Hospital Clínic,HC,0-14,Home,2,1.78
+2025-01-25,Hospital Clínic,HC,15-44,Dona,2,1.78
+2025-01-25,Hospital Clínic,HC,15-44,Home,2,1.78
+2025-01-25,Hospital Clínic,HC,45-64,Dona,4,1.78
+2025-01-25,Hospital Clínic,HC,45-64,Home,3,1.78
+2025-01-25,Hospital Clínic,HC,65+,Dona,3,1.78
+2025-01-25,Hospital Clínic,HC,65+,Home,9,1.78
+2025-01-25,Hospital Sant Pau,HSP,0-14,Dona,1,5.56
+2025-01-25,Hospital Sant Pau,HSP,0-14,Home,1,5.56
+2025-01-25,Hospital Sant Pau,HSP,15-44,Dona,1,5.56
+2025-01-25,Hospital Sant Pau,HSP,15-44,Home,2,5.56
+2025-01-25,Hospital Sant Pau,HSP,45-64,Dona,2,5.56
+2025-01-25,Hospital Sant Pau,HSP,45-64,Home,4,5.56
+2025-01-25,Hospital Sant Pau,HSP,65+,Dona,1,5.56
+2025-01-25,Hospital Sant Pau,HSP,65+,Home,2,5.56
+2025-01-25,Hospital Bellvitge,HB,0-14,Dona,2,12.13
+2025-01-25,Hospital Bellvitge,HB,0-14,Home,3,12.13
+2025-01-25,Hospital Bellvitge,HB,15-44,Dona,2,12.13
+2025-01-25,Hospital Bellvitge,HB,15-44,Home,2,12.13
+2025-01-25,Hospital Bellvitge,HB,45-64,Dona,0,12.13
+2025-01-25,Hospital Bellvitge,HB,45-64,Home,1,12.13
+2025-01-25,Hospital Bellvitge,HB,65+,Dona,5,12.13
+2025-01-25,Hospital Bellvitge,HB,65+,Home,8,12.13
+2025-01-25,Hospital Can Ruti,HCR,0-14,Dona,2,18.46
+2025-01-25,Hospital Can Ruti,HCR,0-14,Home,1,18.46
+2025-01-25,Hospital Can Ruti,HCR,15-44,Dona,5,18.46
+2025-01-25,Hospital Can Ruti,HCR,15-44,Home,2,18.46
+2025-01-25,Hospital Can Ruti,HCR,45-64,Dona,3,18.46
+2025-01-25,Hospital Can Ruti,HCR,45-64,Home,2,18.46
+2025-01-25,Hospital Can Ruti,HCR,65+,Dona,7,18.46
+2025-01-25,Hospital Can Ruti,HCR,65+,Home,5,18.46
+2025-01-25,Hospital Arnau de Vilanova,HAV,0-14,Dona,1,19.6
+2025-01-25,Hospital Arnau de Vilanova,HAV,0-14,Home,3,19.6
+2025-01-25,Hospital Arnau de Vilanova,HAV,15-44,Dona,2,19.6
+2025-01-25,Hospital Arnau de Vilanova,HAV,15-44,Home,7,19.6
+2025-01-25,Hospital Arnau de Vilanova,HAV,45-64,Dona,7,19.6
+2025-01-25,Hospital Arnau de Vilanova,HAV,45-64,Home,6,19.6
+2025-01-25,Hospital Arnau de Vilanova,HAV,65+,Dona,6,19.6
+2025-01-25,Hospital Arnau de Vilanova,HAV,65+,Home,6,19.6
+2025-01-25,Hospital Josep Trueta,HJT,0-14,Dona,2,14.52
+2025-01-25,Hospital Josep Trueta,HJT,0-14,Home,1,14.52
+2025-01-25,Hospital Josep Trueta,HJT,15-44,Dona,4,14.52
+2025-01-25,Hospital Josep Trueta,HJT,15-44,Home,2,14.52
+2025-01-25,Hospital Josep Trueta,HJT,45-64,Dona,4,14.52
+2025-01-25,Hospital Josep Trueta,HJT,45-64,Home,1,14.52
+2025-01-25,Hospital Josep Trueta,HJT,65+,Dona,9,14.52
+2025-01-25,Hospital Josep Trueta,HJT,65+,Home,9,14.52
+2025-01-26,Hospital Vall d'Hebron,HVD,0-14,Dona,3,0.22
+2025-01-26,Hospital Vall d'Hebron,HVD,0-14,Home,2,0.22
+2025-01-26,Hospital Vall d'Hebron,HVD,15-44,Dona,2,0.22
+2025-01-26,Hospital Vall d'Hebron,HVD,15-44,Home,1,0.22
+2025-01-26,Hospital Vall d'Hebron,HVD,45-64,Dona,3,0.22
+2025-01-26,Hospital Vall d'Hebron,HVD,45-64,Home,0,0.22
+2025-01-26,Hospital Vall d'Hebron,HVD,65+,Dona,2,0.22
+2025-01-26,Hospital Vall d'Hebron,HVD,65+,Home,2,0.22
+2025-01-26,Hospital Clínic,HC,0-14,Dona,0,1.12
+2025-01-26,Hospital Clínic,HC,0-14,Home,1,1.12
+2025-01-26,Hospital Clínic,HC,15-44,Dona,2,1.12
+2025-01-26,Hospital Clínic,HC,15-44,Home,3,1.12
+2025-01-26,Hospital Clínic,HC,45-64,Dona,5,1.12
+2025-01-26,Hospital Clínic,HC,45-64,Home,1,1.12
+2025-01-26,Hospital Clínic,HC,65+,Dona,5,1.12
+2025-01-26,Hospital Clínic,HC,65+,Home,6,1.12
+2025-01-26,Hospital Sant Pau,HSP,0-14,Dona,1,3.96
+2025-01-26,Hospital Sant Pau,HSP,0-14,Home,1,3.96
+2025-01-26,Hospital Sant Pau,HSP,15-44,Dona,0,3.96
+2025-01-26,Hospital Sant Pau,HSP,15-44,Home,2,3.96
+2025-01-26,Hospital Sant Pau,HSP,45-64,Dona,0,3.96
+2025-01-26,Hospital Sant Pau,HSP,45-64,Home,0,3.96
+2025-01-26,Hospital Sant Pau,HSP,65+,Dona,1,3.96
+2025-01-26,Hospital Sant Pau,HSP,65+,Home,3,3.96
+2025-01-26,Hospital Bellvitge,HB,0-14,Dona,2,9.74
+2025-01-26,Hospital Bellvitge,HB,0-14,Home,1,9.74
+2025-01-26,Hospital Bellvitge,HB,15-44,Dona,1,9.74
+2025-01-26,Hospital Bellvitge,HB,15-44,Home,3,9.74
+2025-01-26,Hospital Bellvitge,HB,45-64,Dona,4,9.74
+2025-01-26,Hospital Bellvitge,HB,45-64,Home,3,9.74
+2025-01-26,Hospital Bellvitge,HB,65+,Dona,4,9.74
+2025-01-26,Hospital Bellvitge,HB,65+,Home,5,9.74
+2025-01-26,Hospital Can Ruti,HCR,0-14,Dona,0,16.71
+2025-01-26,Hospital Can Ruti,HCR,0-14,Home,0,16.71
+2025-01-26,Hospital Can Ruti,HCR,15-44,Dona,3,16.71
+2025-01-26,Hospital Can Ruti,HCR,15-44,Home,4,16.71
+2025-01-26,Hospital Can Ruti,HCR,45-64,Dona,5,16.71
+2025-01-26,Hospital Can Ruti,HCR,45-64,Home,3,16.71
+2025-01-26,Hospital Can Ruti,HCR,65+,Dona,7,16.71
+2025-01-26,Hospital Can Ruti,HCR,65+,Home,7,16.71
+2025-01-26,Hospital Arnau de Vilanova,HAV,0-14,Dona,0,20.0
+2025-01-26,Hospital Arnau de Vilanova,HAV,0-14,Home,1,20.0
+2025-01-26,Hospital Arnau de Vilanova,HAV,15-44,Dona,1,20.0
+2025-01-26,Hospital Arnau de Vilanova,HAV,15-44,Home,5,20.0
+2025-01-26,Hospital Arnau de Vilanova,HAV,45-64,Dona,2,20.0
+2025-01-26,Hospital Arnau de Vilanova,HAV,45-64,Home,2,20.0
+2025-01-26,Hospital Arnau de Vilanova,HAV,65+,Dona,9,20.0
+2025-01-26,Hospital Arnau de Vilanova,HAV,65+,Home,4,20.0
+2025-01-26,Hospital Josep Trueta,HJT,0-14,Dona,4,16.71
+2025-01-26,Hospital Josep Trueta,HJT,0-14,Home,1,16.71
+2025-01-26,Hospital Josep Trueta,HJT,15-44,Dona,4,16.71
+2025-01-26,Hospital Josep Trueta,HJT,15-44,Home,3,16.71
+2025-01-26,Hospital Josep Trueta,HJT,45-64,Dona,1,16.71
+2025-01-26,Hospital Josep Trueta,HJT,45-64,Home,3,16.71
+2025-01-26,Hospital Josep Trueta,HJT,65+,Dona,9,16.71
+2025-01-26,Hospital Josep Trueta,HJT,65+,Home,7,16.71
+2025-01-27,Hospital Vall d'Hebron,HVD,0-14,Dona,1,0.12
+2025-01-27,Hospital Vall d'Hebron,HVD,0-14,Home,0,0.12
+2025-01-27,Hospital Vall d'Hebron,HVD,15-44,Dona,1,0.12
+2025-01-27,Hospital Vall d'Hebron,HVD,15-44,Home,0,0.12
+2025-01-27,Hospital Vall d'Hebron,HVD,45-64,Dona,3,0.12
+2025-01-27,Hospital Vall d'Hebron,HVD,45-64,Home,0,0.12
+2025-01-27,Hospital Vall d'Hebron,HVD,65+,Dona,5,0.12
+2025-01-27,Hospital Vall d'Hebron,HVD,65+,Home,3,0.12
+2025-01-27,Hospital Clínic,HC,0-14,Dona,0,0.68
+2025-01-27,Hospital Clínic,HC,0-14,Home,0,0.68
+2025-01-27,Hospital Clínic,HC,15-44,Dona,1,0.68
+2025-01-27,Hospital Clínic,HC,15-44,Home,0,0.68
+2025-01-27,Hospital Clínic,HC,45-64,Dona,4,0.68
+2025-01-27,Hospital Clínic,HC,45-64,Home,0,0.68
+2025-01-27,Hospital Clínic,HC,65+,Dona,4,0.68
+2025-01-27,Hospital Clínic,HC,65+,Home,1,0.68
+2025-01-27,Hospital Sant Pau,HSP,0-14,Dona,1,2.71
+2025-01-27,Hospital Sant Pau,HSP,0-14,Home,1,2.71
+2025-01-27,Hospital Sant Pau,HSP,15-44,Dona,2,2.71
+2025-01-27,Hospital Sant Pau,HSP,15-44,Home,1,2.71
+2025-01-27,Hospital Sant Pau,HSP,45-64,Dona,1,2.71
+2025-01-27,Hospital Sant Pau,HSP,45-64,Home,1,2.71
+2025-01-27,Hospital Sant Pau,HSP,65+,Dona,2,2.71
+2025-01-27,Hospital Sant Pau,HSP,65+,Home,2,2.71
+2025-01-27,Hospital Bellvitge,HB,0-14,Dona,0,7.51
+2025-01-27,Hospital Bellvitge,HB,0-14,Home,0,7.51
+2025-01-27,Hospital Bellvitge,HB,15-44,Dona,0,7.51
+2025-01-27,Hospital Bellvitge,HB,15-44,Home,0,7.51
+2025-01-27,Hospital Bellvitge,HB,45-64,Dona,1,7.51
+2025-01-27,Hospital Bellvitge,HB,45-64,Home,0,7.51
+2025-01-27,Hospital Bellvitge,HB,65+,Dona,2,7.51
+2025-01-27,Hospital Bellvitge,HB,65+,Home,4,7.51
+2025-01-27,Hospital Can Ruti,HCR,0-14,Dona,0,14.52
+2025-01-27,Hospital Can Ruti,HCR,0-14,Home,1,14.52
+2025-01-27,Hospital Can Ruti,HCR,15-44,Dona,1,14.52
+2025-01-27,Hospital Can Ruti,HCR,15-44,Home,3,14.52
+2025-01-27,Hospital Can Ruti,HCR,45-64,Dona,3,14.52
+2025-01-27,Hospital Can Ruti,HCR,45-64,Home,4,14.52
+2025-01-27,Hospital Can Ruti,HCR,65+,Dona,8,14.52
+2025-01-27,Hospital Can Ruti,HCR,65+,Home,3,14.52
+2025-01-27,Hospital Arnau de Vilanova,HAV,0-14,Dona,0,19.6
+2025-01-27,Hospital Arnau de Vilanova,HAV,0-14,Home,3,19.6
+2025-01-27,Hospital Arnau de Vilanova,HAV,15-44,Dona,6,19.6
+2025-01-27,Hospital Arnau de Vilanova,HAV,15-44,Home,1,19.6
+2025-01-27,Hospital Arnau de Vilanova,HAV,45-64,Dona,2,19.6
+2025-01-27,Hospital Arnau de Vilanova,HAV,45-64,Home,10,19.6
+2025-01-27,Hospital Arnau de Vilanova,HAV,65+,Dona,5,19.6
+2025-01-27,Hospital Arnau de Vilanova,HAV,65+,Home,9,19.6
+2025-01-27,Hospital Josep Trueta,HJT,0-14,Dona,0,18.46
+2025-01-27,Hospital Josep Trueta,HJT,0-14,Home,1,18.46
+2025-01-27,Hospital Josep Trueta,HJT,15-44,Dona,2,18.46
+2025-01-27,Hospital Josep Trueta,HJT,15-44,Home,3,18.46
+2025-01-27,Hospital Josep Trueta,HJT,45-64,Dona,3,18.46
+2025-01-27,Hospital Josep Trueta,HJT,45-64,Home,5,18.46
+2025-01-27,Hospital Josep Trueta,HJT,65+,Dona,5,18.46
+2025-01-27,Hospital Josep Trueta,HJT,65+,Home,7,18.46
+2025-01-28,Hospital Vall d'Hebron,HVD,0-14,Dona,1,0.06
+2025-01-28,Hospital Vall d'Hebron,HVD,0-14,Home,1,0.06
+2025-01-28,Hospital Vall d'Hebron,HVD,15-44,Dona,3,0.06
+2025-01-28,Hospital Vall d'Hebron,HVD,15-44,Home,3,0.06
+2025-01-28,Hospital Vall d'Hebron,HVD,45-64,Dona,1,0.06
+2025-01-28,Hospital Vall d'Hebron,HVD,45-64,Home,1,0.06
+2025-01-28,Hospital Vall d'Hebron,HVD,65+,Dona,6,0.06
+2025-01-28,Hospital Vall d'Hebron,HVD,65+,Home,1,0.06
+2025-01-28,Hospital Clínic,HC,0-14,Dona,2,0.4
+2025-01-28,Hospital Clínic,HC,0-14,Home,1,0.4
+2025-01-28,Hospital Clínic,HC,15-44,Dona,1,0.4
+2025-01-28,Hospital Clínic,HC,15-44,Home,4,0.4
+2025-01-28,Hospital Clínic,HC,45-64,Dona,2,0.4
+2025-01-28,Hospital Clínic,HC,45-64,Home,1,0.4
+2025-01-28,Hospital Clínic,HC,65+,Dona,3,0.4
+2025-01-28,Hospital Clínic,HC,65+,Home,5,0.4
+2025-01-28,Hospital Sant Pau,HSP,0-14,Dona,0,1.78
+2025-01-28,Hospital Sant Pau,HSP,0-14,Home,1,1.78
+2025-01-28,Hospital Sant Pau,HSP,15-44,Dona,0,1.78
+2025-01-28,Hospital Sant Pau,HSP,15-44,Home,1,1.78
+2025-01-28,Hospital Sant Pau,HSP,45-64,Dona,0,1.78
+2025-01-28,Hospital Sant Pau,HSP,45-64,Home,1,1.78
+2025-01-28,Hospital Sant Pau,HSP,65+,Dona,0,1.78
+2025-01-28,Hospital Sant Pau,HSP,65+,Home,4,1.78
+2025-01-28,Hospital Bellvitge,HB,0-14,Dona,0,5.56
+2025-01-28,Hospital Bellvitge,HB,0-14,Home,0,5.56
+2025-01-28,Hospital Bellvitge,HB,15-44,Dona,0,5.56
+2025-01-28,Hospital Bellvitge,HB,15-44,Home,3,5.56
+2025-01-28,Hospital Bellvitge,HB,45-64,Dona,2,5.56
+2025-01-28,Hospital Bellvitge,HB,45-64,Home,0,5.56
+2025-01-28,Hospital Bellvitge,HB,65+,Dona,3,5.56
+2025-01-28,Hospital Bellvitge,HB,65+,Home,0,5.56
+2025-01-28,Hospital Can Ruti,HCR,0-14,Dona,2,12.13
+2025-01-28,Hospital Can Ruti,HCR,0-14,Home,3,12.13
+2025-01-28,Hospital Can Ruti,HCR,15-44,Dona,2,12.13
+2025-01-28,Hospital Can Ruti,HCR,15-44,Home,1,12.13
+2025-01-28,Hospital Can Ruti,HCR,45-64,Dona,5,12.13
+2025-01-28,Hospital Can Ruti,HCR,45-64,Home,5,12.13
+2025-01-28,Hospital Can Ruti,HCR,65+,Dona,3,12.13
+2025-01-28,Hospital Can Ruti,HCR,65+,Home,8,12.13
+2025-01-28,Hospital Arnau de Vilanova,HAV,0-14,Dona,0,18.46
+2025-01-28,Hospital Arnau de Vilanova,HAV,0-14,Home,2,18.46
+2025-01-28,Hospital Arnau de Vilanova,HAV,15-44,Dona,3,18.46
+2025-01-28,Hospital Arnau de Vilanova,HAV,15-44,Home,5,18.46
+2025-01-28,Hospital Arnau de Vilanova,HAV,45-64,Dona,5,18.46
+2025-01-28,Hospital Arnau de Vilanova,HAV,45-64,Home,4,18.46
+2025-01-28,Hospital Arnau de Vilanova,HAV,65+,Dona,8,18.46
+2025-01-28,Hospital Arnau de Vilanova,HAV,65+,Home,11,18.46
+2025-01-28,Hospital Josep Trueta,HJT,0-14,Dona,0,19.6
+2025-01-28,Hospital Josep Trueta,HJT,0-14,Home,4,19.6
+2025-01-28,Hospital Josep Trueta,HJT,15-44,Dona,6,19.6
+2025-01-28,Hospital Josep Trueta,HJT,15-44,Home,2,19.6
+2025-01-28,Hospital Josep Trueta,HJT,45-64,Dona,2,19.6
+2025-01-28,Hospital Josep Trueta,HJT,45-64,Home,6,19.6
+2025-01-28,Hospital Josep Trueta,HJT,65+,Dona,11,19.6
+2025-01-28,Hospital Josep Trueta,HJT,65+,Home,7,19.6
+2025-01-29,Hospital Vall d'Hebron,HVD,0-14,Dona,1,0.03
+2025-01-29,Hospital Vall d'Hebron,HVD,0-14,Home,1,0.03
+2025-01-29,Hospital Vall d'Hebron,HVD,15-44,Dona,4,0.03
+2025-01-29,Hospital Vall d'Hebron,HVD,15-44,Home,1,0.03
+2025-01-29,Hospital Vall d'Hebron,HVD,45-64,Dona,2,0.03
+2025-01-29,Hospital Vall d'Hebron,HVD,45-64,Home,3,0.03
+2025-01-29,Hospital Vall d'Hebron,HVD,65+,Dona,2,0.03
+2025-01-29,Hospital Vall d'Hebron,HVD,65+,Home,4,0.03
+2025-01-29,Hospital Clínic,HC,0-14,Dona,0,0.22
+2025-01-29,Hospital Clínic,HC,0-14,Home,1,0.22
+2025-01-29,Hospital Clínic,HC,15-44,Dona,2,0.22
+2025-01-29,Hospital Clínic,HC,15-44,Home,1,0.22
+2025-01-29,Hospital Clínic,HC,45-64,Dona,3,0.22
+2025-01-29,Hospital Clínic,HC,45-64,Home,0,0.22
+2025-01-29,Hospital Clínic,HC,65+,Dona,2,0.22
+2025-01-29,Hospital Clínic,HC,65+,Home,4,0.22
+2025-01-29,Hospital Sant Pau,HSP,0-14,Dona,1,1.12
+2025-01-29,Hospital Sant Pau,HSP,0-14,Home,0,1.12
+2025-01-29,Hospital Sant Pau,HSP,15-44,Dona,1,1.12
+2025-01-29,Hospital Sant Pau,HSP,15-44,Home,1,1.12
+2025-01-29,Hospital Sant Pau,HSP,45-64,Dona,0,1.12
+2025-01-29,Hospital Sant Pau,HSP,45-64,Home,3,1.12
+2025-01-29,Hospital Sant Pau,HSP,65+,Dona,2,1.12
+2025-01-29,Hospital Sant Pau,HSP,65+,Home,2,1.12
+2025-01-29,Hospital Bellvitge,HB,0-14,Dona,0,3.96
+2025-01-29,Hospital Bellvitge,HB,0-14,Home,0,3.96
+2025-01-29,Hospital Bellvitge,HB,15-44,Dona,2,3.96
+2025-01-29,Hospital Bellvitge,HB,15-44,Home,2,3.96
+2025-01-29,Hospital Bellvitge,HB,45-64,Dona,1,3.96
+2025-01-29,Hospital Bellvitge,HB,45-64,Home,0,3.96
+2025-01-29,Hospital Bellvitge,HB,65+,Dona,0,3.96
+2025-01-29,Hospital Bellvitge,HB,65+,Home,1,3.96
+2025-01-29,Hospital Can Ruti,HCR,0-14,Dona,1,9.74
+2025-01-29,Hospital Can Ruti,HCR,0-14,Home,0,9.74
+2025-01-29,Hospital Can Ruti,HCR,15-44,Dona,3,9.74
+2025-01-29,Hospital Can Ruti,HCR,15-44,Home,4,9.74
+2025-01-29,Hospital Can Ruti,HCR,45-64,Dona,4,9.74
+2025-01-29,Hospital Can Ruti,HCR,45-64,Home,2,9.74
+2025-01-29,Hospital Can Ruti,HCR,65+,Dona,6,9.74
+2025-01-29,Hospital Can Ruti,HCR,65+,Home,9,9.74
+2025-01-29,Hospital Arnau de Vilanova,HAV,0-14,Dona,2,16.71
+2025-01-29,Hospital Arnau de Vilanova,HAV,0-14,Home,1,16.71
+2025-01-29,Hospital Arnau de Vilanova,HAV,15-44,Dona,4,16.71
+2025-01-29,Hospital Arnau de Vilanova,HAV,15-44,Home,6,16.71
+2025-01-29,Hospital Arnau de Vilanova,HAV,45-64,Dona,3,16.71
+2025-01-29,Hospital Arnau de Vilanova,HAV,45-64,Home,2,16.71
+2025-01-29,Hospital Arnau de Vilanova,HAV,65+,Dona,10,16.71
+2025-01-29,Hospital Arnau de Vilanova,HAV,65+,Home,4,16.71
+2025-01-29,Hospital Josep Trueta,HJT,0-14,Dona,1,20.0
+2025-01-29,Hospital Josep Trueta,HJT,0-14,Home,2,20.0
+2025-01-29,Hospital Josep Trueta,HJT,15-44,Dona,1,20.0
+2025-01-29,Hospital Josep Trueta,HJT,15-44,Home,1,20.0
+2025-01-29,Hospital Josep Trueta,HJT,45-64,Dona,4,20.0
+2025-01-29,Hospital Josep Trueta,HJT,45-64,Home,6,20.0
+2025-01-29,Hospital Josep Trueta,HJT,65+,Dona,12,20.0
+2025-01-29,Hospital Josep Trueta,HJT,65+,Home,14,20.0
+2025-01-30,Hospital Vall d'Hebron,HVD,0-14,Dona,1,0.01
+2025-01-30,Hospital Vall d'Hebron,HVD,0-14,Home,2,0.01
+2025-01-30,Hospital Vall d'Hebron,HVD,15-44,Dona,2,0.01
+2025-01-30,Hospital Vall d'Hebron,HVD,15-44,Home,1,0.01
+2025-01-30,Hospital Vall d'Hebron,HVD,45-64,Dona,3,0.01
+2025-01-30,Hospital Vall d'Hebron,HVD,45-64,Home,0,0.01
+2025-01-30,Hospital Vall d'Hebron,HVD,65+,Dona,5,0.01
+2025-01-30,Hospital Vall d'Hebron,HVD,65+,Home,2,0.01
+2025-01-30,Hospital Clínic,HC,0-14,Dona,1,0.12
+2025-01-30,Hospital Clínic,HC,0-14,Home,1,0.12
+2025-01-30,Hospital Clínic,HC,15-44,Dona,2,0.12
+2025-01-30,Hospital Clínic,HC,15-44,Home,0,0.12
+2025-01-30,Hospital Clínic,HC,45-64,Dona,2,0.12
+2025-01-30,Hospital Clínic,HC,45-64,Home,4,0.12
+2025-01-30,Hospital Clínic,HC,65+,Dona,4,0.12
+2025-01-30,Hospital Clínic,HC,65+,Home,5,0.12
+2025-01-30,Hospital Sant Pau,HSP,0-14,Dona,1,0.68
+2025-01-30,Hospital Sant Pau,HSP,0-14,Home,0,0.68
+2025-01-30,Hospital Sant Pau,HSP,15-44,Dona,0,0.68
+2025-01-30,Hospital Sant Pau,HSP,15-44,Home,1,0.68
+2025-01-30,Hospital Sant Pau,HSP,45-64,Dona,1,0.68
+2025-01-30,Hospital Sant Pau,HSP,45-64,Home,2,0.68
+2025-01-30,Hospital Sant Pau,HSP,65+,Dona,1,0.68
+2025-01-30,Hospital Sant Pau,HSP,65+,Home,2,0.68
+2025-01-30,Hospital Bellvitge,HB,0-14,Dona,1,2.71
+2025-01-30,Hospital Bellvitge,HB,0-14,Home,1,2.71
+2025-01-30,Hospital Bellvitge,HB,15-44,Dona,0,2.71
+2025-01-30,Hospital Bellvitge,HB,15-44,Home,1,2.71
+2025-01-30,Hospital Bellvitge,HB,45-64,Dona,2,2.71
+2025-01-30,Hospital Bellvitge,HB,45-64,Home,1,2.71
+2025-01-30,Hospital Bellvitge,HB,65+,Dona,1,2.71
+2025-01-30,Hospital Bellvitge,HB,65+,Home,1,2.71
+2025-01-30,Hospital Can Ruti,HCR,0-14,Dona,1,7.51
+2025-01-30,Hospital Can Ruti,HCR,0-14,Home,0,7.51
+2025-01-30,Hospital Can Ruti,HCR,15-44,Dona,1,7.51
+2025-01-30,Hospital Can Ruti,HCR,15-44,Home,4,7.51
+2025-01-30,Hospital Can Ruti,HCR,45-64,Dona,2,7.51
+2025-01-30,Hospital Can Ruti,HCR,45-64,Home,2,7.51
+2025-01-30,Hospital Can Ruti,HCR,65+,Dona,6,7.51
+2025-01-30,Hospital Can Ruti,HCR,65+,Home,6,7.51
+2025-01-30,Hospital Arnau de Vilanova,HAV,0-14,Dona,3,14.52
+2025-01-30,Hospital Arnau de Vilanova,HAV,0-14,Home,0,14.52
+2025-01-30,Hospital Arnau de Vilanova,HAV,15-44,Dona,3,14.52
+2025-01-30,Hospital Arnau de Vilanova,HAV,15-44,Home,2,14.52
+2025-01-30,Hospital Arnau de Vilanova,HAV,45-64,Dona,3,14.52
+2025-01-30,Hospital Arnau de Vilanova,HAV,45-64,Home,0,14.52
+2025-01-30,Hospital Arnau de Vilanova,HAV,65+,Dona,2,14.52
+2025-01-30,Hospital Arnau de Vilanova,HAV,65+,Home,7,14.52
+2025-01-30,Hospital Josep Trueta,HJT,0-14,Dona,1,19.6
+2025-01-30,Hospital Josep Trueta,HJT,0-14,Home,2,19.6
+2025-01-30,Hospital Josep Trueta,HJT,15-44,Dona,5,19.6
+2025-01-30,Hospital Josep Trueta,HJT,15-44,Home,7,19.6
+2025-01-30,Hospital Josep Trueta,HJT,45-64,Dona,1,19.6
+2025-01-30,Hospital Josep Trueta,HJT,45-64,Home,4,19.6
+2025-01-30,Hospital Josep Trueta,HJT,65+,Dona,8,19.6
+2025-01-30,Hospital Josep Trueta,HJT,65+,Home,11,19.6
+2025-01-31,Hospital Vall d'Hebron,HVD,0-14,Dona,1,0.01
+2025-01-31,Hospital Vall d'Hebron,HVD,0-14,Home,1,0.01
+2025-01-31,Hospital Vall d'Hebron,HVD,15-44,Dona,2,0.01
+2025-01-31,Hospital Vall d'Hebron,HVD,15-44,Home,3,0.01
+2025-01-31,Hospital Vall d'Hebron,HVD,45-64,Dona,0,0.01
+2025-01-31,Hospital Vall d'Hebron,HVD,45-64,Home,2,0.01
+2025-01-31,Hospital Vall d'Hebron,HVD,65+,Dona,4,0.01
+2025-01-31,Hospital Vall d'Hebron,HVD,65+,Home,3,0.01
+2025-01-31,Hospital Clínic,HC,0-14,Dona,2,0.06
+2025-01-31,Hospital Clínic,HC,0-14,Home,1,0.06
+2025-01-31,Hospital Clínic,HC,15-44,Dona,4,0.06
+2025-01-31,Hospital Clínic,HC,15-44,Home,2,0.06
+2025-01-31,Hospital Clínic,HC,45-64,Dona,1,0.06
+2025-01-31,Hospital Clínic,HC,45-64,Home,3,0.06
+2025-01-31,Hospital Clínic,HC,65+,Dona,3,0.06
+2025-01-31,Hospital Clínic,HC,65+,Home,0,0.06
+2025-01-31,Hospital Sant Pau,HSP,0-14,Dona,1,0.4
+2025-01-31,Hospital Sant Pau,HSP,0-14,Home,0,0.4
+2025-01-31,Hospital Sant Pau,HSP,15-44,Dona,2,0.4
+2025-01-31,Hospital Sant Pau,HSP,15-44,Home,1,0.4
+2025-01-31,Hospital Sant Pau,HSP,45-64,Dona,1,0.4
+2025-01-31,Hospital Sant Pau,HSP,45-64,Home,1,0.4
+2025-01-31,Hospital Sant Pau,HSP,65+,Dona,0,0.4
+2025-01-31,Hospital Sant Pau,HSP,65+,Home,2,0.4
+2025-01-31,Hospital Bellvitge,HB,0-14,Dona,1,1.78
+2025-01-31,Hospital Bellvitge,HB,0-14,Home,0,1.78
+2025-01-31,Hospital Bellvitge,HB,15-44,Dona,1,1.78
+2025-01-31,Hospital Bellvitge,HB,15-44,Home,0,1.78
+2025-01-31,Hospital Bellvitge,HB,45-64,Dona,3,1.78
+2025-01-31,Hospital Bellvitge,HB,45-64,Home,0,1.78
+2025-01-31,Hospital Bellvitge,HB,65+,Dona,2,1.78
+2025-01-31,Hospital Bellvitge,HB,65+,Home,2,1.78
+2025-01-31,Hospital Can Ruti,HCR,0-14,Dona,0,5.56
+2025-01-31,Hospital Can Ruti,HCR,0-14,Home,0,5.56
+2025-01-31,Hospital Can Ruti,HCR,15-44,Dona,1,5.56
+2025-01-31,Hospital Can Ruti,HCR,15-44,Home,3,5.56
+2025-01-31,Hospital Can Ruti,HCR,45-64,Dona,4,5.56
+2025-01-31,Hospital Can Ruti,HCR,45-64,Home,5,5.56
+2025-01-31,Hospital Can Ruti,HCR,65+,Dona,5,5.56
+2025-01-31,Hospital Can Ruti,HCR,65+,Home,5,5.56
+2025-01-31,Hospital Arnau de Vilanova,HAV,0-14,Dona,0,12.13
+2025-01-31,Hospital Arnau de Vilanova,HAV,0-14,Home,2,12.13
+2025-01-31,Hospital Arnau de Vilanova,HAV,15-44,Dona,0,12.13
+2025-01-31,Hospital Arnau de Vilanova,HAV,15-44,Home,8,12.13
+2025-01-31,Hospital Arnau de Vilanova,HAV,45-64,Dona,6,12.13
+2025-01-31,Hospital Arnau de Vilanova,HAV,45-64,Home,4,12.13
+2025-01-31,Hospital Arnau de Vilanova,HAV,65+,Dona,6,12.13
+2025-01-31,Hospital Arnau de Vilanova,HAV,65+,Home,3,12.13
+2025-01-31,Hospital Josep Trueta,HJT,0-14,Dona,2,18.46
+2025-01-31,Hospital Josep Trueta,HJT,0-14,Home,3,18.46
+2025-01-31,Hospital Josep Trueta,HJT,15-44,Dona,1,18.46
+2025-01-31,Hospital Josep Trueta,HJT,15-44,Home,4,18.46
+2025-01-31,Hospital Josep Trueta,HJT,45-64,Dona,2,18.46
+2025-01-31,Hospital Josep Trueta,HJT,45-64,Home,2,18.46
+2025-01-31,Hospital Josep Trueta,HJT,65+,Dona,9,18.46
+2025-01-31,Hospital Josep Trueta,HJT,65+,Home,5,18.46
+2025-02-01,Hospital Vall d'Hebron,HVD,0-14,Dona,0,0.0
+2025-02-01,Hospital Vall d'Hebron,HVD,0-14,Home,0,0.0
+2025-02-01,Hospital Vall d'Hebron,HVD,15-44,Dona,1,0.0
+2025-02-01,Hospital Vall d'Hebron,HVD,15-44,Home,3,0.0
+2025-02-01,Hospital Vall d'Hebron,HVD,45-64,Dona,2,0.0
+2025-02-01,Hospital Vall d'Hebron,HVD,45-64,Home,1,0.0
+2025-02-01,Hospital Vall d'Hebron,HVD,65+,Dona,2,0.0
+2025-02-01,Hospital Vall d'Hebron,HVD,65+,Home,3,0.0
+2025-02-01,Hospital Clínic,HC,0-14,Dona,1,0.03
+2025-02-01,Hospital Clínic,HC,0-14,Home,0,0.03
+2025-02-01,Hospital Clínic,HC,15-44,Dona,2,0.03
+2025-02-01,Hospital Clínic,HC,15-44,Home,1,0.03
+2025-02-01,Hospital Clínic,HC,45-64,Dona,2,0.03
+2025-02-01,Hospital Clínic,HC,45-64,Home,0,0.03
+2025-02-01,Hospital Clínic,HC,65+,Dona,0,0.03
+2025-02-01,Hospital Clínic,HC,65+,Home,4,0.03
+2025-02-01,Hospital Sant Pau,HSP,0-14,Dona,1,0.22
+2025-02-01,Hospital Sant Pau,HSP,0-14,Home,1,0.22
+2025-02-01,Hospital Sant Pau,HSP,15-44,Dona,1,0.22
+2025-02-01,Hospital Sant Pau,HSP,15-44,Home,3,0.22
+2025-02-01,Hospital Sant Pau,HSP,45-64,Dona,0,0.22
+2025-02-01,Hospital Sant Pau,HSP,45-64,Home,1,0.22
+2025-02-01,Hospital Sant Pau,HSP,65+,Dona,4,0.22
+2025-02-01,Hospital Sant Pau,HSP,65+,Home,1,0.22
+2025-02-01,Hospital Bellvitge,HB,0-14,Dona,0,1.12
+2025-02-01,Hospital Bellvitge,HB,0-14,Home,1,1.12
+2025-02-01,Hospital Bellvitge,HB,15-44,Dona,0,1.12
+2025-02-01,Hospital Bellvitge,HB,15-44,Home,0,1.12
+2025-02-01,Hospital Bellvitge,HB,45-64,Dona,3,1.12
+2025-02-01,Hospital Bellvitge,HB,45-64,Home,1,1.12
+2025-02-01,Hospital Bellvitge,HB,65+,Dona,1,1.12
+2025-02-01,Hospital Bellvitge,HB,65+,Home,0,1.12
+2025-02-01,Hospital Can Ruti,HCR,0-14,Dona,3,3.96
+2025-02-01,Hospital Can Ruti,HCR,0-14,Home,0,3.96
+2025-02-01,Hospital Can Ruti,HCR,15-44,Dona,1,3.96
+2025-02-01,Hospital Can Ruti,HCR,15-44,Home,3,3.96
+2025-02-01,Hospital Can Ruti,HCR,45-64,Dona,3,3.96
+2025-02-01,Hospital Can Ruti,HCR,45-64,Home,0,3.96
+2025-02-01,Hospital Can Ruti,HCR,65+,Dona,7,3.96
+2025-02-01,Hospital Can Ruti,HCR,65+,Home,3,3.96
+2025-02-01,Hospital Arnau de Vilanova,HAV,0-14,Dona,1,9.74
+2025-02-01,Hospital Arnau de Vilanova,HAV,0-14,Home,1,9.74
+2025-02-01,Hospital Arnau de Vilanova,HAV,15-44,Dona,2,9.74
+2025-02-01,Hospital Arnau de Vilanova,HAV,15-44,Home,4,9.74
+2025-02-01,Hospital Arnau de Vilanova,HAV,45-64,Dona,1,9.74
+2025-02-01,Hospital Arnau de Vilanova,HAV,45-64,Home,2,9.74
+2025-02-01,Hospital Arnau de Vilanova,HAV,65+,Dona,7,9.74
+2025-02-01,Hospital Arnau de Vilanova,HAV,65+,Home,4,9.74
+2025-02-01,Hospital Josep Trueta,HJT,0-14,Dona,4,16.71
+2025-02-01,Hospital Josep Trueta,HJT,0-14,Home,2,16.71
+2025-02-01,Hospital Josep Trueta,HJT,15-44,Dona,3,16.71
+2025-02-01,Hospital Josep Trueta,HJT,15-44,Home,1,16.71
+2025-02-01,Hospital Josep Trueta,HJT,45-64,Dona,3,16.71
+2025-02-01,Hospital Josep Trueta,HJT,45-64,Home,6,16.71
+2025-02-01,Hospital Josep Trueta,HJT,65+,Dona,4,16.71
+2025-02-01,Hospital Josep Trueta,HJT,65+,Home,13,16.71
+2025-02-02,Hospital Vall d'Hebron,HVD,0-14,Dona,2,0.0
+2025-02-02,Hospital Vall d'Hebron,HVD,0-14,Home,3,0.0
+2025-02-02,Hospital Vall d'Hebron,HVD,15-44,Dona,3,0.0
+2025-02-02,Hospital Vall d'Hebron,HVD,15-44,Home,3,0.0
+2025-02-02,Hospital Vall d'Hebron,HVD,45-64,Dona,3,0.0
+2025-02-02,Hospital Vall d'Hebron,HVD,45-64,Home,3,0.0
+2025-02-02,Hospital Vall d'Hebron,HVD,65+,Dona,2,0.0
+2025-02-02,Hospital Vall d'Hebron,HVD,65+,Home,7,0.0
+2025-02-02,Hospital Clínic,HC,0-14,Dona,0,0.01
+2025-02-02,Hospital Clínic,HC,0-14,Home,1,0.01
+2025-02-02,Hospital Clínic,HC,15-44,Dona,1,0.01
+2025-02-02,Hospital Clínic,HC,15-44,Home,2,0.01
+2025-02-02,Hospital Clínic,HC,45-64,Dona,4,0.01
+2025-02-02,Hospital Clínic,HC,45-64,Home,0,0.01
+2025-02-02,Hospital Clínic,HC,65+,Dona,5,0.01
+2025-02-02,Hospital Clínic,HC,65+,Home,4,0.01
+2025-02-02,Hospital Sant Pau,HSP,0-14,Dona,1,0.12
+2025-02-02,Hospital Sant Pau,HSP,0-14,Home,0,0.12
+2025-02-02,Hospital Sant Pau,HSP,15-44,Dona,1,0.12
+2025-02-02,Hospital Sant Pau,HSP,15-44,Home,1,0.12
+2025-02-02,Hospital Sant Pau,HSP,45-64,Dona,3,0.12
+2025-02-02,Hospital Sant Pau,HSP,45-64,Home,0,0.12
+2025-02-02,Hospital Sant Pau,HSP,65+,Dona,2,0.12
+2025-02-02,Hospital Sant Pau,HSP,65+,Home,1,0.12
+2025-02-02,Hospital Bellvitge,HB,0-14,Dona,1,0.68
+2025-02-02,Hospital Bellvitge,HB,0-14,Home,0,0.68
+2025-02-02,Hospital Bellvitge,HB,15-44,Dona,2,0.68
+2025-02-02,Hospital Bellvitge,HB,15-44,Home,1,0.68
+2025-02-02,Hospital Bellvitge,HB,45-64,Dona,0,0.68
+2025-02-02,Hospital Bellvitge,HB,45-64,Home,1,0.68
+2025-02-02,Hospital Bellvitge,HB,65+,Dona,1,0.68
+2025-02-02,Hospital Bellvitge,HB,65+,Home,2,0.68
+2025-02-02,Hospital Can Ruti,HCR,0-14,Dona,0,2.71
+2025-02-02,Hospital Can Ruti,HCR,0-14,Home,2,2.71
+2025-02-02,Hospital Can Ruti,HCR,15-44,Dona,5,2.71
+2025-02-02,Hospital Can Ruti,HCR,15-44,Home,1,2.71
+2025-02-02,Hospital Can Ruti,HCR,45-64,Dona,0,2.71
+2025-02-02,Hospital Can Ruti,HCR,45-64,Home,0,2.71
+2025-02-02,Hospital Can Ruti,HCR,65+,Dona,5,2.71
+2025-02-02,Hospital Can Ruti,HCR,65+,Home,5,2.71
+2025-02-02,Hospital Arnau de Vilanova,HAV,0-14,Dona,0,7.51
+2025-02-02,Hospital Arnau de Vilanova,HAV,0-14,Home,0,7.51
+2025-02-02,Hospital Arnau de Vilanova,HAV,15-44,Dona,0,7.51
+2025-02-02,Hospital Arnau de Vilanova,HAV,15-44,Home,2,7.51
+2025-02-02,Hospital Arnau de Vilanova,HAV,45-64,Dona,1,7.51
+2025-02-02,Hospital Arnau de Vilanova,HAV,45-64,Home,3,7.51
+2025-02-02,Hospital Arnau de Vilanova,HAV,65+,Dona,5,7.51
+2025-02-02,Hospital Arnau de Vilanova,HAV,65+,Home,1,7.51
+2025-02-02,Hospital Josep Trueta,HJT,0-14,Dona,2,14.52
+2025-02-02,Hospital Josep Trueta,HJT,0-14,Home,1,14.52
+2025-02-02,Hospital Josep Trueta,HJT,15-44,Dona,3,14.52
+2025-02-02,Hospital Josep Trueta,HJT,15-44,Home,6,14.52
+2025-02-02,Hospital Josep Trueta,HJT,45-64,Dona,4,14.52
+2025-02-02,Hospital Josep Trueta,HJT,45-64,Home,2,14.52
+2025-02-02,Hospital Josep Trueta,HJT,65+,Dona,4,14.52
+2025-02-02,Hospital Josep Trueta,HJT,65+,Home,3,14.52
+2025-02-03,Hospital Vall d'Hebron,HVD,0-14,Dona,0,0.0
+2025-02-03,Hospital Vall d'Hebron,HVD,0-14,Home,0,0.0
+2025-02-03,Hospital Vall d'Hebron,HVD,15-44,Dona,0,0.0
+2025-02-03,Hospital Vall d'Hebron,HVD,15-44,Home,2,0.0
+2025-02-03,Hospital Vall d'Hebron,HVD,45-64,Dona,2,0.0
+2025-02-03,Hospital Vall d'Hebron,HVD,45-64,Home,1,0.0
+2025-02-03,Hospital Vall d'Hebron,HVD,65+,Dona,0,0.0
+2025-02-03,Hospital Vall d'Hebron,HVD,65+,Home,4,0.0
+2025-02-03,Hospital Clínic,HC,0-14,Dona,0,0.01
+2025-02-03,Hospital Clínic,HC,0-14,Home,2,0.01
+2025-02-03,Hospital Clínic,HC,15-44,Dona,1,0.01
+2025-02-03,Hospital Clínic,HC,15-44,Home,1,0.01
+2025-02-03,Hospital Clínic,HC,45-64,Dona,2,0.01
+2025-02-03,Hospital Clínic,HC,45-64,Home,0,0.01
+2025-02-03,Hospital Clínic,HC,65+,Dona,3,0.01
+2025-02-03,Hospital Clínic,HC,65+,Home,3,0.01
+2025-02-03,Hospital Sant Pau,HSP,0-14,Dona,1,0.06
+2025-02-03,Hospital Sant Pau,HSP,0-14,Home,1,0.06
+2025-02-03,Hospital Sant Pau,HSP,15-44,Dona,0,0.06
+2025-02-03,Hospital Sant Pau,HSP,15-44,Home,0,0.06
+2025-02-03,Hospital Sant Pau,HSP,45-64,Dona,0,0.06
+2025-02-03,Hospital Sant Pau,HSP,45-64,Home,1,0.06
+2025-02-03,Hospital Sant Pau,HSP,65+,Dona,1,0.06
+2025-02-03,Hospital Sant Pau,HSP,65+,Home,3,0.06
+2025-02-03,Hospital Bellvitge,HB,0-14,Dona,1,0.4
+2025-02-03,Hospital Bellvitge,HB,0-14,Home,0,0.4
+2025-02-03,Hospital Bellvitge,HB,15-44,Dona,0,0.4
+2025-02-03,Hospital Bellvitge,HB,15-44,Home,0,0.4
+2025-02-03,Hospital Bellvitge,HB,45-64,Dona,0,0.4
+2025-02-03,Hospital Bellvitge,HB,45-64,Home,0,0.4
+2025-02-03,Hospital Bellvitge,HB,65+,Dona,1,0.4
+2025-02-03,Hospital Bellvitge,HB,65+,Home,0,0.4
+2025-02-03,Hospital Can Ruti,HCR,0-14,Dona,0,1.78
+2025-02-03,Hospital Can Ruti,HCR,0-14,Home,2,1.78
+2025-02-03,Hospital Can Ruti,HCR,15-44,Dona,3,1.78
+2025-02-03,Hospital Can Ruti,HCR,15-44,Home,0,1.78
+2025-02-03,Hospital Can Ruti,HCR,45-64,Dona,2,1.78
+2025-02-03,Hospital Can Ruti,HCR,45-64,Home,5,1.78
+2025-02-03,Hospital Can Ruti,HCR,65+,Dona,1,1.78
+2025-02-03,Hospital Can Ruti,HCR,65+,Home,4,1.78
+2025-02-03,Hospital Arnau de Vilanova,HAV,0-14,Dona,0,5.56
+2025-02-03,Hospital Arnau de Vilanova,HAV,0-14,Home,0,5.56
+2025-02-03,Hospital Arnau de Vilanova,HAV,15-44,Dona,6,5.56
+2025-02-03,Hospital Arnau de Vilanova,HAV,15-44,Home,1,5.56
+2025-02-03,Hospital Arnau de Vilanova,HAV,45-64,Dona,2,5.56
+2025-02-03,Hospital Arnau de Vilanova,HAV,45-64,Home,4,5.56
+2025-02-03,Hospital Arnau de Vilanova,HAV,65+,Dona,4,5.56
+2025-02-03,Hospital Arnau de Vilanova,HAV,65+,Home,6,5.56
+2025-02-03,Hospital Josep Trueta,HJT,0-14,Dona,2,12.13
+2025-02-03,Hospital Josep Trueta,HJT,0-14,Home,1,12.13
+2025-02-03,Hospital Josep Trueta,HJT,15-44,Dona,2,12.13
+2025-02-03,Hospital Josep Trueta,HJT,15-44,Home,2,12.13
+2025-02-03,Hospital Josep Trueta,HJT,45-64,Dona,1,12.13
+2025-02-03,Hospital Josep Trueta,HJT,45-64,Home,3,12.13
+2025-02-03,Hospital Josep Trueta,HJT,65+,Dona,6,12.13
+2025-02-03,Hospital Josep Trueta,HJT,65+,Home,4,12.13
+2025-02-04,Hospital Vall d'Hebron,HVD,0-14,Dona,0,0.0
+2025-02-04,Hospital Vall d'Hebron,HVD,0-14,Home,0,0.0
+2025-02-04,Hospital Vall d'Hebron,HVD,15-44,Dona,0,0.0
+2025-02-04,Hospital Vall d'Hebron,HVD,15-44,Home,1,0.0
+2025-02-04,Hospital Vall d'Hebron,HVD,45-64,Dona,2,0.0
+2025-02-04,Hospital Vall d'Hebron,HVD,45-64,Home,4,0.0
+2025-02-04,Hospital Vall d'Hebron,HVD,65+,Dona,2,0.0
+2025-02-04,Hospital Vall d'Hebron,HVD,65+,Home,3,0.0
+2025-02-04,Hospital Clínic,HC,0-14,Dona,1,0.0
+2025-02-04,Hospital Clínic,HC,0-14,Home,1,0.0
+2025-02-04,Hospital Clínic,HC,15-44,Dona,2,0.0
+2025-02-04,Hospital Clínic,HC,15-44,Home,0,0.0
+2025-02-04,Hospital Clínic,HC,45-64,Dona,4,0.0
+2025-02-04,Hospital Clínic,HC,45-64,Home,1,0.0
+2025-02-04,Hospital Clínic,HC,65+,Dona,3,0.0
+2025-02-04,Hospital Clínic,HC,65+,Home,7,0.0
+2025-02-04,Hospital Sant Pau,HSP,0-14,Dona,0,0.03
+2025-02-04,Hospital Sant Pau,HSP,0-14,Home,0,0.03
+2025-02-04,Hospital Sant Pau,HSP,15-44,Dona,0,0.03
+2025-02-04,Hospital Sant Pau,HSP,15-44,Home,1,0.03
+2025-02-04,Hospital Sant Pau,HSP,45-64,Dona,0,0.03
+2025-02-04,Hospital Sant Pau,HSP,45-64,Home,1,0.03
+2025-02-04,Hospital Sant Pau,HSP,65+,Dona,2,0.03
+2025-02-04,Hospital Sant Pau,HSP,65+,Home,1,0.03
+2025-02-04,Hospital Bellvitge,HB,0-14,Dona,0,0.22
+2025-02-04,Hospital Bellvitge,HB,0-14,Home,1,0.22
+2025-02-04,Hospital Bellvitge,HB,15-44,Dona,2,0.22
+2025-02-04,Hospital Bellvitge,HB,15-44,Home,0,0.22
+2025-02-04,Hospital Bellvitge,HB,45-64,Dona,0,0.22
+2025-02-04,Hospital Bellvitge,HB,45-64,Home,0,0.22
+2025-02-04,Hospital Bellvitge,HB,65+,Dona,1,0.22
+2025-02-04,Hospital Bellvitge,HB,65+,Home,0,0.22
+2025-02-04,Hospital Can Ruti,HCR,0-14,Dona,0,1.12
+2025-02-04,Hospital Can Ruti,HCR,0-14,Home,3,1.12
+2025-02-04,Hospital Can Ruti,HCR,15-44,Dona,1,1.12
+2025-02-04,Hospital Can Ruti,HCR,15-44,Home,2,1.12
+2025-02-04,Hospital Can Ruti,HCR,45-64,Dona,3,1.12
+2025-02-04,Hospital Can Ruti,HCR,45-64,Home,1,1.12
+2025-02-04,Hospital Can Ruti,HCR,65+,Dona,2,1.12
+2025-02-04,Hospital Can Ruti,HCR,65+,Home,4,1.12
+2025-02-04,Hospital Arnau de Vilanova,HAV,0-14,Dona,0,3.96
+2025-02-04,Hospital Arnau de Vilanova,HAV,0-14,Home,1,3.96
+2025-02-04,Hospital Arnau de Vilanova,HAV,15-44,Dona,1,3.96
+2025-02-04,Hospital Arnau de Vilanova,HAV,15-44,Home,1,3.96
+2025-02-04,Hospital Arnau de Vilanova,HAV,45-64,Dona,2,3.96
+2025-02-04,Hospital Arnau de Vilanova,HAV,45-64,Home,1,3.96
+2025-02-04,Hospital Arnau de Vilanova,HAV,65+,Dona,3,3.96
+2025-02-04,Hospital Arnau de Vilanova,HAV,65+,Home,7,3.96
+2025-02-04,Hospital Josep Trueta,HJT,0-14,Dona,1,9.74
+2025-02-04,Hospital Josep Trueta,HJT,0-14,Home,2,9.74
+2025-02-04,Hospital Josep Trueta,HJT,15-44,Dona,3,9.74
+2025-02-04,Hospital Josep Trueta,HJT,15-44,Home,2,9.74
+2025-02-04,Hospital Josep Trueta,HJT,45-64,Dona,2,9.74
+2025-02-04,Hospital Josep Trueta,HJT,45-64,Home,2,9.74
+2025-02-04,Hospital Josep Trueta,HJT,65+,Dona,3,9.74
+2025-02-04,Hospital Josep Trueta,HJT,65+,Home,4,9.74
+2025-02-05,Hospital Vall d'Hebron,HVD,0-14,Dona,1,0.0
+2025-02-05,Hospital Vall d'Hebron,HVD,0-14,Home,1,0.0
+2025-02-05,Hospital Vall d'Hebron,HVD,15-44,Dona,3,0.0
+2025-02-05,Hospital Vall d'Hebron,HVD,15-44,Home,1,0.0
+2025-02-05,Hospital Vall d'Hebron,HVD,45-64,Dona,2,0.0
+2025-02-05,Hospital Vall d'Hebron,HVD,45-64,Home,3,0.0
+2025-02-05,Hospital Vall d'Hebron,HVD,65+,Dona,5,0.0
+2025-02-05,Hospital Vall d'Hebron,HVD,65+,Home,3,0.0
+2025-02-05,Hospital Clínic,HC,0-14,Dona,0,0.0
+2025-02-05,Hospital Clínic,HC,0-14,Home,1,0.0
+2025-02-05,Hospital Clínic,HC,15-44,Dona,4,0.0
+2025-02-05,Hospital Clínic,HC,15-44,Home,3,0.0
+2025-02-05,Hospital Clínic,HC,45-64,Dona,3,0.0
+2025-02-05,Hospital Clínic,HC,45-64,Home,2,0.0
+2025-02-05,Hospital Clínic,HC,65+,Dona,4,0.0
+2025-02-05,Hospital Clínic,HC,65+,Home,5,0.0
+2025-02-05,Hospital Sant Pau,HSP,0-14,Dona,0,0.01
+2025-02-05,Hospital Sant Pau,HSP,0-14,Home,2,0.01
+2025-02-05,Hospital Sant Pau,HSP,15-44,Dona,1,0.01
+2025-02-05,Hospital Sant Pau,HSP,15-44,Home,0,0.01
+2025-02-05,Hospital Sant Pau,HSP,45-64,Dona,0,0.01
+2025-02-05,Hospital Sant Pau,HSP,45-64,Home,1,0.01
+2025-02-05,Hospital Sant Pau,HSP,65+,Dona,4,0.01
+2025-02-05,Hospital Sant Pau,HSP,65+,Home,4,0.01
+2025-02-05,Hospital Bellvitge,HB,0-14,Dona,0,0.12
+2025-02-05,Hospital Bellvitge,HB,0-14,Home,0,0.12
+2025-02-05,Hospital Bellvitge,HB,15-44,Dona,0,0.12
+2025-02-05,Hospital Bellvitge,HB,15-44,Home,0,0.12
+2025-02-05,Hospital Bellvitge,HB,45-64,Dona,1,0.12
+2025-02-05,Hospital Bellvitge,HB,45-64,Home,0,0.12
+2025-02-05,Hospital Bellvitge,HB,65+,Dona,2,0.12
+2025-02-05,Hospital Bellvitge,HB,65+,Home,2,0.12
+2025-02-05,Hospital Can Ruti,HCR,0-14,Dona,2,0.68
+2025-02-05,Hospital Can Ruti,HCR,0-14,Home,4,0.68
+2025-02-05,Hospital Can Ruti,HCR,15-44,Dona,1,0.68
+2025-02-05,Hospital Can Ruti,HCR,15-44,Home,0,0.68
+2025-02-05,Hospital Can Ruti,HCR,45-64,Dona,2,0.68
+2025-02-05,Hospital Can Ruti,HCR,45-64,Home,0,0.68
+2025-02-05,Hospital Can Ruti,HCR,65+,Dona,5,0.68
+2025-02-05,Hospital Can Ruti,HCR,65+,Home,5,0.68
+2025-02-05,Hospital Arnau de Vilanova,HAV,0-14,Dona,1,2.71
+2025-02-05,Hospital Arnau de Vilanova,HAV,0-14,Home,0,2.71
+2025-02-05,Hospital Arnau de Vilanova,HAV,15-44,Dona,1,2.71
+2025-02-05,Hospital Arnau de Vilanova,HAV,15-44,Home,2,2.71
+2025-02-05,Hospital Arnau de Vilanova,HAV,45-64,Dona,2,2.71
+2025-02-05,Hospital Arnau de Vilanova,HAV,45-64,Home,0,2.71
+2025-02-05,Hospital Arnau de Vilanova,HAV,65+,Dona,1,2.71
+2025-02-05,Hospital Arnau de Vilanova,HAV,65+,Home,1,2.71
+2025-02-05,Hospital Josep Trueta,HJT,0-14,Dona,1,7.51
+2025-02-05,Hospital Josep Trueta,HJT,0-14,Home,0,7.51
+2025-02-05,Hospital Josep Trueta,HJT,15-44,Dona,4,7.51
+2025-02-05,Hospital Josep Trueta,HJT,15-44,Home,1,7.51
+2025-02-05,Hospital Josep Trueta,HJT,45-64,Dona,7,7.51
+2025-02-05,Hospital Josep Trueta,HJT,45-64,Home,4,7.51
+2025-02-05,Hospital Josep Trueta,HJT,65+,Dona,5,7.51
+2025-02-05,Hospital Josep Trueta,HJT,65+,Home,2,7.51
+2025-02-06,Hospital Vall d'Hebron,HVD,0-14,Dona,1,0.0
+2025-02-06,Hospital Vall d'Hebron,HVD,0-14,Home,1,0.0
+2025-02-06,Hospital Vall d'Hebron,HVD,15-44,Dona,1,0.0
+2025-02-06,Hospital Vall d'Hebron,HVD,15-44,Home,5,0.0
+2025-02-06,Hospital Vall d'Hebron,HVD,45-64,Dona,0,0.0
+2025-02-06,Hospital Vall d'Hebron,HVD,45-64,Home,1,0.0
+2025-02-06,Hospital Vall d'Hebron,HVD,65+,Dona,4,0.0
+2025-02-06,Hospital Vall d'Hebron,HVD,65+,Home,1,0.0
+2025-02-06,Hospital Clínic,HC,0-14,Dona,0,0.0
+2025-02-06,Hospital Clínic,HC,0-14,Home,0,0.0
+2025-02-06,Hospital Clínic,HC,15-44,Dona,4,0.0
+2025-02-06,Hospital Clínic,HC,15-44,Home,1,0.0
+2025-02-06,Hospital Clínic,HC,45-64,Dona,2,0.0
+2025-02-06,Hospital Clínic,HC,45-64,Home,1,0.0
+2025-02-06,Hospital Clínic,HC,65+,Dona,5,0.0
+2025-02-06,Hospital Clínic,HC,65+,Home,4,0.0
+2025-02-06,Hospital Sant Pau,HSP,0-14,Dona,0,0.01
+2025-02-06,Hospital Sant Pau,HSP,0-14,Home,1,0.01
+2025-02-06,Hospital Sant Pau,HSP,15-44,Dona,0,0.01
+2025-02-06,Hospital Sant Pau,HSP,15-44,Home,0,0.01
+2025-02-06,Hospital Sant Pau,HSP,45-64,Dona,0,0.01
+2025-02-06,Hospital Sant Pau,HSP,45-64,Home,1,0.01
+2025-02-06,Hospital Sant Pau,HSP,65+,Dona,3,0.01
+2025-02-06,Hospital Sant Pau,HSP,65+,Home,5,0.01
+2025-02-06,Hospital Bellvitge,HB,0-14,Dona,0,0.06
+2025-02-06,Hospital Bellvitge,HB,0-14,Home,0,0.06
+2025-02-06,Hospital Bellvitge,HB,15-44,Dona,1,0.06
+2025-02-06,Hospital Bellvitge,HB,15-44,Home,1,0.06
+2025-02-06,Hospital Bellvitge,HB,45-64,Dona,1,0.06
+2025-02-06,Hospital Bellvitge,HB,45-64,Home,0,0.06
+2025-02-06,Hospital Bellvitge,HB,65+,Dona,5,0.06
+2025-02-06,Hospital Bellvitge,HB,65+,Home,4,0.06
+2025-02-06,Hospital Can Ruti,HCR,0-14,Dona,0,0.4
+2025-02-06,Hospital Can Ruti,HCR,0-14,Home,3,0.4
+2025-02-06,Hospital Can Ruti,HCR,15-44,Dona,2,0.4
+2025-02-06,Hospital Can Ruti,HCR,15-44,Home,3,0.4
+2025-02-06,Hospital Can Ruti,HCR,45-64,Dona,1,0.4
+2025-02-06,Hospital Can Ruti,HCR,45-64,Home,1,0.4
+2025-02-06,Hospital Can Ruti,HCR,65+,Dona,5,0.4
+2025-02-06,Hospital Can Ruti,HCR,65+,Home,4,0.4
+2025-02-06,Hospital Arnau de Vilanova,HAV,0-14,Dona,0,1.78
+2025-02-06,Hospital Arnau de Vilanova,HAV,0-14,Home,0,1.78
+2025-02-06,Hospital Arnau de Vilanova,HAV,15-44,Dona,0,1.78
+2025-02-06,Hospital Arnau de Vilanova,HAV,15-44,Home,3,1.78
+2025-02-06,Hospital Arnau de Vilanova,HAV,45-64,Dona,1,1.78
+2025-02-06,Hospital Arnau de Vilanova,HAV,45-64,Home,3,1.78
+2025-02-06,Hospital Arnau de Vilanova,HAV,65+,Dona,5,1.78
+2025-02-06,Hospital Arnau de Vilanova,HAV,65+,Home,1,1.78
+2025-02-06,Hospital Josep Trueta,HJT,0-14,Dona,2,5.56
+2025-02-06,Hospital Josep Trueta,HJT,0-14,Home,1,5.56
+2025-02-06,Hospital Josep Trueta,HJT,15-44,Dona,3,5.56
+2025-02-06,Hospital Josep Trueta,HJT,15-44,Home,2,5.56
+2025-02-06,Hospital Josep Trueta,HJT,45-64,Dona,1,5.56
+2025-02-06,Hospital Josep Trueta,HJT,45-64,Home,3,5.56
+2025-02-06,Hospital Josep Trueta,HJT,65+,Dona,4,5.56
+2025-02-06,Hospital Josep Trueta,HJT,65+,Home,4,5.56
+2025-02-07,Hospital Vall d'Hebron,HVD,0-14,Dona,1,0.0
+2025-02-07,Hospital Vall d'Hebron,HVD,0-14,Home,1,0.0
+2025-02-07,Hospital Vall d'Hebron,HVD,15-44,Dona,2,0.0
+2025-02-07,Hospital Vall d'Hebron,HVD,15-44,Home,3,0.0
+2025-02-07,Hospital Vall d'Hebron,HVD,45-64,Dona,3,0.0
+2025-02-07,Hospital Vall d'Hebron,HVD,45-64,Home,3,0.0
+2025-02-07,Hospital Vall d'Hebron,HVD,65+,Dona,2,0.0
+2025-02-07,Hospital Vall d'Hebron,HVD,65+,Home,5,0.0
+2025-02-07,Hospital Clínic,HC,0-14,Dona,1,0.0
+2025-02-07,Hospital Clínic,HC,0-14,Home,2,0.0
+2025-02-07,Hospital Clínic,HC,15-44,Dona,2,0.0
+2025-02-07,Hospital Clínic,HC,15-44,Home,2,0.0
+2025-02-07,Hospital Clínic,HC,45-64,Dona,4,0.0
+2025-02-07,Hospital Clínic,HC,45-64,Home,2,0.0
+2025-02-07,Hospital Clínic,HC,65+,Dona,2,0.0
+2025-02-07,Hospital Clínic,HC,65+,Home,4,0.0
+2025-02-07,Hospital Sant Pau,HSP,0-14,Dona,0,0.0
+2025-02-07,Hospital Sant Pau,HSP,0-14,Home,2,0.0
+2025-02-07,Hospital Sant Pau,HSP,15-44,Dona,0,0.0
+2025-02-07,Hospital Sant Pau,HSP,15-44,Home,2,0.0
+2025-02-07,Hospital Sant Pau,HSP,45-64,Dona,3,0.0
+2025-02-07,Hospital Sant Pau,HSP,45-64,Home,1,0.0
+2025-02-07,Hospital Sant Pau,HSP,65+,Dona,3,0.0
+2025-02-07,Hospital Sant Pau,HSP,65+,Home,2,0.0
+2025-02-07,Hospital Bellvitge,HB,0-14,Dona,1,0.03
+2025-02-07,Hospital Bellvitge,HB,0-14,Home,3,0.03
+2025-02-07,Hospital Bellvitge,HB,15-44,Dona,0,0.03
+2025-02-07,Hospital Bellvitge,HB,15-44,Home,1,0.03
+2025-02-07,Hospital Bellvitge,HB,45-64,Dona,0,0.03
+2025-02-07,Hospital Bellvitge,HB,45-64,Home,0,0.03
+2025-02-07,Hospital Bellvitge,HB,65+,Dona,1,0.03
+2025-02-07,Hospital Bellvitge,HB,65+,Home,2,0.03
+2025-02-07,Hospital Can Ruti,HCR,0-14,Dona,0,0.22
+2025-02-07,Hospital Can Ruti,HCR,0-14,Home,1,0.22
+2025-02-07,Hospital Can Ruti,HCR,15-44,Dona,3,0.22
+2025-02-07,Hospital Can Ruti,HCR,15-44,Home,2,0.22
+2025-02-07,Hospital Can Ruti,HCR,45-64,Dona,0,0.22
+2025-02-07,Hospital Can Ruti,HCR,45-64,Home,0,0.22
+2025-02-07,Hospital Can Ruti,HCR,65+,Dona,4,0.22
+2025-02-07,Hospital Can Ruti,HCR,65+,Home,3,0.22
+2025-02-07,Hospital Arnau de Vilanova,HAV,0-14,Dona,1,1.12
+2025-02-07,Hospital Arnau de Vilanova,HAV,0-14,Home,1,1.12
+2025-02-07,Hospital Arnau de Vilanova,HAV,15-44,Dona,2,1.12
+2025-02-07,Hospital Arnau de Vilanova,HAV,15-44,Home,2,1.12
+2025-02-07,Hospital Arnau de Vilanova,HAV,45-64,Dona,2,1.12
+2025-02-07,Hospital Arnau de Vilanova,HAV,45-64,Home,1,1.12
+2025-02-07,Hospital Arnau de Vilanova,HAV,65+,Dona,4,1.12
+2025-02-07,Hospital Arnau de Vilanova,HAV,65+,Home,7,1.12
+2025-02-07,Hospital Josep Trueta,HJT,0-14,Dona,4,3.96
+2025-02-07,Hospital Josep Trueta,HJT,0-14,Home,1,3.96
+2025-02-07,Hospital Josep Trueta,HJT,15-44,Dona,6,3.96
+2025-02-07,Hospital Josep Trueta,HJT,15-44,Home,2,3.96
+2025-02-07,Hospital Josep Trueta,HJT,45-64,Dona,2,3.96
+2025-02-07,Hospital Josep Trueta,HJT,45-64,Home,4,3.96
+2025-02-07,Hospital Josep Trueta,HJT,65+,Dona,6,3.96
+2025-02-07,Hospital Josep Trueta,HJT,65+,Home,2,3.96
+2025-02-08,Hospital Vall d'Hebron,HVD,0-14,Dona,2,0.0
+2025-02-08,Hospital Vall d'Hebron,HVD,0-14,Home,0,0.0
+2025-02-08,Hospital Vall d'Hebron,HVD,15-44,Dona,0,0.0
+2025-02-08,Hospital Vall d'Hebron,HVD,15-44,Home,1,0.0
+2025-02-08,Hospital Vall d'Hebron,HVD,45-64,Dona,1,0.0
+2025-02-08,Hospital Vall d'Hebron,HVD,45-64,Home,1,0.0
+2025-02-08,Hospital Vall d'Hebron,HVD,65+,Dona,2,0.0
+2025-02-08,Hospital Vall d'Hebron,HVD,65+,Home,6,0.0
+2025-02-08,Hospital Clínic,HC,0-14,Dona,1,0.0
+2025-02-08,Hospital Clínic,HC,0-14,Home,1,0.0
+2025-02-08,Hospital Clínic,HC,15-44,Dona,1,0.0
+2025-02-08,Hospital Clínic,HC,15-44,Home,1,0.0
+2025-02-08,Hospital Clínic,HC,45-64,Dona,5,0.0
+2025-02-08,Hospital Clínic,HC,45-64,Home,1,0.0
+2025-02-08,Hospital Clínic,HC,65+,Dona,2,0.0
+2025-02-08,Hospital Clínic,HC,65+,Home,4,0.0
+2025-02-08,Hospital Sant Pau,HSP,0-14,Dona,1,0.0
+2025-02-08,Hospital Sant Pau,HSP,0-14,Home,1,0.0
+2025-02-08,Hospital Sant Pau,HSP,15-44,Dona,0,0.0
+2025-02-08,Hospital Sant Pau,HSP,15-44,Home,1,0.0
+2025-02-08,Hospital Sant Pau,HSP,45-64,Dona,0,0.0
+2025-02-08,Hospital Sant Pau,HSP,45-64,Home,2,0.0
+2025-02-08,Hospital Sant Pau,HSP,65+,Dona,1,0.0
+2025-02-08,Hospital Sant Pau,HSP,65+,Home,0,0.0
+2025-02-08,Hospital Bellvitge,HB,0-14,Dona,0,0.01
+2025-02-08,Hospital Bellvitge,HB,0-14,Home,0,0.01
+2025-02-08,Hospital Bellvitge,HB,15-44,Dona,0,0.01
+2025-02-08,Hospital Bellvitge,HB,15-44,Home,2,0.01
+2025-02-08,Hospital Bellvitge,HB,45-64,Dona,1,0.01
+2025-02-08,Hospital Bellvitge,HB,45-64,Home,2,0.01
+2025-02-08,Hospital Bellvitge,HB,65+,Dona,1,0.01
+2025-02-08,Hospital Bellvitge,HB,65+,Home,1,0.01
+2025-02-08,Hospital Can Ruti,HCR,0-14,Dona,0,0.12
+2025-02-08,Hospital Can Ruti,HCR,0-14,Home,1,0.12
+2025-02-08,Hospital Can Ruti,HCR,15-44,Dona,1,0.12
+2025-02-08,Hospital Can Ruti,HCR,15-44,Home,1,0.12
+2025-02-08,Hospital Can Ruti,HCR,45-64,Dona,0,0.12
+2025-02-08,Hospital Can Ruti,HCR,45-64,Home,3,0.12
+2025-02-08,Hospital Can Ruti,HCR,65+,Dona,4,0.12
+2025-02-08,Hospital Can Ruti,HCR,65+,Home,7,0.12
+2025-02-08,Hospital Arnau de Vilanova,HAV,0-14,Dona,0,0.68
+2025-02-08,Hospital Arnau de Vilanova,HAV,0-14,Home,3,0.68
+2025-02-08,Hospital Arnau de Vilanova,HAV,15-44,Dona,1,0.68
+2025-02-08,Hospital Arnau de Vilanova,HAV,15-44,Home,3,0.68
+2025-02-08,Hospital Arnau de Vilanova,HAV,45-64,Dona,3,0.68
+2025-02-08,Hospital Arnau de Vilanova,HAV,45-64,Home,2,0.68
+2025-02-08,Hospital Arnau de Vilanova,HAV,65+,Dona,2,0.68
+2025-02-08,Hospital Arnau de Vilanova,HAV,65+,Home,2,0.68
+2025-02-08,Hospital Josep Trueta,HJT,0-14,Dona,2,2.71
+2025-02-08,Hospital Josep Trueta,HJT,0-14,Home,1,2.71
+2025-02-08,Hospital Josep Trueta,HJT,15-44,Dona,4,2.71
+2025-02-08,Hospital Josep Trueta,HJT,15-44,Home,6,2.71
+2025-02-08,Hospital Josep Trueta,HJT,45-64,Dona,4,2.71
+2025-02-08,Hospital Josep Trueta,HJT,45-64,Home,1,2.71
+2025-02-08,Hospital Josep Trueta,HJT,65+,Dona,3,2.71
+2025-02-08,Hospital Josep Trueta,HJT,65+,Home,4,2.71
+2025-02-09,Hospital Vall d'Hebron,HVD,0-14,Dona,2,0.0
+2025-02-09,Hospital Vall d'Hebron,HVD,0-14,Home,0,0.0
+2025-02-09,Hospital Vall d'Hebron,HVD,15-44,Dona,1,0.0
+2025-02-09,Hospital Vall d'Hebron,HVD,15-44,Home,3,0.0
+2025-02-09,Hospital Vall d'Hebron,HVD,45-64,Dona,0,0.0
+2025-02-09,Hospital Vall d'Hebron,HVD,45-64,Home,1,0.0
+2025-02-09,Hospital Vall d'Hebron,HVD,65+,Dona,1,0.0
+2025-02-09,Hospital Vall d'Hebron,HVD,65+,Home,3,0.0
+2025-02-09,Hospital Clínic,HC,0-14,Dona,1,0.0
+2025-02-09,Hospital Clínic,HC,0-14,Home,2,0.0
+2025-02-09,Hospital Clínic,HC,15-44,Dona,0,0.0
+2025-02-09,Hospital Clínic,HC,15-44,Home,2,0.0
+2025-02-09,Hospital Clínic,HC,45-64,Dona,2,0.0
+2025-02-09,Hospital Clínic,HC,45-64,Home,1,0.0
+2025-02-09,Hospital Clínic,HC,65+,Dona,6,0.0
+2025-02-09,Hospital Clínic,HC,65+,Home,4,0.0
+2025-02-09,Hospital Sant Pau,HSP,0-14,Dona,0,0.0
+2025-02-09,Hospital Sant Pau,HSP,0-14,Home,0,0.0
+2025-02-09,Hospital Sant Pau,HSP,15-44,Dona,2,0.0
+2025-02-09,Hospital Sant Pau,HSP,15-44,Home,0,0.0
+2025-02-09,Hospital Sant Pau,HSP,45-64,Dona,2,0.0
+2025-02-09,Hospital Sant Pau,HSP,45-64,Home,1,0.0
+2025-02-09,Hospital Sant Pau,HSP,65+,Dona,1,0.0
+2025-02-09,Hospital Sant Pau,HSP,65+,Home,1,0.0
+2025-02-09,Hospital Bellvitge,HB,0-14,Dona,2,0.01
+2025-02-09,Hospital Bellvitge,HB,0-14,Home,1,0.01
+2025-02-09,Hospital Bellvitge,HB,15-44,Dona,0,0.01
+2025-02-09,Hospital Bellvitge,HB,15-44,Home,0,0.01
+2025-02-09,Hospital Bellvitge,HB,45-64,Dona,2,0.01
+2025-02-09,Hospital Bellvitge,HB,45-64,Home,1,0.01
+2025-02-09,Hospital Bellvitge,HB,65+,Dona,0,0.01
+2025-02-09,Hospital Bellvitge,HB,65+,Home,1,0.01
+2025-02-09,Hospital Can Ruti,HCR,0-14,Dona,2,0.06
+2025-02-09,Hospital Can Ruti,HCR,0-14,Home,0,0.06
+2025-02-09,Hospital Can Ruti,HCR,15-44,Dona,0,0.06
+2025-02-09,Hospital Can Ruti,HCR,15-44,Home,0,0.06
+2025-02-09,Hospital Can Ruti,HCR,45-64,Dona,2,0.06
+2025-02-09,Hospital Can Ruti,HCR,45-64,Home,3,0.06
+2025-02-09,Hospital Can Ruti,HCR,65+,Dona,4,0.06
+2025-02-09,Hospital Can Ruti,HCR,65+,Home,2,0.06
+2025-02-09,Hospital Arnau de Vilanova,HAV,0-14,Dona,1,0.4
+2025-02-09,Hospital Arnau de Vilanova,HAV,0-14,Home,0,0.4
+2025-02-09,Hospital Arnau de Vilanova,HAV,15-44,Dona,1,0.4
+2025-02-09,Hospital Arnau de Vilanova,HAV,15-44,Home,4,0.4
+2025-02-09,Hospital Arnau de Vilanova,HAV,45-64,Dona,0,0.4
+2025-02-09,Hospital Arnau de Vilanova,HAV,45-64,Home,0,0.4
+2025-02-09,Hospital Arnau de Vilanova,HAV,65+,Dona,0,0.4
+2025-02-09,Hospital Arnau de Vilanova,HAV,65+,Home,2,0.4
+2025-02-09,Hospital Josep Trueta,HJT,0-14,Dona,0,1.78
+2025-02-09,Hospital Josep Trueta,HJT,0-14,Home,0,1.78
+2025-02-09,Hospital Josep Trueta,HJT,15-44,Dona,1,1.78
+2025-02-09,Hospital Josep Trueta,HJT,15-44,Home,4,1.78
+2025-02-09,Hospital Josep Trueta,HJT,45-64,Dona,2,1.78
+2025-02-09,Hospital Josep Trueta,HJT,45-64,Home,3,1.78
+2025-02-09,Hospital Josep Trueta,HJT,65+,Dona,1,1.78
+2025-02-09,Hospital Josep Trueta,HJT,65+,Home,2,1.78
+2025-02-10,Hospital Vall d'Hebron,HVD,0-14,Dona,2,0.0
+2025-02-10,Hospital Vall d'Hebron,HVD,0-14,Home,0,0.0
+2025-02-10,Hospital Vall d'Hebron,HVD,15-44,Dona,4,0.0
+2025-02-10,Hospital Vall d'Hebron,HVD,15-44,Home,1,0.0
+2025-02-10,Hospital Vall d'Hebron,HVD,45-64,Dona,3,0.0
+2025-02-10,Hospital Vall d'Hebron,HVD,45-64,Home,3,0.0
+2025-02-10,Hospital Vall d'Hebron,HVD,65+,Dona,4,0.0
+2025-02-10,Hospital Vall d'Hebron,HVD,65+,Home,1,0.0
+2025-02-10,Hospital Clínic,HC,0-14,Dona,0,0.0
+2025-02-10,Hospital Clínic,HC,0-14,Home,1,0.0
+2025-02-10,Hospital Clínic,HC,15-44,Dona,3,0.0
+2025-02-10,Hospital Clínic,HC,15-44,Home,2,0.0
+2025-02-10,Hospital Clínic,HC,45-64,Dona,0,0.0
+2025-02-10,Hospital Clínic,HC,45-64,Home,1,0.0
+2025-02-10,Hospital Clínic,HC,65+,Dona,0,0.0
+2025-02-10,Hospital Clínic,HC,65+,Home,2,0.0
+2025-02-10,Hospital Sant Pau,HSP,0-14,Dona,0,0.0
+2025-02-10,Hospital Sant Pau,HSP,0-14,Home,0,0.0
+2025-02-10,Hospital Sant Pau,HSP,15-44,Dona,0,0.0
+2025-02-10,Hospital Sant Pau,HSP,15-44,Home,0,0.0
+2025-02-10,Hospital Sant Pau,HSP,45-64,Dona,1,0.0
+2025-02-10,Hospital Sant Pau,HSP,45-64,Home,0,0.0
+2025-02-10,Hospital Sant Pau,HSP,65+,Dona,1,0.0
+2025-02-10,Hospital Sant Pau,HSP,65+,Home,1,0.0
+2025-02-10,Hospital Bellvitge,HB,0-14,Dona,0,0.0
+2025-02-10,Hospital Bellvitge,HB,0-14,Home,0,0.0
+2025-02-10,Hospital Bellvitge,HB,15-44,Dona,2,0.0
+2025-02-10,Hospital Bellvitge,HB,15-44,Home,0,0.0
+2025-02-10,Hospital Bellvitge,HB,45-64,Dona,1,0.0
+2025-02-10,Hospital Bellvitge,HB,45-64,Home,0,0.0
+2025-02-10,Hospital Bellvitge,HB,65+,Dona,1,0.0
+2025-02-10,Hospital Bellvitge,HB,65+,Home,0,0.0
+2025-02-10,Hospital Can Ruti,HCR,0-14,Dona,2,0.03
+2025-02-10,Hospital Can Ruti,HCR,0-14,Home,0,0.03
+2025-02-10,Hospital Can Ruti,HCR,15-44,Dona,2,0.03
+2025-02-10,Hospital Can Ruti,HCR,15-44,Home,3,0.03
+2025-02-10,Hospital Can Ruti,HCR,45-64,Dona,1,0.03
+2025-02-10,Hospital Can Ruti,HCR,45-64,Home,0,0.03
+2025-02-10,Hospital Can Ruti,HCR,65+,Dona,1,0.03
+2025-02-10,Hospital Can Ruti,HCR,65+,Home,2,0.03
+2025-02-10,Hospital Arnau de Vilanova,HAV,0-14,Dona,0,0.22
+2025-02-10,Hospital Arnau de Vilanova,HAV,0-14,Home,0,0.22
+2025-02-10,Hospital Arnau de Vilanova,HAV,15-44,Dona,1,0.22
+2025-02-10,Hospital Arnau de Vilanova,HAV,15-44,Home,1,0.22
+2025-02-10,Hospital Arnau de Vilanova,HAV,45-64,Dona,1,0.22
+2025-02-10,Hospital Arnau de Vilanova,HAV,45-64,Home,3,0.22
+2025-02-10,Hospital Arnau de Vilanova,HAV,65+,Dona,1,0.22
+2025-02-10,Hospital Arnau de Vilanova,HAV,65+,Home,3,0.22
+2025-02-10,Hospital Josep Trueta,HJT,0-14,Dona,0,1.12
+2025-02-10,Hospital Josep Trueta,HJT,0-14,Home,1,1.12
+2025-02-10,Hospital Josep Trueta,HJT,15-44,Dona,0,1.12
+2025-02-10,Hospital Josep Trueta,HJT,15-44,Home,1,1.12
+2025-02-10,Hospital Josep Trueta,HJT,45-64,Dona,0,1.12
+2025-02-10,Hospital Josep Trueta,HJT,45-64,Home,1,1.12
+2025-02-10,Hospital Josep Trueta,HJT,65+,Dona,3,1.12
+2025-02-10,Hospital Josep Trueta,HJT,65+,Home,4,1.12
+2025-02-11,Hospital Vall d'Hebron,HVD,0-14,Dona,1,0.0
+2025-02-11,Hospital Vall d'Hebron,HVD,0-14,Home,1,0.0
+2025-02-11,Hospital Vall d'Hebron,HVD,15-44,Dona,2,0.0
+2025-02-11,Hospital Vall d'Hebron,HVD,15-44,Home,2,0.0
+2025-02-11,Hospital Vall d'Hebron,HVD,45-64,Dona,2,0.0
+2025-02-11,Hospital Vall d'Hebron,HVD,45-64,Home,0,0.0
+2025-02-11,Hospital Vall d'Hebron,HVD,65+,Dona,0,0.0
+2025-02-11,Hospital Vall d'Hebron,HVD,65+,Home,4,0.0
+2025-02-11,Hospital Clínic,HC,0-14,Dona,0,0.0
+2025-02-11,Hospital Clínic,HC,0-14,Home,1,0.0
+2025-02-11,Hospital Clínic,HC,15-44,Dona,1,0.0
+2025-02-11,Hospital Clínic,HC,15-44,Home,1,0.0
+2025-02-11,Hospital Clínic,HC,45-64,Dona,2,0.0
+2025-02-11,Hospital Clínic,HC,45-64,Home,1,0.0
+2025-02-11,Hospital Clínic,HC,65+,Dona,1,0.0
+2025-02-11,Hospital Clínic,HC,65+,Home,2,0.0
+2025-02-11,Hospital Sant Pau,HSP,0-14,Dona,0,0.0
+2025-02-11,Hospital Sant Pau,HSP,0-14,Home,0,0.0
+2025-02-11,Hospital Sant Pau,HSP,15-44,Dona,1,0.0
+2025-02-11,Hospital Sant Pau,HSP,15-44,Home,0,0.0
+2025-02-11,Hospital Sant Pau,HSP,45-64,Dona,1,0.0
+2025-02-11,Hospital Sant Pau,HSP,45-64,Home,0,0.0
+2025-02-11,Hospital Sant Pau,HSP,65+,Dona,3,0.0
+2025-02-11,Hospital Sant Pau,HSP,65+,Home,2,0.0
+2025-02-11,Hospital Bellvitge,HB,0-14,Dona,0,0.0
+2025-02-11,Hospital Bellvitge,HB,0-14,Home,0,0.0
+2025-02-11,Hospital Bellvitge,HB,15-44,Dona,3,0.0
+2025-02-11,Hospital Bellvitge,HB,15-44,Home,0,0.0
+2025-02-11,Hospital Bellvitge,HB,45-64,Dona,1,0.0
+2025-02-11,Hospital Bellvitge,HB,45-64,Home,0,0.0
+2025-02-11,Hospital Bellvitge,HB,65+,Dona,2,0.0
+2025-02-11,Hospital Bellvitge,HB,65+,Home,1,0.0
+2025-02-11,Hospital Can Ruti,HCR,0-14,Dona,1,0.01
+2025-02-11,Hospital Can Ruti,HCR,0-14,Home,1,0.01
+2025-02-11,Hospital Can Ruti,HCR,15-44,Dona,1,0.01
+2025-02-11,Hospital Can Ruti,HCR,15-44,Home,0,0.01
+2025-02-11,Hospital Can Ruti,HCR,45-64,Dona,1,0.01
+2025-02-11,Hospital Can Ruti,HCR,45-64,Home,0,0.01
+2025-02-11,Hospital Can Ruti,HCR,65+,Dona,1,0.01
+2025-02-11,Hospital Can Ruti,HCR,65+,Home,4,0.01
+2025-02-11,Hospital Arnau de Vilanova,HAV,0-14,Dona,0,0.12
+2025-02-11,Hospital Arnau de Vilanova,HAV,0-14,Home,1,0.12
+2025-02-11,Hospital Arnau de Vilanova,HAV,15-44,Dona,2,0.12
+2025-02-11,Hospital Arnau de Vilanova,HAV,15-44,Home,2,0.12
+2025-02-11,Hospital Arnau de Vilanova,HAV,45-64,Dona,1,0.12
+2025-02-11,Hospital Arnau de Vilanova,HAV,45-64,Home,1,0.12
+2025-02-11,Hospital Arnau de Vilanova,HAV,65+,Dona,1,0.12
+2025-02-11,Hospital Arnau de Vilanova,HAV,65+,Home,2,0.12
+2025-02-11,Hospital Josep Trueta,HJT,0-14,Dona,4,0.68
+2025-02-11,Hospital Josep Trueta,HJT,0-14,Home,0,0.68
+2025-02-11,Hospital Josep Trueta,HJT,15-44,Dona,1,0.68
+2025-02-11,Hospital Josep Trueta,HJT,15-44,Home,3,0.68
+2025-02-11,Hospital Josep Trueta,HJT,45-64,Dona,1,0.68
+2025-02-11,Hospital Josep Trueta,HJT,45-64,Home,2,0.68
+2025-02-11,Hospital Josep Trueta,HJT,65+,Dona,3,0.68
+2025-02-11,Hospital Josep Trueta,HJT,65+,Home,1,0.68
+2025-02-12,Hospital Vall d'Hebron,HVD,0-14,Dona,1,0.0
+2025-02-12,Hospital Vall d'Hebron,HVD,0-14,Home,0,0.0
+2025-02-12,Hospital Vall d'Hebron,HVD,15-44,Dona,2,0.0
+2025-02-12,Hospital Vall d'Hebron,HVD,15-44,Home,0,0.0
+2025-02-12,Hospital Vall d'Hebron,HVD,45-64,Dona,2,0.0
+2025-02-12,Hospital Vall d'Hebron,HVD,45-64,Home,3,0.0
+2025-02-12,Hospital Vall d'Hebron,HVD,65+,Dona,5,0.0
+2025-02-12,Hospital Vall d'Hebron,HVD,65+,Home,0,0.0
+2025-02-12,Hospital Clínic,HC,0-14,Dona,0,0.0
+2025-02-12,Hospital Clínic,HC,0-14,Home,1,0.0
+2025-02-12,Hospital Clínic,HC,15-44,Dona,3,0.0
+2025-02-12,Hospital Clínic,HC,15-44,Home,3,0.0
+2025-02-12,Hospital Clínic,HC,45-64,Dona,2,0.0
+2025-02-12,Hospital Clínic,HC,45-64,Home,2,0.0
+2025-02-12,Hospital Clínic,HC,65+,Dona,6,0.0
+2025-02-12,Hospital Clínic,HC,65+,Home,3,0.0
+2025-02-12,Hospital Sant Pau,HSP,0-14,Dona,0,0.0
+2025-02-12,Hospital Sant Pau,HSP,0-14,Home,0,0.0
+2025-02-12,Hospital Sant Pau,HSP,15-44,Dona,0,0.0
+2025-02-12,Hospital Sant Pau,HSP,15-44,Home,1,0.0
+2025-02-12,Hospital Sant Pau,HSP,45-64,Dona,1,0.0
+2025-02-12,Hospital Sant Pau,HSP,45-64,Home,0,0.0
+2025-02-12,Hospital Sant Pau,HSP,65+,Dona,4,0.0
+2025-02-12,Hospital Sant Pau,HSP,65+,Home,6,0.0
+2025-02-12,Hospital Bellvitge,HB,0-14,Dona,0,0.0
+2025-02-12,Hospital Bellvitge,HB,0-14,Home,1,0.0
+2025-02-12,Hospital Bellvitge,HB,15-44,Dona,0,0.0
+2025-02-12,Hospital Bellvitge,HB,15-44,Home,0,0.0
+2025-02-12,Hospital Bellvitge,HB,45-64,Dona,1,0.0
+2025-02-12,Hospital Bellvitge,HB,45-64,Home,1,0.0
+2025-02-12,Hospital Bellvitge,HB,65+,Dona,0,0.0
+2025-02-12,Hospital Bellvitge,HB,65+,Home,2,0.0
+2025-02-12,Hospital Can Ruti,HCR,0-14,Dona,0,0.01
+2025-02-12,Hospital Can Ruti,HCR,0-14,Home,2,0.01
+2025-02-12,Hospital Can Ruti,HCR,15-44,Dona,1,0.01
+2025-02-12,Hospital Can Ruti,HCR,15-44,Home,2,0.01
+2025-02-12,Hospital Can Ruti,HCR,45-64,Dona,5,0.01
+2025-02-12,Hospital Can Ruti,HCR,45-64,Home,0,0.01
+2025-02-12,Hospital Can Ruti,HCR,65+,Dona,6,0.01
+2025-02-12,Hospital Can Ruti,HCR,65+,Home,1,0.01
+2025-02-12,Hospital Arnau de Vilanova,HAV,0-14,Dona,2,0.06
+2025-02-12,Hospital Arnau de Vilanova,HAV,0-14,Home,1,0.06
+2025-02-12,Hospital Arnau de Vilanova,HAV,15-44,Dona,2,0.06
+2025-02-12,Hospital Arnau de Vilanova,HAV,15-44,Home,2,0.06
+2025-02-12,Hospital Arnau de Vilanova,HAV,45-64,Dona,1,0.06
+2025-02-12,Hospital Arnau de Vilanova,HAV,45-64,Home,1,0.06
+2025-02-12,Hospital Arnau de Vilanova,HAV,65+,Dona,7,0.06
+2025-02-12,Hospital Arnau de Vilanova,HAV,65+,Home,4,0.06
+2025-02-12,Hospital Josep Trueta,HJT,0-14,Dona,3,0.4
+2025-02-12,Hospital Josep Trueta,HJT,0-14,Home,2,0.4
+2025-02-12,Hospital Josep Trueta,HJT,15-44,Dona,2,0.4
+2025-02-12,Hospital Josep Trueta,HJT,15-44,Home,2,0.4
+2025-02-12,Hospital Josep Trueta,HJT,45-64,Dona,0,0.4
+2025-02-12,Hospital Josep Trueta,HJT,45-64,Home,1,0.4
+2025-02-12,Hospital Josep Trueta,HJT,65+,Dona,2,0.4
+2025-02-12,Hospital Josep Trueta,HJT,65+,Home,6,0.4
+2025-02-13,Hospital Vall d'Hebron,HVD,0-14,Dona,2,0.0
+2025-02-13,Hospital Vall d'Hebron,HVD,0-14,Home,0,0.0
+2025-02-13,Hospital Vall d'Hebron,HVD,15-44,Dona,3,0.0
+2025-02-13,Hospital Vall d'Hebron,HVD,15-44,Home,0,0.0
+2025-02-13,Hospital Vall d'Hebron,HVD,45-64,Dona,2,0.0
+2025-02-13,Hospital Vall d'Hebron,HVD,45-64,Home,1,0.0
+2025-02-13,Hospital Vall d'Hebron,HVD,65+,Dona,4,0.0
+2025-02-13,Hospital Vall d'Hebron,HVD,65+,Home,3,0.0
+2025-02-13,Hospital Clínic,HC,0-14,Dona,1,0.0
+2025-02-13,Hospital Clínic,HC,0-14,Home,1,0.0
+2025-02-13,Hospital Clínic,HC,15-44,Dona,3,0.0
+2025-02-13,Hospital Clínic,HC,15-44,Home,2,0.0
+2025-02-13,Hospital Clínic,HC,45-64,Dona,0,0.0
+2025-02-13,Hospital Clínic,HC,45-64,Home,1,0.0
+2025-02-13,Hospital Clínic,HC,65+,Dona,4,0.0
+2025-02-13,Hospital Clínic,HC,65+,Home,6,0.0
+2025-02-13,Hospital Sant Pau,HSP,0-14,Dona,0,0.0
+2025-02-13,Hospital Sant Pau,HSP,0-14,Home,0,0.0
+2025-02-13,Hospital Sant Pau,HSP,15-44,Dona,0,0.0
+2025-02-13,Hospital Sant Pau,HSP,15-44,Home,1,0.0
+2025-02-13,Hospital Sant Pau,HSP,45-64,Dona,1,0.0
+2025-02-13,Hospital Sant Pau,HSP,45-64,Home,2,0.0
+2025-02-13,Hospital Sant Pau,HSP,65+,Dona,0,0.0
+2025-02-13,Hospital Sant Pau,HSP,65+,Home,3,0.0
+2025-02-13,Hospital Bellvitge,HB,0-14,Dona,0,0.0
+2025-02-13,Hospital Bellvitge,HB,0-14,Home,0,0.0
+2025-02-13,Hospital Bellvitge,HB,15-44,Dona,0,0.0
+2025-02-13,Hospital Bellvitge,HB,15-44,Home,2,0.0
+2025-02-13,Hospital Bellvitge,HB,45-64,Dona,0,0.0
+2025-02-13,Hospital Bellvitge,HB,45-64,Home,2,0.0
+2025-02-13,Hospital Bellvitge,HB,65+,Dona,2,0.0
+2025-02-13,Hospital Bellvitge,HB,65+,Home,2,0.0
+2025-02-13,Hospital Can Ruti,HCR,0-14,Dona,1,0.0
+2025-02-13,Hospital Can Ruti,HCR,0-14,Home,0,0.0
+2025-02-13,Hospital Can Ruti,HCR,15-44,Dona,1,0.0
+2025-02-13,Hospital Can Ruti,HCR,15-44,Home,3,0.0
+2025-02-13,Hospital Can Ruti,HCR,45-64,Dona,3,0.0
+2025-02-13,Hospital Can Ruti,HCR,45-64,Home,1,0.0
+2025-02-13,Hospital Can Ruti,HCR,65+,Dona,3,0.0
+2025-02-13,Hospital Can Ruti,HCR,65+,Home,3,0.0
+2025-02-13,Hospital Arnau de Vilanova,HAV,0-14,Dona,0,0.03
+2025-02-13,Hospital Arnau de Vilanova,HAV,0-14,Home,1,0.03
+2025-02-13,Hospital Arnau de Vilanova,HAV,15-44,Dona,0,0.03
+2025-02-13,Hospital Arnau de Vilanova,HAV,15-44,Home,2,0.03
+2025-02-13,Hospital Arnau de Vilanova,HAV,45-64,Dona,0,0.03
+2025-02-13,Hospital Arnau de Vilanova,HAV,45-64,Home,1,0.03
+2025-02-13,Hospital Arnau de Vilanova,HAV,65+,Dona,1,0.03
+2025-02-13,Hospital Arnau de Vilanova,HAV,65+,Home,2,0.03
+2025-02-13,Hospital Josep Trueta,HJT,0-14,Dona,3,0.22
+2025-02-13,Hospital Josep Trueta,HJT,0-14,Home,3,0.22
+2025-02-13,Hospital Josep Trueta,HJT,15-44,Dona,1,0.22
+2025-02-13,Hospital Josep Trueta,HJT,15-44,Home,4,0.22
+2025-02-13,Hospital Josep Trueta,HJT,45-64,Dona,1,0.22
+2025-02-13,Hospital Josep Trueta,HJT,45-64,Home,3,0.22
+2025-02-13,Hospital Josep Trueta,HJT,65+,Dona,2,0.22
+2025-02-13,Hospital Josep Trueta,HJT,65+,Home,6,0.22
+2025-02-14,Hospital Vall d'Hebron,HVD,0-14,Dona,1,0.0
+2025-02-14,Hospital Vall d'Hebron,HVD,0-14,Home,2,0.0
+2025-02-14,Hospital Vall d'Hebron,HVD,15-44,Dona,2,0.0
+2025-02-14,Hospital Vall d'Hebron,HVD,15-44,Home,1,0.0
+2025-02-14,Hospital Vall d'Hebron,HVD,45-64,Dona,1,0.0
+2025-02-14,Hospital Vall d'Hebron,HVD,45-64,Home,3,0.0
+2025-02-14,Hospital Vall d'Hebron,HVD,65+,Dona,1,0.0
+2025-02-14,Hospital Vall d'Hebron,HVD,65+,Home,4,0.0
+2025-02-14,Hospital Clínic,HC,0-14,Dona,0,0.0
+2025-02-14,Hospital Clínic,HC,0-14,Home,1,0.0
+2025-02-14,Hospital Clínic,HC,15-44,Dona,2,0.0
+2025-02-14,Hospital Clínic,HC,15-44,Home,1,0.0
+2025-02-14,Hospital Clínic,HC,45-64,Dona,6,0.0
+2025-02-14,Hospital Clínic,HC,45-64,Home,1,0.0
+2025-02-14,Hospital Clínic,HC,65+,Dona,5,0.0
+2025-02-14,Hospital Clínic,HC,65+,Home,7,0.0
+2025-02-14,Hospital Sant Pau,HSP,0-14,Dona,1,0.0
+2025-02-14,Hospital Sant Pau,HSP,0-14,Home,0,0.0
+2025-02-14,Hospital Sant Pau,HSP,15-44,Dona,1,0.0
+2025-02-14,Hospital Sant Pau,HSP,15-44,Home,0,0.0
+2025-02-14,Hospital Sant Pau,HSP,45-64,Dona,2,0.0
+2025-02-14,Hospital Sant Pau,HSP,45-64,Home,1,0.0
+2025-02-14,Hospital Sant Pau,HSP,65+,Dona,2,0.0
+2025-02-14,Hospital Sant Pau,HSP,65+,Home,2,0.0
+2025-02-14,Hospital Bellvitge,HB,0-14,Dona,0,0.0
+2025-02-14,Hospital Bellvitge,HB,0-14,Home,1,0.0
+2025-02-14,Hospital Bellvitge,HB,15-44,Dona,1,0.0
+2025-02-14,Hospital Bellvitge,HB,15-44,Home,0,0.0
+2025-02-14,Hospital Bellvitge,HB,45-64,Dona,2,0.0
+2025-02-14,Hospital Bellvitge,HB,45-64,Home,2,0.0
+2025-02-14,Hospital Bellvitge,HB,65+,Dona,1,0.0
+2025-02-14,Hospital Bellvitge,HB,65+,Home,3,0.0
+2025-02-14,Hospital Can Ruti,HCR,0-14,Dona,1,0.0
+2025-02-14,Hospital Can Ruti,HCR,0-14,Home,1,0.0
+2025-02-14,Hospital Can Ruti,HCR,15-44,Dona,1,0.0
+2025-02-14,Hospital Can Ruti,HCR,15-44,Home,2,0.0
+2025-02-14,Hospital Can Ruti,HCR,45-64,Dona,3,0.0
+2025-02-14,Hospital Can Ruti,HCR,45-64,Home,0,0.0
+2025-02-14,Hospital Can Ruti,HCR,65+,Dona,5,0.0
+2025-02-14,Hospital Can Ruti,HCR,65+,Home,1,0.0
+2025-02-14,Hospital Arnau de Vilanova,HAV,0-14,Dona,0,0.01
+2025-02-14,Hospital Arnau de Vilanova,HAV,0-14,Home,1,0.01
+2025-02-14,Hospital Arnau de Vilanova,HAV,15-44,Dona,1,0.01
+2025-02-14,Hospital Arnau de Vilanova,HAV,15-44,Home,0,0.01
+2025-02-14,Hospital Arnau de Vilanova,HAV,45-64,Dona,2,0.01
+2025-02-14,Hospital Arnau de Vilanova,HAV,45-64,Home,3,0.01
+2025-02-14,Hospital Arnau de Vilanova,HAV,65+,Dona,2,0.01
+2025-02-14,Hospital Arnau de Vilanova,HAV,65+,Home,1,0.01
+2025-02-14,Hospital Josep Trueta,HJT,0-14,Dona,1,0.12
+2025-02-14,Hospital Josep Trueta,HJT,0-14,Home,5,0.12
+2025-02-14,Hospital Josep Trueta,HJT,15-44,Dona,4,0.12
+2025-02-14,Hospital Josep Trueta,HJT,15-44,Home,2,0.12
+2025-02-14,Hospital Josep Trueta,HJT,45-64,Dona,1,0.12
+2025-02-14,Hospital Josep Trueta,HJT,45-64,Home,1,0.12
+2025-02-14,Hospital Josep Trueta,HJT,65+,Dona,2,0.12
+2025-02-14,Hospital Josep Trueta,HJT,65+,Home,4,0.12
+2025-02-15,Hospital Vall d'Hebron,HVD,0-14,Dona,1,0.0
+2025-02-15,Hospital Vall d'Hebron,HVD,0-14,Home,1,0.0
+2025-02-15,Hospital Vall d'Hebron,HVD,15-44,Dona,0,0.0
+2025-02-15,Hospital Vall d'Hebron,HVD,15-44,Home,2,0.0
+2025-02-15,Hospital Vall d'Hebron,HVD,45-64,Dona,1,0.0
+2025-02-15,Hospital Vall d'Hebron,HVD,45-64,Home,0,0.0
+2025-02-15,Hospital Vall d'Hebron,HVD,65+,Dona,3,0.0
+2025-02-15,Hospital Vall d'Hebron,HVD,65+,Home,6,0.0
+2025-02-15,Hospital Clínic,HC,0-14,Dona,2,0.0
+2025-02-15,Hospital Clínic,HC,0-14,Home,1,0.0
+2025-02-15,Hospital Clínic,HC,15-44,Dona,0,0.0
+2025-02-15,Hospital Clínic,HC,15-44,Home,2,0.0
+2025-02-15,Hospital Clínic,HC,45-64,Dona,1,0.0
+2025-02-15,Hospital Clínic,HC,45-64,Home,3,0.0
+2025-02-15,Hospital Clínic,HC,65+,Dona,4,0.0
+2025-02-15,Hospital Clínic,HC,65+,Home,8,0.0
+2025-02-15,Hospital Sant Pau,HSP,0-14,Dona,2,0.0
+2025-02-15,Hospital Sant Pau,HSP,0-14,Home,0,0.0
+2025-02-15,Hospital Sant Pau,HSP,15-44,Dona,0,0.0
+2025-02-15,Hospital Sant Pau,HSP,15-44,Home,2,0.0
+2025-02-15,Hospital Sant Pau,HSP,45-64,Dona,2,0.0
+2025-02-15,Hospital Sant Pau,HSP,45-64,Home,0,0.0
+2025-02-15,Hospital Sant Pau,HSP,65+,Dona,2,0.0
+2025-02-15,Hospital Sant Pau,HSP,65+,Home,1,0.0
+2025-02-15,Hospital Bellvitge,HB,0-14,Dona,0,0.0
+2025-02-15,Hospital Bellvitge,HB,0-14,Home,1,0.0
+2025-02-15,Hospital Bellvitge,HB,15-44,Dona,0,0.0
+2025-02-15,Hospital Bellvitge,HB,15-44,Home,1,0.0
+2025-02-15,Hospital Bellvitge,HB,45-64,Dona,1,0.0
+2025-02-15,Hospital Bellvitge,HB,45-64,Home,0,0.0
+2025-02-15,Hospital Bellvitge,HB,65+,Dona,1,0.0
+2025-02-15,Hospital Bellvitge,HB,65+,Home,2,0.0
+2025-02-15,Hospital Can Ruti,HCR,0-14,Dona,0,0.0
+2025-02-15,Hospital Can Ruti,HCR,0-14,Home,1,0.0
+2025-02-15,Hospital Can Ruti,HCR,15-44,Dona,0,0.0
+2025-02-15,Hospital Can Ruti,HCR,15-44,Home,4,0.0
+2025-02-15,Hospital Can Ruti,HCR,45-64,Dona,2,0.0
+2025-02-15,Hospital Can Ruti,HCR,45-64,Home,2,0.0
+2025-02-15,Hospital Can Ruti,HCR,65+,Dona,2,0.0
+2025-02-15,Hospital Can Ruti,HCR,65+,Home,5,0.0
+2025-02-15,Hospital Arnau de Vilanova,HAV,0-14,Dona,1,0.01
+2025-02-15,Hospital Arnau de Vilanova,HAV,0-14,Home,1,0.01
+2025-02-15,Hospital Arnau de Vilanova,HAV,15-44,Dona,0,0.01
+2025-02-15,Hospital Arnau de Vilanova,HAV,15-44,Home,1,0.01
+2025-02-15,Hospital Arnau de Vilanova,HAV,45-64,Dona,1,0.01
+2025-02-15,Hospital Arnau de Vilanova,HAV,45-64,Home,1,0.01
+2025-02-15,Hospital Arnau de Vilanova,HAV,65+,Dona,3,0.01
+2025-02-15,Hospital Arnau de Vilanova,HAV,65+,Home,4,0.01
+2025-02-15,Hospital Josep Trueta,HJT,0-14,Dona,2,0.06
+2025-02-15,Hospital Josep Trueta,HJT,0-14,Home,0,0.06
+2025-02-15,Hospital Josep Trueta,HJT,15-44,Dona,1,0.06
+2025-02-15,Hospital Josep Trueta,HJT,15-44,Home,2,0.06
+2025-02-15,Hospital Josep Trueta,HJT,45-64,Dona,4,0.06
+2025-02-15,Hospital Josep Trueta,HJT,45-64,Home,0,0.06
+2025-02-15,Hospital Josep Trueta,HJT,65+,Dona,5,0.06
+2025-02-15,Hospital Josep Trueta,HJT,65+,Home,4,0.06
+2025-02-16,Hospital Vall d'Hebron,HVD,0-14,Dona,0,0.0
+2025-02-16,Hospital Vall d'Hebron,HVD,0-14,Home,1,0.0
+2025-02-16,Hospital Vall d'Hebron,HVD,15-44,Dona,0,0.0
+2025-02-16,Hospital Vall d'Hebron,HVD,15-44,Home,1,0.0
+2025-02-16,Hospital Vall d'Hebron,HVD,45-64,Dona,1,0.0
+2025-02-16,Hospital Vall d'Hebron,HVD,45-64,Home,1,0.0
+2025-02-16,Hospital Vall d'Hebron,HVD,65+,Dona,5,0.0
+2025-02-16,Hospital Vall d'Hebron,HVD,65+,Home,2,0.0
+2025-02-16,Hospital Clínic,HC,0-14,Dona,2,0.0
+2025-02-16,Hospital Clínic,HC,0-14,Home,0,0.0
+2025-02-16,Hospital Clínic,HC,15-44,Dona,3,0.0
+2025-02-16,Hospital Clínic,HC,15-44,Home,2,0.0
+2025-02-16,Hospital Clínic,HC,45-64,Dona,2,0.0
+2025-02-16,Hospital Clínic,HC,45-64,Home,3,0.0
+2025-02-16,Hospital Clínic,HC,65+,Dona,4,0.0
+2025-02-16,Hospital Clínic,HC,65+,Home,2,0.0
+2025-02-16,Hospital Sant Pau,HSP,0-14,Dona,0,0.0
+2025-02-16,Hospital Sant Pau,HSP,0-14,Home,2,0.0
+2025-02-16,Hospital Sant Pau,HSP,15-44,Dona,0,0.0
+2025-02-16,Hospital Sant Pau,HSP,15-44,Home,0,0.0
+2025-02-16,Hospital Sant Pau,HSP,45-64,Dona,0,0.0
+2025-02-16,Hospital Sant Pau,HSP,45-64,Home,0,0.0
+2025-02-16,Hospital Sant Pau,HSP,65+,Dona,0,0.0
+2025-02-16,Hospital Sant Pau,HSP,65+,Home,3,0.0
+2025-02-16,Hospital Bellvitge,HB,0-14,Dona,0,0.0
+2025-02-16,Hospital Bellvitge,HB,0-14,Home,1,0.0
+2025-02-16,Hospital Bellvitge,HB,15-44,Dona,1,0.0
+2025-02-16,Hospital Bellvitge,HB,15-44,Home,1,0.0
+2025-02-16,Hospital Bellvitge,HB,45-64,Dona,0,0.0
+2025-02-16,Hospital Bellvitge,HB,45-64,Home,1,0.0
+2025-02-16,Hospital Bellvitge,HB,65+,Dona,1,0.0
+2025-02-16,Hospital Bellvitge,HB,65+,Home,1,0.0
+2025-02-16,Hospital Can Ruti,HCR,0-14,Dona,1,0.0
+2025-02-16,Hospital Can Ruti,HCR,0-14,Home,0,0.0
+2025-02-16,Hospital Can Ruti,HCR,15-44,Dona,3,0.0
+2025-02-16,Hospital Can Ruti,HCR,15-44,Home,1,0.0
+2025-02-16,Hospital Can Ruti,HCR,45-64,Dona,2,0.0
+2025-02-16,Hospital Can Ruti,HCR,45-64,Home,1,0.0
+2025-02-16,Hospital Can Ruti,HCR,65+,Dona,3,0.0
+2025-02-16,Hospital Can Ruti,HCR,65+,Home,1,0.0
+2025-02-16,Hospital Arnau de Vilanova,HAV,0-14,Dona,2,0.0
+2025-02-16,Hospital Arnau de Vilanova,HAV,0-14,Home,1,0.0
+2025-02-16,Hospital Arnau de Vilanova,HAV,15-44,Dona,2,0.0
+2025-02-16,Hospital Arnau de Vilanova,HAV,15-44,Home,1,0.0
+2025-02-16,Hospital Arnau de Vilanova,HAV,45-64,Dona,1,0.0
+2025-02-16,Hospital Arnau de Vilanova,HAV,45-64,Home,0,0.0
+2025-02-16,Hospital Arnau de Vilanova,HAV,65+,Dona,0,0.0
+2025-02-16,Hospital Arnau de Vilanova,HAV,65+,Home,1,0.0
+2025-02-16,Hospital Josep Trueta,HJT,0-14,Dona,0,0.03
+2025-02-16,Hospital Josep Trueta,HJT,0-14,Home,1,0.03
+2025-02-16,Hospital Josep Trueta,HJT,15-44,Dona,0,0.03
+2025-02-16,Hospital Josep Trueta,HJT,15-44,Home,1,0.03
+2025-02-16,Hospital Josep Trueta,HJT,45-64,Dona,1,0.03
+2025-02-16,Hospital Josep Trueta,HJT,45-64,Home,1,0.03
+2025-02-16,Hospital Josep Trueta,HJT,65+,Dona,4,0.03
+2025-02-16,Hospital Josep Trueta,HJT,65+,Home,3,0.03
+2025-02-17,Hospital Vall d'Hebron,HVD,0-14,Dona,0,0.0
+2025-02-17,Hospital Vall d'Hebron,HVD,0-14,Home,1,0.0
+2025-02-17,Hospital Vall d'Hebron,HVD,15-44,Dona,3,0.0
+2025-02-17,Hospital Vall d'Hebron,HVD,15-44,Home,1,0.0
+2025-02-17,Hospital Vall d'Hebron,HVD,45-64,Dona,1,0.0
+2025-02-17,Hospital Vall d'Hebron,HVD,45-64,Home,1,0.0
+2025-02-17,Hospital Vall d'Hebron,HVD,65+,Dona,4,0.0
+2025-02-17,Hospital Vall d'Hebron,HVD,65+,Home,5,0.0
+2025-02-17,Hospital Clínic,HC,0-14,Dona,1,0.0
+2025-02-17,Hospital Clínic,HC,0-14,Home,0,0.0
+2025-02-17,Hospital Clínic,HC,15-44,Dona,0,0.0
+2025-02-17,Hospital Clínic,HC,15-44,Home,3,0.0
+2025-02-17,Hospital Clínic,HC,45-64,Dona,5,0.0
+2025-02-17,Hospital Clínic,HC,45-64,Home,0,0.0
+2025-02-17,Hospital Clínic,HC,65+,Dona,2,0.0
+2025-02-17,Hospital Clínic,HC,65+,Home,3,0.0
+2025-02-17,Hospital Sant Pau,HSP,0-14,Dona,0,0.0
+2025-02-17,Hospital Sant Pau,HSP,0-14,Home,0,0.0
+2025-02-17,Hospital Sant Pau,HSP,15-44,Dona,0,0.0
+2025-02-17,Hospital Sant Pau,HSP,15-44,Home,1,0.0
+2025-02-17,Hospital Sant Pau,HSP,45-64,Dona,3,0.0
+2025-02-17,Hospital Sant Pau,HSP,45-64,Home,1,0.0
+2025-02-17,Hospital Sant Pau,HSP,65+,Dona,2,0.0
+2025-02-17,Hospital Sant Pau,HSP,65+,Home,1,0.0
+2025-02-17,Hospital Bellvitge,HB,0-14,Dona,1,0.0
+2025-02-17,Hospital Bellvitge,HB,0-14,Home,0,0.0
+2025-02-17,Hospital Bellvitge,HB,15-44,Dona,0,0.0
+2025-02-17,Hospital Bellvitge,HB,15-44,Home,1,0.0
+2025-02-17,Hospital Bellvitge,HB,45-64,Dona,1,0.0
+2025-02-17,Hospital Bellvitge,HB,45-64,Home,0,0.0
+2025-02-17,Hospital Bellvitge,HB,65+,Dona,1,0.0
+2025-02-17,Hospital Bellvitge,HB,65+,Home,1,0.0
+2025-02-17,Hospital Can Ruti,HCR,0-14,Dona,1,0.0
+2025-02-17,Hospital Can Ruti,HCR,0-14,Home,0,0.0
+2025-02-17,Hospital Can Ruti,HCR,15-44,Dona,1,0.0
+2025-02-17,Hospital Can Ruti,HCR,15-44,Home,1,0.0
+2025-02-17,Hospital Can Ruti,HCR,45-64,Dona,2,0.0
+2025-02-17,Hospital Can Ruti,HCR,45-64,Home,0,0.0
+2025-02-17,Hospital Can Ruti,HCR,65+,Dona,1,0.0
+2025-02-17,Hospital Can Ruti,HCR,65+,Home,3,0.0
+2025-02-17,Hospital Arnau de Vilanova,HAV,0-14,Dona,0,0.0
+2025-02-17,Hospital Arnau de Vilanova,HAV,0-14,Home,0,0.0
+2025-02-17,Hospital Arnau de Vilanova,HAV,15-44,Dona,2,0.0
+2025-02-17,Hospital Arnau de Vilanova,HAV,15-44,Home,0,0.0
+2025-02-17,Hospital Arnau de Vilanova,HAV,45-64,Dona,0,0.0
+2025-02-17,Hospital Arnau de Vilanova,HAV,45-64,Home,1,0.0
+2025-02-17,Hospital Arnau de Vilanova,HAV,65+,Dona,4,0.0
+2025-02-17,Hospital Arnau de Vilanova,HAV,65+,Home,1,0.0
+2025-02-17,Hospital Josep Trueta,HJT,0-14,Dona,1,0.01
+2025-02-17,Hospital Josep Trueta,HJT,0-14,Home,0,0.01
+2025-02-17,Hospital Josep Trueta,HJT,15-44,Dona,1,0.01
+2025-02-17,Hospital Josep Trueta,HJT,15-44,Home,1,0.01
+2025-02-17,Hospital Josep Trueta,HJT,45-64,Dona,2,0.01
+2025-02-17,Hospital Josep Trueta,HJT,45-64,Home,2,0.01
+2025-02-17,Hospital Josep Trueta,HJT,65+,Dona,1,0.01
+2025-02-17,Hospital Josep Trueta,HJT,65+,Home,3,0.01
+2025-02-18,Hospital Vall d'Hebron,HVD,0-14,Dona,2,0.0
+2025-02-18,Hospital Vall d'Hebron,HVD,0-14,Home,2,0.0
+2025-02-18,Hospital Vall d'Hebron,HVD,15-44,Dona,1,0.0
+2025-02-18,Hospital Vall d'Hebron,HVD,15-44,Home,1,0.0
+2025-02-18,Hospital Vall d'Hebron,HVD,45-64,Dona,0,0.0
+2025-02-18,Hospital Vall d'Hebron,HVD,45-64,Home,0,0.0
+2025-02-18,Hospital Vall d'Hebron,HVD,65+,Dona,4,0.0
+2025-02-18,Hospital Vall d'Hebron,HVD,65+,Home,2,0.0
+2025-02-18,Hospital Clínic,HC,0-14,Dona,2,0.0
+2025-02-18,Hospital Clínic,HC,0-14,Home,1,0.0
+2025-02-18,Hospital Clínic,HC,15-44,Dona,2,0.0
+2025-02-18,Hospital Clínic,HC,15-44,Home,1,0.0
+2025-02-18,Hospital Clínic,HC,45-64,Dona,4,0.0
+2025-02-18,Hospital Clínic,HC,45-64,Home,2,0.0
+2025-02-18,Hospital Clínic,HC,65+,Dona,3,0.0
+2025-02-18,Hospital Clínic,HC,65+,Home,5,0.0
+2025-02-18,Hospital Sant Pau,HSP,0-14,Dona,0,0.0
+2025-02-18,Hospital Sant Pau,HSP,0-14,Home,0,0.0
+2025-02-18,Hospital Sant Pau,HSP,15-44,Dona,1,0.0
+2025-02-18,Hospital Sant Pau,HSP,15-44,Home,1,0.0
+2025-02-18,Hospital Sant Pau,HSP,45-64,Dona,0,0.0
+2025-02-18,Hospital Sant Pau,HSP,45-64,Home,0,0.0
+2025-02-18,Hospital Sant Pau,HSP,65+,Dona,1,0.0
+2025-02-18,Hospital Sant Pau,HSP,65+,Home,3,0.0
+2025-02-18,Hospital Bellvitge,HB,0-14,Dona,0,0.0
+2025-02-18,Hospital Bellvitge,HB,0-14,Home,0,0.0
+2025-02-18,Hospital Bellvitge,HB,15-44,Dona,0,0.0
+2025-02-18,Hospital Bellvitge,HB,15-44,Home,2,0.0
+2025-02-18,Hospital Bellvitge,HB,45-64,Dona,0,0.0
+2025-02-18,Hospital Bellvitge,HB,45-64,Home,0,0.0
+2025-02-18,Hospital Bellvitge,HB,65+,Dona,3,0.0
+2025-02-18,Hospital Bellvitge,HB,65+,Home,1,0.0
+2025-02-18,Hospital Can Ruti,HCR,0-14,Dona,0,0.0
+2025-02-18,Hospital Can Ruti,HCR,0-14,Home,0,0.0
+2025-02-18,Hospital Can Ruti,HCR,15-44,Dona,1,0.0
+2025-02-18,Hospital Can Ruti,HCR,15-44,Home,1,0.0
+2025-02-18,Hospital Can Ruti,HCR,45-64,Dona,0,0.0
+2025-02-18,Hospital Can Ruti,HCR,45-64,Home,0,0.0
+2025-02-18,Hospital Can Ruti,HCR,65+,Dona,4,0.0
+2025-02-18,Hospital Can Ruti,HCR,65+,Home,2,0.0
+2025-02-18,Hospital Arnau de Vilanova,HAV,0-14,Dona,1,0.0
+2025-02-18,Hospital Arnau de Vilanova,HAV,0-14,Home,0,0.0
+2025-02-18,Hospital Arnau de Vilanova,HAV,15-44,Dona,0,0.0
+2025-02-18,Hospital Arnau de Vilanova,HAV,15-44,Home,1,0.0
+2025-02-18,Hospital Arnau de Vilanova,HAV,45-64,Dona,1,0.0
+2025-02-18,Hospital Arnau de Vilanova,HAV,45-64,Home,0,0.0
+2025-02-18,Hospital Arnau de Vilanova,HAV,65+,Dona,1,0.0
+2025-02-18,Hospital Arnau de Vilanova,HAV,65+,Home,2,0.0
+2025-02-18,Hospital Josep Trueta,HJT,0-14,Dona,1,0.01
+2025-02-18,Hospital Josep Trueta,HJT,0-14,Home,0,0.01
+2025-02-18,Hospital Josep Trueta,HJT,15-44,Dona,0,0.01
+2025-02-18,Hospital Josep Trueta,HJT,15-44,Home,2,0.01
+2025-02-18,Hospital Josep Trueta,HJT,45-64,Dona,1,0.01
+2025-02-18,Hospital Josep Trueta,HJT,45-64,Home,1,0.01
+2025-02-18,Hospital Josep Trueta,HJT,65+,Dona,3,0.01
+2025-02-18,Hospital Josep Trueta,HJT,65+,Home,3,0.01
+2025-02-19,Hospital Vall d'Hebron,HVD,0-14,Dona,0,0.0
+2025-02-19,Hospital Vall d'Hebron,HVD,0-14,Home,2,0.0
+2025-02-19,Hospital Vall d'Hebron,HVD,15-44,Dona,0,0.0
+2025-02-19,Hospital Vall d'Hebron,HVD,15-44,Home,1,0.0
+2025-02-19,Hospital Vall d'Hebron,HVD,45-64,Dona,2,0.0
+2025-02-19,Hospital Vall d'Hebron,HVD,45-64,Home,2,0.0
+2025-02-19,Hospital Vall d'Hebron,HVD,65+,Dona,3,0.0
+2025-02-19,Hospital Vall d'Hebron,HVD,65+,Home,3,0.0
+2025-02-19,Hospital Clínic,HC,0-14,Dona,2,0.0
+2025-02-19,Hospital Clínic,HC,0-14,Home,1,0.0
+2025-02-19,Hospital Clínic,HC,15-44,Dona,4,0.0
+2025-02-19,Hospital Clínic,HC,15-44,Home,1,0.0
+2025-02-19,Hospital Clínic,HC,45-64,Dona,3,0.0
+2025-02-19,Hospital Clínic,HC,45-64,Home,3,0.0
+2025-02-19,Hospital Clínic,HC,65+,Dona,3,0.0
+2025-02-19,Hospital Clínic,HC,65+,Home,5,0.0
+2025-02-19,Hospital Sant Pau,HSP,0-14,Dona,0,0.0
+2025-02-19,Hospital Sant Pau,HSP,0-14,Home,0,0.0
+2025-02-19,Hospital Sant Pau,HSP,15-44,Dona,0,0.0
+2025-02-19,Hospital Sant Pau,HSP,15-44,Home,0,0.0
+2025-02-19,Hospital Sant Pau,HSP,45-64,Dona,1,0.0
+2025-02-19,Hospital Sant Pau,HSP,45-64,Home,1,0.0
+2025-02-19,Hospital Sant Pau,HSP,65+,Dona,3,0.0
+2025-02-19,Hospital Sant Pau,HSP,65+,Home,1,0.0
+2025-02-19,Hospital Bellvitge,HB,0-14,Dona,0,0.0
+2025-02-19,Hospital Bellvitge,HB,0-14,Home,0,0.0
+2025-02-19,Hospital Bellvitge,HB,15-44,Dona,0,0.0
+2025-02-19,Hospital Bellvitge,HB,15-44,Home,1,0.0
+2025-02-19,Hospital Bellvitge,HB,45-64,Dona,1,0.0
+2025-02-19,Hospital Bellvitge,HB,45-64,Home,0,0.0
+2025-02-19,Hospital Bellvitge,HB,65+,Dona,0,0.0
+2025-02-19,Hospital Bellvitge,HB,65+,Home,2,0.0
+2025-02-19,Hospital Can Ruti,HCR,0-14,Dona,0,0.0
+2025-02-19,Hospital Can Ruti,HCR,0-14,Home,0,0.0
+2025-02-19,Hospital Can Ruti,HCR,15-44,Dona,4,0.0
+2025-02-19,Hospital Can Ruti,HCR,15-44,Home,1,0.0
+2025-02-19,Hospital Can Ruti,HCR,45-64,Dona,3,0.0
+2025-02-19,Hospital Can Ruti,HCR,45-64,Home,3,0.0
+2025-02-19,Hospital Can Ruti,HCR,65+,Dona,3,0.0
+2025-02-19,Hospital Can Ruti,HCR,65+,Home,5,0.0
+2025-02-19,Hospital Arnau de Vilanova,HAV,0-14,Dona,1,0.0
+2025-02-19,Hospital Arnau de Vilanova,HAV,0-14,Home,1,0.0
+2025-02-19,Hospital Arnau de Vilanova,HAV,15-44,Dona,0,0.0
+2025-02-19,Hospital Arnau de Vilanova,HAV,15-44,Home,0,0.0
+2025-02-19,Hospital Arnau de Vilanova,HAV,45-64,Dona,1,0.0
+2025-02-19,Hospital Arnau de Vilanova,HAV,45-64,Home,1,0.0
+2025-02-19,Hospital Arnau de Vilanova,HAV,65+,Dona,2,0.0
+2025-02-19,Hospital Arnau de Vilanova,HAV,65+,Home,2,0.0
+2025-02-19,Hospital Josep Trueta,HJT,0-14,Dona,1,0.0
+2025-02-19,Hospital Josep Trueta,HJT,0-14,Home,0,0.0
+2025-02-19,Hospital Josep Trueta,HJT,15-44,Dona,3,0.0
+2025-02-19,Hospital Josep Trueta,HJT,15-44,Home,2,0.0
+2025-02-19,Hospital Josep Trueta,HJT,45-64,Dona,2,0.0
+2025-02-19,Hospital Josep Trueta,HJT,45-64,Home,1,0.0
+2025-02-19,Hospital Josep Trueta,HJT,65+,Dona,2,0.0
+2025-02-19,Hospital Josep Trueta,HJT,65+,Home,2,0.0
+2025-02-20,Hospital Vall d'Hebron,HVD,0-14,Dona,0,0.0
+2025-02-20,Hospital Vall d'Hebron,HVD,0-14,Home,2,0.0
+2025-02-20,Hospital Vall d'Hebron,HVD,15-44,Dona,2,0.0
+2025-02-20,Hospital Vall d'Hebron,HVD,15-44,Home,2,0.0
+2025-02-20,Hospital Vall d'Hebron,HVD,45-64,Dona,1,0.0
+2025-02-20,Hospital Vall d'Hebron,HVD,45-64,Home,1,0.0
+2025-02-20,Hospital Vall d'Hebron,HVD,65+,Dona,3,0.0
+2025-02-20,Hospital Vall d'Hebron,HVD,65+,Home,6,0.0
+2025-02-20,Hospital Clínic,HC,0-14,Dona,1,0.0
+2025-02-20,Hospital Clínic,HC,0-14,Home,0,0.0
+2025-02-20,Hospital Clínic,HC,15-44,Dona,3,0.0
+2025-02-20,Hospital Clínic,HC,15-44,Home,3,0.0
+2025-02-20,Hospital Clínic,HC,45-64,Dona,1,0.0
+2025-02-20,Hospital Clínic,HC,45-64,Home,2,0.0
+2025-02-20,Hospital Clínic,HC,65+,Dona,5,0.0
+2025-02-20,Hospital Clínic,HC,65+,Home,6,0.0
+2025-02-20,Hospital Sant Pau,HSP,0-14,Dona,0,0.0
+2025-02-20,Hospital Sant Pau,HSP,0-14,Home,1,0.0
+2025-02-20,Hospital Sant Pau,HSP,15-44,Dona,2,0.0
+2025-02-20,Hospital Sant Pau,HSP,15-44,Home,1,0.0
+2025-02-20,Hospital Sant Pau,HSP,45-64,Dona,0,0.0
+2025-02-20,Hospital Sant Pau,HSP,45-64,Home,1,0.0
+2025-02-20,Hospital Sant Pau,HSP,65+,Dona,3,0.0
+2025-02-20,Hospital Sant Pau,HSP,65+,Home,1,0.0
+2025-02-20,Hospital Bellvitge,HB,0-14,Dona,0,0.0
+2025-02-20,Hospital Bellvitge,HB,0-14,Home,0,0.0
+2025-02-20,Hospital Bellvitge,HB,15-44,Dona,1,0.0
+2025-02-20,Hospital Bellvitge,HB,15-44,Home,0,0.0
+2025-02-20,Hospital Bellvitge,HB,45-64,Dona,0,0.0
+2025-02-20,Hospital Bellvitge,HB,45-64,Home,0,0.0
+2025-02-20,Hospital Bellvitge,HB,65+,Dona,3,0.0
+2025-02-20,Hospital Bellvitge,HB,65+,Home,2,0.0
+2025-02-20,Hospital Can Ruti,HCR,0-14,Dona,3,0.0
+2025-02-20,Hospital Can Ruti,HCR,0-14,Home,1,0.0
+2025-02-20,Hospital Can Ruti,HCR,15-44,Dona,2,0.0
+2025-02-20,Hospital Can Ruti,HCR,15-44,Home,2,0.0
+2025-02-20,Hospital Can Ruti,HCR,45-64,Dona,1,0.0
+2025-02-20,Hospital Can Ruti,HCR,45-64,Home,1,0.0
+2025-02-20,Hospital Can Ruti,HCR,65+,Dona,7,0.0
+2025-02-20,Hospital Can Ruti,HCR,65+,Home,1,0.0
+2025-02-20,Hospital Arnau de Vilanova,HAV,0-14,Dona,1,0.0
+2025-02-20,Hospital Arnau de Vilanova,HAV,0-14,Home,0,0.0
+2025-02-20,Hospital Arnau de Vilanova,HAV,15-44,Dona,0,0.0
+2025-02-20,Hospital Arnau de Vilanova,HAV,15-44,Home,3,0.0
+2025-02-20,Hospital Arnau de Vilanova,HAV,45-64,Dona,3,0.0
+2025-02-20,Hospital Arnau de Vilanova,HAV,45-64,Home,5,0.0
+2025-02-20,Hospital Arnau de Vilanova,HAV,65+,Dona,2,0.0
+2025-02-20,Hospital Arnau de Vilanova,HAV,65+,Home,2,0.0
+2025-02-20,Hospital Josep Trueta,HJT,0-14,Dona,1,0.0
+2025-02-20,Hospital Josep Trueta,HJT,0-14,Home,0,0.0
+2025-02-20,Hospital Josep Trueta,HJT,15-44,Dona,3,0.0
+2025-02-20,Hospital Josep Trueta,HJT,15-44,Home,4,0.0
+2025-02-20,Hospital Josep Trueta,HJT,45-64,Dona,1,0.0
+2025-02-20,Hospital Josep Trueta,HJT,45-64,Home,4,0.0
+2025-02-20,Hospital Josep Trueta,HJT,65+,Dona,2,0.0
+2025-02-20,Hospital Josep Trueta,HJT,65+,Home,1,0.0
+2025-02-21,Hospital Vall d'Hebron,HVD,0-14,Dona,0,0.0
+2025-02-21,Hospital Vall d'Hebron,HVD,0-14,Home,1,0.0
+2025-02-21,Hospital Vall d'Hebron,HVD,15-44,Dona,4,0.0
+2025-02-21,Hospital Vall d'Hebron,HVD,15-44,Home,3,0.0
+2025-02-21,Hospital Vall d'Hebron,HVD,45-64,Dona,2,0.0
+2025-02-21,Hospital Vall d'Hebron,HVD,45-64,Home,1,0.0
+2025-02-21,Hospital Vall d'Hebron,HVD,65+,Dona,6,0.0
+2025-02-21,Hospital Vall d'Hebron,HVD,65+,Home,9,0.0
+2025-02-21,Hospital Clínic,HC,0-14,Dona,0,0.0
+2025-02-21,Hospital Clínic,HC,0-14,Home,0,0.0
+2025-02-21,Hospital Clínic,HC,15-44,Dona,2,0.0
+2025-02-21,Hospital Clínic,HC,15-44,Home,0,0.0
+2025-02-21,Hospital Clínic,HC,45-64,Dona,2,0.0
+2025-02-21,Hospital Clínic,HC,45-64,Home,3,0.0
+2025-02-21,Hospital Clínic,HC,65+,Dona,2,0.0
+2025-02-21,Hospital Clínic,HC,65+,Home,7,0.0
+2025-02-21,Hospital Sant Pau,HSP,0-14,Dona,1,0.0
+2025-02-21,Hospital Sant Pau,HSP,0-14,Home,0,0.0
+2025-02-21,Hospital Sant Pau,HSP,15-44,Dona,1,0.0
+2025-02-21,Hospital Sant Pau,HSP,15-44,Home,0,0.0
+2025-02-21,Hospital Sant Pau,HSP,45-64,Dona,1,0.0
+2025-02-21,Hospital Sant Pau,HSP,45-64,Home,3,0.0
+2025-02-21,Hospital Sant Pau,HSP,65+,Dona,3,0.0
+2025-02-21,Hospital Sant Pau,HSP,65+,Home,2,0.0
+2025-02-21,Hospital Bellvitge,HB,0-14,Dona,1,0.0
+2025-02-21,Hospital Bellvitge,HB,0-14,Home,0,0.0
+2025-02-21,Hospital Bellvitge,HB,15-44,Dona,2,0.0
+2025-02-21,Hospital Bellvitge,HB,15-44,Home,1,0.0
+2025-02-21,Hospital Bellvitge,HB,45-64,Dona,1,0.0
+2025-02-21,Hospital Bellvitge,HB,45-64,Home,0,0.0
+2025-02-21,Hospital Bellvitge,HB,65+,Dona,2,0.0
+2025-02-21,Hospital Bellvitge,HB,65+,Home,1,0.0
+2025-02-21,Hospital Can Ruti,HCR,0-14,Dona,0,0.0
+2025-02-21,Hospital Can Ruti,HCR,0-14,Home,2,0.0
+2025-02-21,Hospital Can Ruti,HCR,15-44,Dona,2,0.0
+2025-02-21,Hospital Can Ruti,HCR,15-44,Home,0,0.0
+2025-02-21,Hospital Can Ruti,HCR,45-64,Dona,0,0.0
+2025-02-21,Hospital Can Ruti,HCR,45-64,Home,5,0.0
+2025-02-21,Hospital Can Ruti,HCR,65+,Dona,2,0.0
+2025-02-21,Hospital Can Ruti,HCR,65+,Home,5,0.0
+2025-02-21,Hospital Arnau de Vilanova,HAV,0-14,Dona,2,0.0
+2025-02-21,Hospital Arnau de Vilanova,HAV,0-14,Home,1,0.0
+2025-02-21,Hospital Arnau de Vilanova,HAV,15-44,Dona,4,0.0
+2025-02-21,Hospital Arnau de Vilanova,HAV,15-44,Home,2,0.0
+2025-02-21,Hospital Arnau de Vilanova,HAV,45-64,Dona,3,0.0
+2025-02-21,Hospital Arnau de Vilanova,HAV,45-64,Home,1,0.0
+2025-02-21,Hospital Arnau de Vilanova,HAV,65+,Dona,0,0.0
+2025-02-21,Hospital Arnau de Vilanova,HAV,65+,Home,5,0.0
+2025-02-21,Hospital Josep Trueta,HJT,0-14,Dona,1,0.0
+2025-02-21,Hospital Josep Trueta,HJT,0-14,Home,2,0.0
+2025-02-21,Hospital Josep Trueta,HJT,15-44,Dona,3,0.0
+2025-02-21,Hospital Josep Trueta,HJT,15-44,Home,2,0.0
+2025-02-21,Hospital Josep Trueta,HJT,45-64,Dona,3,0.0
+2025-02-21,Hospital Josep Trueta,HJT,45-64,Home,2,0.0
+2025-02-21,Hospital Josep Trueta,HJT,65+,Dona,6,0.0
+2025-02-21,Hospital Josep Trueta,HJT,65+,Home,2,0.0
+2025-02-22,Hospital Vall d'Hebron,HVD,0-14,Dona,0,0.0
+2025-02-22,Hospital Vall d'Hebron,HVD,0-14,Home,1,0.0
+2025-02-22,Hospital Vall d'Hebron,HVD,15-44,Dona,1,0.0
+2025-02-22,Hospital Vall d'Hebron,HVD,15-44,Home,2,0.0
+2025-02-22,Hospital Vall d'Hebron,HVD,45-64,Dona,0,0.0
+2025-02-22,Hospital Vall d'Hebron,HVD,45-64,Home,6,0.0
+2025-02-22,Hospital Vall d'Hebron,HVD,65+,Dona,5,0.0
+2025-02-22,Hospital Vall d'Hebron,HVD,65+,Home,4,0.0
+2025-02-22,Hospital Clínic,HC,0-14,Dona,3,0.0
+2025-02-22,Hospital Clínic,HC,0-14,Home,0,0.0
+2025-02-22,Hospital Clínic,HC,15-44,Dona,1,0.0
+2025-02-22,Hospital Clínic,HC,15-44,Home,0,0.0
+2025-02-22,Hospital Clínic,HC,45-64,Dona,4,0.0
+2025-02-22,Hospital Clínic,HC,45-64,Home,1,0.0
+2025-02-22,Hospital Clínic,HC,65+,Dona,5,0.0
+2025-02-22,Hospital Clínic,HC,65+,Home,0,0.0
+2025-02-22,Hospital Sant Pau,HSP,0-14,Dona,1,0.0
+2025-02-22,Hospital Sant Pau,HSP,0-14,Home,0,0.0
+2025-02-22,Hospital Sant Pau,HSP,15-44,Dona,3,0.0
+2025-02-22,Hospital Sant Pau,HSP,15-44,Home,2,0.0
+2025-02-22,Hospital Sant Pau,HSP,45-64,Dona,0,0.0
+2025-02-22,Hospital Sant Pau,HSP,45-64,Home,0,0.0
+2025-02-22,Hospital Sant Pau,HSP,65+,Dona,2,0.0
+2025-02-22,Hospital Sant Pau,HSP,65+,Home,2,0.0
+2025-02-22,Hospital Bellvitge,HB,0-14,Dona,1,0.0
+2025-02-22,Hospital Bellvitge,HB,0-14,Home,0,0.0
+2025-02-22,Hospital Bellvitge,HB,15-44,Dona,2,0.0
+2025-02-22,Hospital Bellvitge,HB,15-44,Home,1,0.0
+2025-02-22,Hospital Bellvitge,HB,45-64,Dona,0,0.0
+2025-02-22,Hospital Bellvitge,HB,45-64,Home,0,0.0
+2025-02-22,Hospital Bellvitge,HB,65+,Dona,2,0.0
+2025-02-22,Hospital Bellvitge,HB,65+,Home,1,0.0
+2025-02-22,Hospital Can Ruti,HCR,0-14,Dona,2,0.0
+2025-02-22,Hospital Can Ruti,HCR,0-14,Home,0,0.0
+2025-02-22,Hospital Can Ruti,HCR,15-44,Dona,1,0.0
+2025-02-22,Hospital Can Ruti,HCR,15-44,Home,1,0.0
+2025-02-22,Hospital Can Ruti,HCR,45-64,Dona,1,0.0
+2025-02-22,Hospital Can Ruti,HCR,45-64,Home,0,0.0
+2025-02-22,Hospital Can Ruti,HCR,65+,Dona,3,0.0
+2025-02-22,Hospital Can Ruti,HCR,65+,Home,2,0.0
+2025-02-22,Hospital Arnau de Vilanova,HAV,0-14,Dona,1,0.0
+2025-02-22,Hospital Arnau de Vilanova,HAV,0-14,Home,0,0.0
+2025-02-22,Hospital Arnau de Vilanova,HAV,15-44,Dona,0,0.0
+2025-02-22,Hospital Arnau de Vilanova,HAV,15-44,Home,5,0.0
+2025-02-22,Hospital Arnau de Vilanova,HAV,45-64,Dona,0,0.0
+2025-02-22,Hospital Arnau de Vilanova,HAV,45-64,Home,2,0.0
+2025-02-22,Hospital Arnau de Vilanova,HAV,65+,Dona,3,0.0
+2025-02-22,Hospital Arnau de Vilanova,HAV,65+,Home,0,0.0
+2025-02-22,Hospital Josep Trueta,HJT,0-14,Dona,0,0.0
+2025-02-22,Hospital Josep Trueta,HJT,0-14,Home,0,0.0
+2025-02-22,Hospital Josep Trueta,HJT,15-44,Dona,1,0.0
+2025-02-22,Hospital Josep Trueta,HJT,15-44,Home,1,0.0
+2025-02-22,Hospital Josep Trueta,HJT,45-64,Dona,0,0.0
+2025-02-22,Hospital Josep Trueta,HJT,45-64,Home,1,0.0
+2025-02-22,Hospital Josep Trueta,HJT,65+,Dona,6,0.0
+2025-02-22,Hospital Josep Trueta,HJT,65+,Home,6,0.0
+2025-02-23,Hospital Vall d'Hebron,HVD,0-14,Dona,1,0.0
+2025-02-23,Hospital Vall d'Hebron,HVD,0-14,Home,2,0.0
+2025-02-23,Hospital Vall d'Hebron,HVD,15-44,Dona,2,0.0
+2025-02-23,Hospital Vall d'Hebron,HVD,15-44,Home,2,0.0
+2025-02-23,Hospital Vall d'Hebron,HVD,45-64,Dona,0,0.0
+2025-02-23,Hospital Vall d'Hebron,HVD,45-64,Home,1,0.0
+2025-02-23,Hospital Vall d'Hebron,HVD,65+,Dona,5,0.0
+2025-02-23,Hospital Vall d'Hebron,HVD,65+,Home,4,0.0
+2025-02-23,Hospital Clínic,HC,0-14,Dona,0,0.0
+2025-02-23,Hospital Clínic,HC,0-14,Home,1,0.0
+2025-02-23,Hospital Clínic,HC,15-44,Dona,2,0.0
+2025-02-23,Hospital Clínic,HC,15-44,Home,2,0.0
+2025-02-23,Hospital Clínic,HC,45-64,Dona,2,0.0
+2025-02-23,Hospital Clínic,HC,45-64,Home,1,0.0
+2025-02-23,Hospital Clínic,HC,65+,Dona,2,0.0
+2025-02-23,Hospital Clínic,HC,65+,Home,2,0.0
+2025-02-23,Hospital Sant Pau,HSP,0-14,Dona,1,0.0
+2025-02-23,Hospital Sant Pau,HSP,0-14,Home,1,0.0
+2025-02-23,Hospital Sant Pau,HSP,15-44,Dona,2,0.0
+2025-02-23,Hospital Sant Pau,HSP,15-44,Home,0,0.0
+2025-02-23,Hospital Sant Pau,HSP,45-64,Dona,0,0.0
+2025-02-23,Hospital Sant Pau,HSP,45-64,Home,1,0.0
+2025-02-23,Hospital Sant Pau,HSP,65+,Dona,0,0.0
+2025-02-23,Hospital Sant Pau,HSP,65+,Home,2,0.0
+2025-02-23,Hospital Bellvitge,HB,0-14,Dona,1,0.0
+2025-02-23,Hospital Bellvitge,HB,0-14,Home,0,0.0
+2025-02-23,Hospital Bellvitge,HB,15-44,Dona,1,0.0
+2025-02-23,Hospital Bellvitge,HB,15-44,Home,0,0.0
+2025-02-23,Hospital Bellvitge,HB,45-64,Dona,1,0.0
+2025-02-23,Hospital Bellvitge,HB,45-64,Home,0,0.0
+2025-02-23,Hospital Bellvitge,HB,65+,Dona,0,0.0
+2025-02-23,Hospital Bellvitge,HB,65+,Home,1,0.0
+2025-02-23,Hospital Can Ruti,HCR,0-14,Dona,0,0.0
+2025-02-23,Hospital Can Ruti,HCR,0-14,Home,0,0.0
+2025-02-23,Hospital Can Ruti,HCR,15-44,Dona,0,0.0
+2025-02-23,Hospital Can Ruti,HCR,15-44,Home,1,0.0
+2025-02-23,Hospital Can Ruti,HCR,45-64,Dona,2,0.0
+2025-02-23,Hospital Can Ruti,HCR,45-64,Home,4,0.0
+2025-02-23,Hospital Can Ruti,HCR,65+,Dona,2,0.0
+2025-02-23,Hospital Can Ruti,HCR,65+,Home,7,0.0
+2025-02-23,Hospital Arnau de Vilanova,HAV,0-14,Dona,0,0.0
+2025-02-23,Hospital Arnau de Vilanova,HAV,0-14,Home,2,0.0
+2025-02-23,Hospital Arnau de Vilanova,HAV,15-44,Dona,0,0.0
+2025-02-23,Hospital Arnau de Vilanova,HAV,15-44,Home,1,0.0
+2025-02-23,Hospital Arnau de Vilanova,HAV,45-64,Dona,0,0.0
+2025-02-23,Hospital Arnau de Vilanova,HAV,45-64,Home,1,0.0
+2025-02-23,Hospital Arnau de Vilanova,HAV,65+,Dona,1,0.0
+2025-02-23,Hospital Arnau de Vilanova,HAV,65+,Home,3,0.0
+2025-02-23,Hospital Josep Trueta,HJT,0-14,Dona,0,0.0
+2025-02-23,Hospital Josep Trueta,HJT,0-14,Home,0,0.0
+2025-02-23,Hospital Josep Trueta,HJT,15-44,Dona,2,0.0
+2025-02-23,Hospital Josep Trueta,HJT,15-44,Home,0,0.0
+2025-02-23,Hospital Josep Trueta,HJT,45-64,Dona,0,0.0
+2025-02-23,Hospital Josep Trueta,HJT,45-64,Home,0,0.0
+2025-02-23,Hospital Josep Trueta,HJT,65+,Dona,4,0.0
+2025-02-23,Hospital Josep Trueta,HJT,65+,Home,1,0.0
+2025-02-24,Hospital Vall d'Hebron,HVD,0-14,Dona,2,0.0
+2025-02-24,Hospital Vall d'Hebron,HVD,0-14,Home,0,0.0
+2025-02-24,Hospital Vall d'Hebron,HVD,15-44,Dona,0,0.0
+2025-02-24,Hospital Vall d'Hebron,HVD,15-44,Home,1,0.0
+2025-02-24,Hospital Vall d'Hebron,HVD,45-64,Dona,0,0.0
+2025-02-24,Hospital Vall d'Hebron,HVD,45-64,Home,0,0.0
+2025-02-24,Hospital Vall d'Hebron,HVD,65+,Dona,4,0.0
+2025-02-24,Hospital Vall d'Hebron,HVD,65+,Home,3,0.0
+2025-02-24,Hospital Clínic,HC,0-14,Dona,1,0.0
+2025-02-24,Hospital Clínic,HC,0-14,Home,2,0.0
+2025-02-24,Hospital Clínic,HC,15-44,Dona,2,0.0
+2025-02-24,Hospital Clínic,HC,15-44,Home,3,0.0
+2025-02-24,Hospital Clínic,HC,45-64,Dona,2,0.0
+2025-02-24,Hospital Clínic,HC,45-64,Home,2,0.0
+2025-02-24,Hospital Clínic,HC,65+,Dona,1,0.0
+2025-02-24,Hospital Clínic,HC,65+,Home,2,0.0
+2025-02-24,Hospital Sant Pau,HSP,0-14,Dona,2,0.0
+2025-02-24,Hospital Sant Pau,HSP,0-14,Home,0,0.0
+2025-02-24,Hospital Sant Pau,HSP,15-44,Dona,0,0.0
+2025-02-24,Hospital Sant Pau,HSP,15-44,Home,1,0.0
+2025-02-24,Hospital Sant Pau,HSP,45-64,Dona,0,0.0
+2025-02-24,Hospital Sant Pau,HSP,45-64,Home,1,0.0
+2025-02-24,Hospital Sant Pau,HSP,65+,Dona,3,0.0
+2025-02-24,Hospital Sant Pau,HSP,65+,Home,3,0.0
+2025-02-24,Hospital Bellvitge,HB,0-14,Dona,0,0.0
+2025-02-24,Hospital Bellvitge,HB,0-14,Home,0,0.0
+2025-02-24,Hospital Bellvitge,HB,15-44,Dona,0,0.0
+2025-02-24,Hospital Bellvitge,HB,15-44,Home,0,0.0
+2025-02-24,Hospital Bellvitge,HB,45-64,Dona,0,0.0
+2025-02-24,Hospital Bellvitge,HB,45-64,Home,1,0.0
+2025-02-24,Hospital Bellvitge,HB,65+,Dona,3,0.0
+2025-02-24,Hospital Bellvitge,HB,65+,Home,3,0.0
+2025-02-24,Hospital Can Ruti,HCR,0-14,Dona,1,0.0
+2025-02-24,Hospital Can Ruti,HCR,0-14,Home,0,0.0
+2025-02-24,Hospital Can Ruti,HCR,15-44,Dona,3,0.0
+2025-02-24,Hospital Can Ruti,HCR,15-44,Home,0,0.0
+2025-02-24,Hospital Can Ruti,HCR,45-64,Dona,0,0.0
+2025-02-24,Hospital Can Ruti,HCR,45-64,Home,0,0.0
+2025-02-24,Hospital Can Ruti,HCR,65+,Dona,6,0.0
+2025-02-24,Hospital Can Ruti,HCR,65+,Home,0,0.0
+2025-02-24,Hospital Arnau de Vilanova,HAV,0-14,Dona,0,0.0
+2025-02-24,Hospital Arnau de Vilanova,HAV,0-14,Home,0,0.0
+2025-02-24,Hospital Arnau de Vilanova,HAV,15-44,Dona,1,0.0
+2025-02-24,Hospital Arnau de Vilanova,HAV,15-44,Home,1,0.0
+2025-02-24,Hospital Arnau de Vilanova,HAV,45-64,Dona,0,0.0
+2025-02-24,Hospital Arnau de Vilanova,HAV,45-64,Home,1,0.0
+2025-02-24,Hospital Arnau de Vilanova,HAV,65+,Dona,1,0.0
+2025-02-24,Hospital Arnau de Vilanova,HAV,65+,Home,3,0.0
+2025-02-24,Hospital Josep Trueta,HJT,0-14,Dona,0,0.0
+2025-02-24,Hospital Josep Trueta,HJT,0-14,Home,0,0.0
+2025-02-24,Hospital Josep Trueta,HJT,15-44,Dona,1,0.0
+2025-02-24,Hospital Josep Trueta,HJT,15-44,Home,0,0.0
+2025-02-24,Hospital Josep Trueta,HJT,45-64,Dona,0,0.0
+2025-02-24,Hospital Josep Trueta,HJT,45-64,Home,5,0.0
+2025-02-24,Hospital Josep Trueta,HJT,65+,Dona,1,0.0
+2025-02-24,Hospital Josep Trueta,HJT,65+,Home,2,0.0
+2025-02-25,Hospital Vall d'Hebron,HVD,0-14,Dona,0,0.0
+2025-02-25,Hospital Vall d'Hebron,HVD,0-14,Home,0,0.0
+2025-02-25,Hospital Vall d'Hebron,HVD,15-44,Dona,2,0.0
+2025-02-25,Hospital Vall d'Hebron,HVD,15-44,Home,1,0.0
+2025-02-25,Hospital Vall d'Hebron,HVD,45-64,Dona,3,0.0
+2025-02-25,Hospital Vall d'Hebron,HVD,45-64,Home,1,0.0
+2025-02-25,Hospital Vall d'Hebron,HVD,65+,Dona,2,0.0
+2025-02-25,Hospital Vall d'Hebron,HVD,65+,Home,4,0.0
+2025-02-25,Hospital Clínic,HC,0-14,Dona,0,0.0
+2025-02-25,Hospital Clínic,HC,0-14,Home,0,0.0
+2025-02-25,Hospital Clínic,HC,15-44,Dona,1,0.0
+2025-02-25,Hospital Clínic,HC,15-44,Home,3,0.0
+2025-02-25,Hospital Clínic,HC,45-64,Dona,0,0.0
+2025-02-25,Hospital Clínic,HC,45-64,Home,1,0.0
+2025-02-25,Hospital Clínic,HC,65+,Dona,2,0.0
+2025-02-25,Hospital Clínic,HC,65+,Home,4,0.0
+2025-02-25,Hospital Sant Pau,HSP,0-14,Dona,0,0.0
+2025-02-25,Hospital Sant Pau,HSP,0-14,Home,0,0.0
+2025-02-25,Hospital Sant Pau,HSP,15-44,Dona,1,0.0
+2025-02-25,Hospital Sant Pau,HSP,15-44,Home,1,0.0
+2025-02-25,Hospital Sant Pau,HSP,45-64,Dona,0,0.0
+2025-02-25,Hospital Sant Pau,HSP,45-64,Home,2,0.0
+2025-02-25,Hospital Sant Pau,HSP,65+,Dona,0,0.0
+2025-02-25,Hospital Sant Pau,HSP,65+,Home,2,0.0
+2025-02-25,Hospital Bellvitge,HB,0-14,Dona,0,0.0
+2025-02-25,Hospital Bellvitge,HB,0-14,Home,1,0.0
+2025-02-25,Hospital Bellvitge,HB,15-44,Dona,0,0.0
+2025-02-25,Hospital Bellvitge,HB,15-44,Home,0,0.0
+2025-02-25,Hospital Bellvitge,HB,45-64,Dona,0,0.0
+2025-02-25,Hospital Bellvitge,HB,45-64,Home,1,0.0
+2025-02-25,Hospital Bellvitge,HB,65+,Dona,0,0.0
+2025-02-25,Hospital Bellvitge,HB,65+,Home,1,0.0
+2025-02-25,Hospital Can Ruti,HCR,0-14,Dona,2,0.0
+2025-02-25,Hospital Can Ruti,HCR,0-14,Home,0,0.0
+2025-02-25,Hospital Can Ruti,HCR,15-44,Dona,3,0.0
+2025-02-25,Hospital Can Ruti,HCR,15-44,Home,3,0.0
+2025-02-25,Hospital Can Ruti,HCR,45-64,Dona,1,0.0
+2025-02-25,Hospital Can Ruti,HCR,45-64,Home,3,0.0
+2025-02-25,Hospital Can Ruti,HCR,65+,Dona,1,0.0
+2025-02-25,Hospital Can Ruti,HCR,65+,Home,2,0.0
+2025-02-25,Hospital Arnau de Vilanova,HAV,0-14,Dona,0,0.0
+2025-02-25,Hospital Arnau de Vilanova,HAV,0-14,Home,0,0.0
+2025-02-25,Hospital Arnau de Vilanova,HAV,15-44,Dona,0,0.0
+2025-02-25,Hospital Arnau de Vilanova,HAV,15-44,Home,1,0.0
+2025-02-25,Hospital Arnau de Vilanova,HAV,45-64,Dona,0,0.0
+2025-02-25,Hospital Arnau de Vilanova,HAV,45-64,Home,0,0.0
+2025-02-25,Hospital Arnau de Vilanova,HAV,65+,Dona,2,0.0
+2025-02-25,Hospital Arnau de Vilanova,HAV,65+,Home,2,0.0
+2025-02-25,Hospital Josep Trueta,HJT,0-14,Dona,0,0.0
+2025-02-25,Hospital Josep Trueta,HJT,0-14,Home,1,0.0
+2025-02-25,Hospital Josep Trueta,HJT,15-44,Dona,2,0.0
+2025-02-25,Hospital Josep Trueta,HJT,15-44,Home,1,0.0
+2025-02-25,Hospital Josep Trueta,HJT,45-64,Dona,2,0.0
+2025-02-25,Hospital Josep Trueta,HJT,45-64,Home,0,0.0
+2025-02-25,Hospital Josep Trueta,HJT,65+,Dona,1,0.0
+2025-02-25,Hospital Josep Trueta,HJT,65+,Home,1,0.0
+2025-02-26,Hospital Vall d'Hebron,HVD,0-14,Dona,1,0.0
+2025-02-26,Hospital Vall d'Hebron,HVD,0-14,Home,1,0.0
+2025-02-26,Hospital Vall d'Hebron,HVD,15-44,Dona,2,0.0
+2025-02-26,Hospital Vall d'Hebron,HVD,15-44,Home,1,0.0
+2025-02-26,Hospital Vall d'Hebron,HVD,45-64,Dona,2,0.0
+2025-02-26,Hospital Vall d'Hebron,HVD,45-64,Home,1,0.0
+2025-02-26,Hospital Vall d'Hebron,HVD,65+,Dona,5,0.0
+2025-02-26,Hospital Vall d'Hebron,HVD,65+,Home,4,0.0
+2025-02-26,Hospital Clínic,HC,0-14,Dona,1,0.0
+2025-02-26,Hospital Clínic,HC,0-14,Home,0,0.0
+2025-02-26,Hospital Clínic,HC,15-44,Dona,0,0.0
+2025-02-26,Hospital Clínic,HC,15-44,Home,3,0.0
+2025-02-26,Hospital Clínic,HC,45-64,Dona,2,0.0
+2025-02-26,Hospital Clínic,HC,45-64,Home,1,0.0
+2025-02-26,Hospital Clínic,HC,65+,Dona,3,0.0
+2025-02-26,Hospital Clínic,HC,65+,Home,4,0.0
+2025-02-26,Hospital Sant Pau,HSP,0-14,Dona,0,0.0
+2025-02-26,Hospital Sant Pau,HSP,0-14,Home,1,0.0
+2025-02-26,Hospital Sant Pau,HSP,15-44,Dona,0,0.0
+2025-02-26,Hospital Sant Pau,HSP,15-44,Home,0,0.0
+2025-02-26,Hospital Sant Pau,HSP,45-64,Dona,2,0.0
+2025-02-26,Hospital Sant Pau,HSP,45-64,Home,1,0.0
+2025-02-26,Hospital Sant Pau,HSP,65+,Dona,1,0.0
+2025-02-26,Hospital Sant Pau,HSP,65+,Home,1,0.0
+2025-02-26,Hospital Bellvitge,HB,0-14,Dona,0,0.0
+2025-02-26,Hospital Bellvitge,HB,0-14,Home,1,0.0
+2025-02-26,Hospital Bellvitge,HB,15-44,Dona,0,0.0
+2025-02-26,Hospital Bellvitge,HB,15-44,Home,0,0.0
+2025-02-26,Hospital Bellvitge,HB,45-64,Dona,0,0.0
+2025-02-26,Hospital Bellvitge,HB,45-64,Home,1,0.0
+2025-02-26,Hospital Bellvitge,HB,65+,Dona,0,0.0
+2025-02-26,Hospital Bellvitge,HB,65+,Home,2,0.0
+2025-02-26,Hospital Can Ruti,HCR,0-14,Dona,1,0.0
+2025-02-26,Hospital Can Ruti,HCR,0-14,Home,2,0.0
+2025-02-26,Hospital Can Ruti,HCR,15-44,Dona,3,0.0
+2025-02-26,Hospital Can Ruti,HCR,15-44,Home,3,0.0
+2025-02-26,Hospital Can Ruti,HCR,45-64,Dona,2,0.0
+2025-02-26,Hospital Can Ruti,HCR,45-64,Home,1,0.0
+2025-02-26,Hospital Can Ruti,HCR,65+,Dona,3,0.0
+2025-02-26,Hospital Can Ruti,HCR,65+,Home,3,0.0
+2025-02-26,Hospital Arnau de Vilanova,HAV,0-14,Dona,1,0.0
+2025-02-26,Hospital Arnau de Vilanova,HAV,0-14,Home,1,0.0
+2025-02-26,Hospital Arnau de Vilanova,HAV,15-44,Dona,1,0.0
+2025-02-26,Hospital Arnau de Vilanova,HAV,15-44,Home,0,0.0
+2025-02-26,Hospital Arnau de Vilanova,HAV,45-64,Dona,2,0.0
+2025-02-26,Hospital Arnau de Vilanova,HAV,45-64,Home,2,0.0
+2025-02-26,Hospital Arnau de Vilanova,HAV,65+,Dona,3,0.0
+2025-02-26,Hospital Arnau de Vilanova,HAV,65+,Home,1,0.0
+2025-02-26,Hospital Josep Trueta,HJT,0-14,Dona,3,0.0
+2025-02-26,Hospital Josep Trueta,HJT,0-14,Home,0,0.0
+2025-02-26,Hospital Josep Trueta,HJT,15-44,Dona,3,0.0
+2025-02-26,Hospital Josep Trueta,HJT,15-44,Home,1,0.0
+2025-02-26,Hospital Josep Trueta,HJT,45-64,Dona,3,0.0
+2025-02-26,Hospital Josep Trueta,HJT,45-64,Home,2,0.0
+2025-02-26,Hospital Josep Trueta,HJT,65+,Dona,5,0.0
+2025-02-26,Hospital Josep Trueta,HJT,65+,Home,1,0.0
+2025-02-27,Hospital Vall d'Hebron,HVD,0-14,Dona,0,0.0
+2025-02-27,Hospital Vall d'Hebron,HVD,0-14,Home,0,0.0
+2025-02-27,Hospital Vall d'Hebron,HVD,15-44,Dona,1,0.0
+2025-02-27,Hospital Vall d'Hebron,HVD,15-44,Home,1,0.0
+2025-02-27,Hospital Vall d'Hebron,HVD,45-64,Dona,4,0.0
+2025-02-27,Hospital Vall d'Hebron,HVD,45-64,Home,2,0.0
+2025-02-27,Hospital Vall d'Hebron,HVD,65+,Dona,0,0.0
+2025-02-27,Hospital Vall d'Hebron,HVD,65+,Home,5,0.0
+2025-02-27,Hospital Clínic,HC,0-14,Dona,0,0.0
+2025-02-27,Hospital Clínic,HC,0-14,Home,0,0.0
+2025-02-27,Hospital Clínic,HC,15-44,Dona,0,0.0
+2025-02-27,Hospital Clínic,HC,15-44,Home,5,0.0
+2025-02-27,Hospital Clínic,HC,45-64,Dona,1,0.0
+2025-02-27,Hospital Clínic,HC,45-64,Home,1,0.0
+2025-02-27,Hospital Clínic,HC,65+,Dona,5,0.0
+2025-02-27,Hospital Clínic,HC,65+,Home,1,0.0
+2025-02-27,Hospital Sant Pau,HSP,0-14,Dona,0,0.0
+2025-02-27,Hospital Sant Pau,HSP,0-14,Home,1,0.0
+2025-02-27,Hospital Sant Pau,HSP,15-44,Dona,3,0.0
+2025-02-27,Hospital Sant Pau,HSP,15-44,Home,1,0.0
+2025-02-27,Hospital Sant Pau,HSP,45-64,Dona,2,0.0
+2025-02-27,Hospital Sant Pau,HSP,45-64,Home,1,0.0
+2025-02-27,Hospital Sant Pau,HSP,65+,Dona,3,0.0
+2025-02-27,Hospital Sant Pau,HSP,65+,Home,4,0.0
+2025-02-27,Hospital Bellvitge,HB,0-14,Dona,0,0.0
+2025-02-27,Hospital Bellvitge,HB,0-14,Home,1,0.0
+2025-02-27,Hospital Bellvitge,HB,15-44,Dona,0,0.0
+2025-02-27,Hospital Bellvitge,HB,15-44,Home,0,0.0
+2025-02-27,Hospital Bellvitge,HB,45-64,Dona,0,0.0
+2025-02-27,Hospital Bellvitge,HB,45-64,Home,1,0.0
+2025-02-27,Hospital Bellvitge,HB,65+,Dona,1,0.0
+2025-02-27,Hospital Bellvitge,HB,65+,Home,2,0.0
+2025-02-27,Hospital Can Ruti,HCR,0-14,Dona,2,0.0
+2025-02-27,Hospital Can Ruti,HCR,0-14,Home,1,0.0
+2025-02-27,Hospital Can Ruti,HCR,15-44,Dona,3,0.0
+2025-02-27,Hospital Can Ruti,HCR,15-44,Home,3,0.0
+2025-02-27,Hospital Can Ruti,HCR,45-64,Dona,2,0.0
+2025-02-27,Hospital Can Ruti,HCR,45-64,Home,3,0.0
+2025-02-27,Hospital Can Ruti,HCR,65+,Dona,3,0.0
+2025-02-27,Hospital Can Ruti,HCR,65+,Home,6,0.0
+2025-02-27,Hospital Arnau de Vilanova,HAV,0-14,Dona,1,0.0
+2025-02-27,Hospital Arnau de Vilanova,HAV,0-14,Home,1,0.0
+2025-02-27,Hospital Arnau de Vilanova,HAV,15-44,Dona,0,0.0
+2025-02-27,Hospital Arnau de Vilanova,HAV,15-44,Home,2,0.0
+2025-02-27,Hospital Arnau de Vilanova,HAV,45-64,Dona,3,0.0
+2025-02-27,Hospital Arnau de Vilanova,HAV,45-64,Home,0,0.0
+2025-02-27,Hospital Arnau de Vilanova,HAV,65+,Dona,2,0.0
+2025-02-27,Hospital Arnau de Vilanova,HAV,65+,Home,4,0.0
+2025-02-27,Hospital Josep Trueta,HJT,0-14,Dona,1,0.0
+2025-02-27,Hospital Josep Trueta,HJT,0-14,Home,1,0.0
+2025-02-27,Hospital Josep Trueta,HJT,15-44,Dona,4,0.0
+2025-02-27,Hospital Josep Trueta,HJT,15-44,Home,2,0.0
+2025-02-27,Hospital Josep Trueta,HJT,45-64,Dona,1,0.0
+2025-02-27,Hospital Josep Trueta,HJT,45-64,Home,0,0.0
+2025-02-27,Hospital Josep Trueta,HJT,65+,Dona,2,0.0
+2025-02-27,Hospital Josep Trueta,HJT,65+,Home,1,0.0
+2025-02-28,Hospital Vall d'Hebron,HVD,0-14,Dona,0,0.0
+2025-02-28,Hospital Vall d'Hebron,HVD,0-14,Home,4,0.0
+2025-02-28,Hospital Vall d'Hebron,HVD,15-44,Dona,2,0.0
+2025-02-28,Hospital Vall d'Hebron,HVD,15-44,Home,2,0.0
+2025-02-28,Hospital Vall d'Hebron,HVD,45-64,Dona,2,0.0
+2025-02-28,Hospital Vall d'Hebron,HVD,45-64,Home,1,0.0
+2025-02-28,Hospital Vall d'Hebron,HVD,65+,Dona,4,0.0
+2025-02-28,Hospital Vall d'Hebron,HVD,65+,Home,1,0.0
+2025-02-28,Hospital Clínic,HC,0-14,Dona,0,0.0
+2025-02-28,Hospital Clínic,HC,0-14,Home,1,0.0
+2025-02-28,Hospital Clínic,HC,15-44,Dona,7,0.0
+2025-02-28,Hospital Clínic,HC,15-44,Home,4,0.0
+2025-02-28,Hospital Clínic,HC,45-64,Dona,3,0.0
+2025-02-28,Hospital Clínic,HC,45-64,Home,2,0.0
+2025-02-28,Hospital Clínic,HC,65+,Dona,3,0.0
+2025-02-28,Hospital Clínic,HC,65+,Home,4,0.0
+2025-02-28,Hospital Sant Pau,HSP,0-14,Dona,1,0.0
+2025-02-28,Hospital Sant Pau,HSP,0-14,Home,0,0.0
+2025-02-28,Hospital Sant Pau,HSP,15-44,Dona,2,0.0
+2025-02-28,Hospital Sant Pau,HSP,15-44,Home,1,0.0
+2025-02-28,Hospital Sant Pau,HSP,45-64,Dona,1,0.0
+2025-02-28,Hospital Sant Pau,HSP,45-64,Home,1,0.0
+2025-02-28,Hospital Sant Pau,HSP,65+,Dona,0,0.0
+2025-02-28,Hospital Sant Pau,HSP,65+,Home,2,0.0
+2025-02-28,Hospital Bellvitge,HB,0-14,Dona,1,0.0
+2025-02-28,Hospital Bellvitge,HB,0-14,Home,1,0.0
+2025-02-28,Hospital Bellvitge,HB,15-44,Dona,1,0.0
+2025-02-28,Hospital Bellvitge,HB,15-44,Home,1,0.0
+2025-02-28,Hospital Bellvitge,HB,45-64,Dona,1,0.0
+2025-02-28,Hospital Bellvitge,HB,45-64,Home,2,0.0
+2025-02-28,Hospital Bellvitge,HB,65+,Dona,0,0.0
+2025-02-28,Hospital Bellvitge,HB,65+,Home,1,0.0
+2025-02-28,Hospital Can Ruti,HCR,0-14,Dona,0,0.0
+2025-02-28,Hospital Can Ruti,HCR,0-14,Home,1,0.0
+2025-02-28,Hospital Can Ruti,HCR,15-44,Dona,2,0.0
+2025-02-28,Hospital Can Ruti,HCR,15-44,Home,0,0.0
+2025-02-28,Hospital Can Ruti,HCR,45-64,Dona,3,0.0
+2025-02-28,Hospital Can Ruti,HCR,45-64,Home,0,0.0
+2025-02-28,Hospital Can Ruti,HCR,65+,Dona,4,0.0
+2025-02-28,Hospital Can Ruti,HCR,65+,Home,11,0.0
+2025-02-28,Hospital Arnau de Vilanova,HAV,0-14,Dona,4,0.0
+2025-02-28,Hospital Arnau de Vilanova,HAV,0-14,Home,2,0.0
+2025-02-28,Hospital Arnau de Vilanova,HAV,15-44,Dona,1,0.0
+2025-02-28,Hospital Arnau de Vilanova,HAV,15-44,Home,2,0.0
+2025-02-28,Hospital Arnau de Vilanova,HAV,45-64,Dona,2,0.0
+2025-02-28,Hospital Arnau de Vilanova,HAV,45-64,Home,0,0.0
+2025-02-28,Hospital Arnau de Vilanova,HAV,65+,Dona,3,0.0
+2025-02-28,Hospital Arnau de Vilanova,HAV,65+,Home,1,0.0
+2025-02-28,Hospital Josep Trueta,HJT,0-14,Dona,1,0.0
+2025-02-28,Hospital Josep Trueta,HJT,0-14,Home,0,0.0
+2025-02-28,Hospital Josep Trueta,HJT,15-44,Dona,2,0.0
+2025-02-28,Hospital Josep Trueta,HJT,15-44,Home,1,0.0
+2025-02-28,Hospital Josep Trueta,HJT,45-64,Dona,2,0.0
+2025-02-28,Hospital Josep Trueta,HJT,45-64,Home,0,0.0
+2025-02-28,Hospital Josep Trueta,HJT,65+,Dona,2,0.0
+2025-02-28,Hospital Josep Trueta,HJT,65+,Home,6,0.0
+2025-03-01,Hospital Vall d'Hebron,HVD,0-14,Dona,1,0.0
+2025-03-01,Hospital Vall d'Hebron,HVD,0-14,Home,2,0.0
+2025-03-01,Hospital Vall d'Hebron,HVD,15-44,Dona,2,0.0
+2025-03-01,Hospital Vall d'Hebron,HVD,15-44,Home,3,0.0
+2025-03-01,Hospital Vall d'Hebron,HVD,45-64,Dona,2,0.0
+2025-03-01,Hospital Vall d'Hebron,HVD,45-64,Home,3,0.0
+2025-03-01,Hospital Vall d'Hebron,HVD,65+,Dona,2,0.0
+2025-03-01,Hospital Vall d'Hebron,HVD,65+,Home,1,0.0
+2025-03-01,Hospital Clínic,HC,0-14,Dona,0,0.0
+2025-03-01,Hospital Clínic,HC,0-14,Home,2,0.0
+2025-03-01,Hospital Clínic,HC,15-44,Dona,3,0.0
+2025-03-01,Hospital Clínic,HC,15-44,Home,1,0.0
+2025-03-01,Hospital Clínic,HC,45-64,Dona,1,0.0
+2025-03-01,Hospital Clínic,HC,45-64,Home,3,0.0
+2025-03-01,Hospital Clínic,HC,65+,Dona,4,0.0
+2025-03-01,Hospital Clínic,HC,65+,Home,6,0.0
+2025-03-01,Hospital Sant Pau,HSP,0-14,Dona,1,0.0
+2025-03-01,Hospital Sant Pau,HSP,0-14,Home,0,0.0
+2025-03-01,Hospital Sant Pau,HSP,15-44,Dona,2,0.0
+2025-03-01,Hospital Sant Pau,HSP,15-44,Home,1,0.0
+2025-03-01,Hospital Sant Pau,HSP,45-64,Dona,2,0.0
+2025-03-01,Hospital Sant Pau,HSP,45-64,Home,0,0.0
+2025-03-01,Hospital Sant Pau,HSP,65+,Dona,4,0.0
+2025-03-01,Hospital Sant Pau,HSP,65+,Home,2,0.0
+2025-03-01,Hospital Bellvitge,HB,0-14,Dona,0,0.0
+2025-03-01,Hospital Bellvitge,HB,0-14,Home,1,0.0
+2025-03-01,Hospital Bellvitge,HB,15-44,Dona,2,0.0
+2025-03-01,Hospital Bellvitge,HB,15-44,Home,2,0.0
+2025-03-01,Hospital Bellvitge,HB,45-64,Dona,1,0.0
+2025-03-01,Hospital Bellvitge,HB,45-64,Home,0,0.0
+2025-03-01,Hospital Bellvitge,HB,65+,Dona,1,0.0
+2025-03-01,Hospital Bellvitge,HB,65+,Home,1,0.0
+2025-03-01,Hospital Can Ruti,HCR,0-14,Dona,0,0.0
+2025-03-01,Hospital Can Ruti,HCR,0-14,Home,3,0.0
+2025-03-01,Hospital Can Ruti,HCR,15-44,Dona,1,0.0
+2025-03-01,Hospital Can Ruti,HCR,15-44,Home,1,0.0
+2025-03-01,Hospital Can Ruti,HCR,45-64,Dona,1,0.0
+2025-03-01,Hospital Can Ruti,HCR,45-64,Home,0,0.0
+2025-03-01,Hospital Can Ruti,HCR,65+,Dona,4,0.0
+2025-03-01,Hospital Can Ruti,HCR,65+,Home,2,0.0
+2025-03-01,Hospital Arnau de Vilanova,HAV,0-14,Dona,1,0.0
+2025-03-01,Hospital Arnau de Vilanova,HAV,0-14,Home,0,0.0
+2025-03-01,Hospital Arnau de Vilanova,HAV,15-44,Dona,1,0.0
+2025-03-01,Hospital Arnau de Vilanova,HAV,15-44,Home,1,0.0
+2025-03-01,Hospital Arnau de Vilanova,HAV,45-64,Dona,3,0.0
+2025-03-01,Hospital Arnau de Vilanova,HAV,45-64,Home,1,0.0
+2025-03-01,Hospital Arnau de Vilanova,HAV,65+,Dona,6,0.0
+2025-03-01,Hospital Arnau de Vilanova,HAV,65+,Home,2,0.0
+2025-03-01,Hospital Josep Trueta,HJT,0-14,Dona,3,0.0
+2025-03-01,Hospital Josep Trueta,HJT,0-14,Home,1,0.0
+2025-03-01,Hospital Josep Trueta,HJT,15-44,Dona,1,0.0
+2025-03-01,Hospital Josep Trueta,HJT,15-44,Home,3,0.0
+2025-03-01,Hospital Josep Trueta,HJT,45-64,Dona,5,0.0
+2025-03-01,Hospital Josep Trueta,HJT,45-64,Home,2,0.0
+2025-03-01,Hospital Josep Trueta,HJT,65+,Dona,8,0.0
+2025-03-01,Hospital Josep Trueta,HJT,65+,Home,3,0.0

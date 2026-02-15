@@ -1,0 +1,639 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_3bce54d95973a7b59f09f2151aae6913 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+     <div style="position: fixed; 
+     bottom: 50px; left: 50px; width: 180px; height: 140px; 
+     border:2px solid grey; z-index:9999; font-size:14px;
+     background-color:rgba(255, 255, 255, 0.8);
+     padding: 10px;
+     border-radius: 5px;">
+     <b>Llegenda RRHH</b><br>
+     <i style="background:orange; width:10px; height:10px; display:inline-block; border-radius:50%"></i> Personal Total<br>
+     <hr>
+     <b>Fluxes:</b><br>
+     <span style="color:cyan">---</span> Suport Esp.<br>
+     <span style="color:green">- -</span> Formació<br>
+     <span style="color:orange">---</span> Altres
+     </div>
+     
+    
+            <div class="folium-map" id="map_3bce54d95973a7b59f09f2151aae6913" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_3bce54d95973a7b59f09f2151aae6913 = L.map(
+                "map_3bce54d95973a7b59f09f2151aae6913",
+                {
+                    center: [41.95, 2.75],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 9,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_7a24ca83e069c18f0141652ae16ee150 = L.tileLayer(
+                "https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 20,
+  "maxNativeZoom": 20,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"https://carto.com/attributions\"\u003eCARTO\u003c/a\u003e",
+  "subdomains": "abcd",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_7a24ca83e069c18f0141652ae16ee150.addTo(map_3bce54d95973a7b59f09f2151aae6913);
+        
+    
+            var poly_line_0efdde6f6b259ef1391c0aca138b1db8 = L.polyline(
+                [[41.98, 2.82], [41.97, 2.79]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": "5, 5", "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.6, "smoothFactor": 1.0, "stroke": true, "weight": 6.0}
+            ).addTo(map_3bce54d95973a7b59f09f2151aae6913);
+        
+    
+            poly_line_0efdde6f6b259ef1391c0aca138b1db8.bindTooltip(
+                `<div>
+                     ABS_Girona -> ABS_Salt<br>Formació: 8 pax
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_154d04fb7c99b333839f7fbf48f00601 = L.polyline(
+                [[41.97, 2.79], [41.98, 2.82]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": "5, 5", "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.6, "smoothFactor": 1.0, "stroke": true, "weight": 6.0}
+            ).addTo(map_3bce54d95973a7b59f09f2151aae6913);
+        
+    
+            poly_line_154d04fb7c99b333839f7fbf48f00601.bindTooltip(
+                `<div>
+                     ABS_Salt -> ABS_Girona<br>Formació: 8 pax
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_f6b894fc16245f05d41a0b9c9b1be73a = L.polyline(
+                [[41.675, 2.7917], [41.97, 2.79]],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.6, "smoothFactor": 1.0, "stroke": true, "weight": 3.0}
+            ).addTo(map_3bce54d95973a7b59f09f2151aae6913);
+        
+    
+            poly_line_f6b894fc16245f05d41a0b9c9b1be73a.bindTooltip(
+                `<div>
+                     HBF -> ABS_Salt<br>Rotació Residents: 2 pax
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_6b812c72da6f85ead53b62a15149098c = L.polyline(
+                [[41.8333, 2.6667], [42.2285, 2.1667]],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.6, "smoothFactor": 1.0, "stroke": true, "weight": 6.5}
+            ).addTo(map_3bce54d95973a7b59f09f2151aae6913);
+        
+    
+            poly_line_6b812c72da6f85ead53b62a15149098c.bindTooltip(
+                `<div>
+                     HCS -> HCF<br>Guàrdies Compartides: 9 pax
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_e33b54ec1f4ab6f9bc49b3561a73df4a = L.polyline(
+                [[41.8333, 2.6667], [41.9964, 2.8242]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": "5, 5", "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.6, "smoothFactor": 1.0, "stroke": true, "weight": 2.5}
+            ).addTo(map_3bce54d95973a7b59f09f2151aae6913);
+        
+    
+            poly_line_e33b54ec1f4ab6f9bc49b3561a73df4a.bindTooltip(
+                `<div>
+                     HCS -> HJT<br>Formació: 1 pax
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_c85fe6382f16117a1d704c12c0983679 = L.polyline(
+                [[41.8333, 2.6667], [41.85, 3.1333]],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.6, "smoothFactor": 1.0, "stroke": true, "weight": 3.0}
+            ).addTo(map_3bce54d95973a7b59f09f2151aae6913);
+        
+    
+            poly_line_c85fe6382f16117a1d704c12c0983679.bindTooltip(
+                `<div>
+                     HCS -> HP<br>Guàrdies Compartides: 2 pax
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_e682553c79f3bd74b7a2baed64f321ff = L.polyline(
+                [[41.9964, 2.8242], [42.1167, 2.7667]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": "5, 5", "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.6, "smoothFactor": 1.0, "stroke": true, "weight": 4.5}
+            ).addTo(map_3bce54d95973a7b59f09f2151aae6913);
+        
+    
+            poly_line_e682553c79f3bd74b7a2baed64f321ff.bindTooltip(
+                `<div>
+                     HJT -> ABS_Banyoles<br>Formació: 5 pax
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_a03a46c4ac5159fa8f487570a3b6983f = L.polyline(
+                [[41.9964, 2.8242], [41.97, 2.79]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": "5, 5", "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.6, "smoothFactor": 1.0, "stroke": true, "weight": 4.5}
+            ).addTo(map_3bce54d95973a7b59f09f2151aae6913);
+        
+    
+            poly_line_a03a46c4ac5159fa8f487570a3b6983f.bindTooltip(
+                `<div>
+                     HJT -> ABS_Salt<br>Formació: 5 pax
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_ffb2710c91d039150b3f3d9aec66a8cb = L.polyline(
+                [[42.1833, 2.4833], [42.1167, 2.7667]],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.6, "smoothFactor": 1.0, "stroke": true, "weight": 4.5}
+            ).addTo(map_3bce54d95973a7b59f09f2151aae6913);
+        
+    
+            poly_line_ffb2710c91d039150b3f3d9aec66a8cb.bindTooltip(
+                `<div>
+                     HOL -> ABS_Banyoles<br>Guàrdies Compartides: 5 pax
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_89dbfb6a8118b03023530b95a94b22ce = L.polyline(
+                [[42.1833, 2.4833], [41.9964, 2.8242]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": "5, 5", "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.6, "smoothFactor": 1.0, "stroke": true, "weight": 6.5}
+            ).addTo(map_3bce54d95973a7b59f09f2151aae6913);
+        
+    
+            poly_line_89dbfb6a8118b03023530b95a94b22ce.bindTooltip(
+                `<div>
+                     HOL -> HJT<br>Formació: 9 pax
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_79e63ae42778c618801ac58066203272 = L.polyline(
+                [[42.1833, 2.4833], [41.9964, 2.8242]],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.6, "smoothFactor": 1.0, "stroke": true, "weight": 4.5}
+            ).addTo(map_3bce54d95973a7b59f09f2151aae6913);
+        
+    
+            poly_line_79e63ae42778c618801ac58066203272.bindTooltip(
+                `<div>
+                     HOL -> HJT<br>Rotació Residents: 5 pax
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_77e11dc3f503276c861e2e1876ad46e1 = L.polyline(
+                [[41.9723, 2.8094], [41.97, 2.79]],
+                {"bubblingMouseEvents": true, "color": "cyan", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "cyan", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.6, "smoothFactor": 1.0, "stroke": true, "weight": 4.5}
+            ).addTo(map_3bce54d95973a7b59f09f2151aae6913);
+        
+    
+            poly_line_77e11dc3f503276c861e2e1876ad46e1.bindTooltip(
+                `<div>
+                     HSC -> ABS_Salt<br>Suport Especialista: 5 pax
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_5b1ca08b0cc2524eba8ddd5815dd40ce = L.circleMarker(
+                [41.9964, 2.8242],
+                {"bubblingMouseEvents": true, "color": "#ff9900", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ff9900", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 29.75, "stroke": true, "weight": 3}
+            ).addTo(map_3bce54d95973a7b59f09f2151aae6913);
+        
+    
+        var popup_c54212478b2d4f9a67f47543f197655e = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_e5755acefbcf1938202b4ab5bf47365b = $(`<div id="html_e5755acefbcf1938202b4ab5bf47365b" style="width: 100.0%; height: 100.0%;">             <div style="font-family: sans-serif; min-width: 200px;">                 <h4>Hospital Josep Trueta</h4>                 <p><b>Total Personal: 2475</b></p>                 <table style="width:100%">               <tr>                 <th>Categoria</th>                 <th>Personal</th>                </tr><tr><td>Metges</td><td>601</td></tr><tr><td>Infermeres</td><td>983</td></tr><tr><td>Administratius</td><td>375</td></tr><tr><td>Altres</td><td>516</td></tr></table>             </div>             </div>`)[0];
+                popup_c54212478b2d4f9a67f47543f197655e.setContent(html_e5755acefbcf1938202b4ab5bf47365b);
+            
+        
+
+        circle_marker_5b1ca08b0cc2524eba8ddd5815dd40ce.bindPopup(popup_c54212478b2d4f9a67f47543f197655e)
+        ;
+
+        
+    
+    
+            circle_marker_5b1ca08b0cc2524eba8ddd5815dd40ce.bindTooltip(
+                `<div>
+                     Hospital Josep Trueta
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_0392b3d443136e535d2d3da75e7c9a6c = L.circleMarker(
+                [41.9723, 2.8094],
+                {"bubblingMouseEvents": true, "color": "#ff9900", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ff9900", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 14.65, "stroke": true, "weight": 3}
+            ).addTo(map_3bce54d95973a7b59f09f2151aae6913);
+        
+    
+        var popup_6502e8a6baf90b0363276d2dfb2f3429 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_448645bbda608458819434c9566c88f1 = $(`<div id="html_448645bbda608458819434c9566c88f1" style="width: 100.0%; height: 100.0%;">             <div style="font-family: sans-serif; min-width: 200px;">                 <h4>Hospital Santa Caterina</h4>                 <p><b>Total Personal: 965</b></p>                 <table style="width:100%">               <tr>                 <th>Categoria</th>                 <th>Personal</th>                </tr><tr><td>Metges</td><td>236</td></tr><tr><td>Infermeres</td><td>384</td></tr><tr><td>Administratius</td><td>132</td></tr><tr><td>Altres</td><td>213</td></tr></table>             </div>             </div>`)[0];
+                popup_6502e8a6baf90b0363276d2dfb2f3429.setContent(html_448645bbda608458819434c9566c88f1);
+            
+        
+
+        circle_marker_0392b3d443136e535d2d3da75e7c9a6c.bindPopup(popup_6502e8a6baf90b0363276d2dfb2f3429)
+        ;
+
+        
+    
+    
+            circle_marker_0392b3d443136e535d2d3da75e7c9a6c.bindTooltip(
+                `<div>
+                     Hospital Santa Caterina
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_b37aeca6b4065debf1b5d030cb130203 = L.circleMarker(
+                [42.1833, 2.4833],
+                {"bubblingMouseEvents": true, "color": "#ff9900", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ff9900", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 9.370000000000001, "stroke": true, "weight": 3}
+            ).addTo(map_3bce54d95973a7b59f09f2151aae6913);
+        
+    
+        var popup_e8cad3d68cafd24edd229005bfefa0f5 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_ac06ae6ddad1eb16511ee0f20c853e30 = $(`<div id="html_ac06ae6ddad1eb16511ee0f20c853e30" style="width: 100.0%; height: 100.0%;">             <div style="font-family: sans-serif; min-width: 200px;">                 <h4>Hospital d'Olot</h4>                 <p><b>Total Personal: 437</b></p>                 <table style="width:100%">               <tr>                 <th>Categoria</th>                 <th>Personal</th>                </tr><tr><td>Metges</td><td>124</td></tr><tr><td>Infermeres</td><td>155</td></tr><tr><td>Administratius</td><td>57</td></tr><tr><td>Altres</td><td>101</td></tr></table>             </div>             </div>`)[0];
+                popup_e8cad3d68cafd24edd229005bfefa0f5.setContent(html_ac06ae6ddad1eb16511ee0f20c853e30);
+            
+        
+
+        circle_marker_b37aeca6b4065debf1b5d030cb130203.bindPopup(popup_e8cad3d68cafd24edd229005bfefa0f5)
+        ;
+
+        
+    
+    
+            circle_marker_b37aeca6b4065debf1b5d030cb130203.bindTooltip(
+                `<div>
+                     Hospital d'Olot
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_945b468b023d6a0d50af057e6c2cf1a9 = L.circleMarker(
+                [42.2285, 2.1667],
+                {"bubblingMouseEvents": true, "color": "#ff9900", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ff9900", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 9.61, "stroke": true, "weight": 3}
+            ).addTo(map_3bce54d95973a7b59f09f2151aae6913);
+        
+    
+        var popup_8c8193f0ac3549ecccec7e7710f84e8e = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_9bd8d0e81586707295a411ece0951ad6 = $(`<div id="html_9bd8d0e81586707295a411ece0951ad6" style="width: 100.0%; height: 100.0%;">             <div style="font-family: sans-serif; min-width: 200px;">                 <h4>Hospital de Campdevànol</h4>                 <p><b>Total Personal: 461</b></p>                 <table style="width:100%">               <tr>                 <th>Categoria</th>                 <th>Personal</th>                </tr><tr><td>Metges</td><td>119</td></tr><tr><td>Infermeres</td><td>199</td></tr><tr><td>Administratius</td><td>60</td></tr><tr><td>Altres</td><td>83</td></tr></table>             </div>             </div>`)[0];
+                popup_8c8193f0ac3549ecccec7e7710f84e8e.setContent(html_9bd8d0e81586707295a411ece0951ad6);
+            
+        
+
+        circle_marker_945b468b023d6a0d50af057e6c2cf1a9.bindPopup(popup_8c8193f0ac3549ecccec7e7710f84e8e)
+        ;
+
+        
+    
+    
+            circle_marker_945b468b023d6a0d50af057e6c2cf1a9.bindTooltip(
+                `<div>
+                     Hospital de Campdevànol
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_178318c87a8d5825882738f657b55c3a = L.circleMarker(
+                [41.85, 3.1333],
+                {"bubblingMouseEvents": true, "color": "#ff9900", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ff9900", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 14.5, "stroke": true, "weight": 3}
+            ).addTo(map_3bce54d95973a7b59f09f2151aae6913);
+        
+    
+        var popup_bfc9af7df005a0e54696263728696192 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_b482475263faebf71180ba28a8400303 = $(`<div id="html_b482475263faebf71180ba28a8400303" style="width: 100.0%; height: 100.0%;">             <div style="font-family: sans-serif; min-width: 200px;">                 <h4>Hospital de Palamós</h4>                 <p><b>Total Personal: 950</b></p>                 <table style="width:100%">               <tr>                 <th>Categoria</th>                 <th>Personal</th>                </tr><tr><td>Metges</td><td>257</td></tr><tr><td>Infermeres</td><td>363</td></tr><tr><td>Administratius</td><td>157</td></tr><tr><td>Altres</td><td>173</td></tr></table>             </div>             </div>`)[0];
+                popup_bfc9af7df005a0e54696263728696192.setContent(html_b482475263faebf71180ba28a8400303);
+            
+        
+
+        circle_marker_178318c87a8d5825882738f657b55c3a.bindPopup(popup_bfc9af7df005a0e54696263728696192)
+        ;
+
+        
+    
+    
+            circle_marker_178318c87a8d5825882738f657b55c3a.bindTooltip(
+                `<div>
+                     Hospital de Palamós
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_dead9baccd43051b9f718cdb0f479be6 = L.circleMarker(
+                [41.675, 2.7917],
+                {"bubblingMouseEvents": true, "color": "#ff9900", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ff9900", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 9.07, "stroke": true, "weight": 3}
+            ).addTo(map_3bce54d95973a7b59f09f2151aae6913);
+        
+    
+        var popup_43543c3ead4588d493f195de51ef05c1 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_4ce97b40106cfe52f35fcea6c1da7dbb = $(`<div id="html_4ce97b40106cfe52f35fcea6c1da7dbb" style="width: 100.0%; height: 100.0%;">             <div style="font-family: sans-serif; min-width: 200px;">                 <h4>Hospital de Blanes</h4>                 <p><b>Total Personal: 407</b></p>                 <table style="width:100%">               <tr>                 <th>Categoria</th>                 <th>Personal</th>                </tr><tr><td>Metges</td><td>79</td></tr><tr><td>Infermeres</td><td>185</td></tr><tr><td>Administratius</td><td>56</td></tr><tr><td>Altres</td><td>87</td></tr></table>             </div>             </div>`)[0];
+                popup_43543c3ead4588d493f195de51ef05c1.setContent(html_4ce97b40106cfe52f35fcea6c1da7dbb);
+            
+        
+
+        circle_marker_dead9baccd43051b9f718cdb0f479be6.bindPopup(popup_43543c3ead4588d493f195de51ef05c1)
+        ;
+
+        
+    
+    
+            circle_marker_dead9baccd43051b9f718cdb0f479be6.bindTooltip(
+                `<div>
+                     Hospital de Blanes
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_65ca23030117a8d63133d502b81cb701 = L.circleMarker(
+                [41.8333, 2.6667],
+                {"bubblingMouseEvents": true, "color": "#ff9900", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ff9900", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 9.49, "stroke": true, "weight": 3}
+            ).addTo(map_3bce54d95973a7b59f09f2151aae6913);
+        
+    
+        var popup_fdd9824bcc1575df8257a4a5f666f041 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_4834b755743d44a7a1fcadd2eab2045c = $(`<div id="html_4834b755743d44a7a1fcadd2eab2045c" style="width: 100.0%; height: 100.0%;">             <div style="font-family: sans-serif; min-width: 200px;">                 <h4>Hospital de la Selva</h4>                 <p><b>Total Personal: 449</b></p>                 <table style="width:100%">               <tr>                 <th>Categoria</th>                 <th>Personal</th>                </tr><tr><td>Metges</td><td>106</td></tr><tr><td>Infermeres</td><td>185</td></tr><tr><td>Administratius</td><td>75</td></tr><tr><td>Altres</td><td>83</td></tr></table>             </div>             </div>`)[0];
+                popup_fdd9824bcc1575df8257a4a5f666f041.setContent(html_4834b755743d44a7a1fcadd2eab2045c);
+            
+        
+
+        circle_marker_65ca23030117a8d63133d502b81cb701.bindPopup(popup_fdd9824bcc1575df8257a4a5f666f041)
+        ;
+
+        
+    
+    
+            circle_marker_65ca23030117a8d63133d502b81cb701.bindTooltip(
+                `<div>
+                     Hospital de la Selva
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_234bd7ea94c7b0b74b570a443ecbcacb = L.circleMarker(
+                [41.98, 2.82],
+                {"bubblingMouseEvents": true, "color": "#ff9900", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ff9900", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6.13, "stroke": true, "weight": 3}
+            ).addTo(map_3bce54d95973a7b59f09f2151aae6913);
+        
+    
+        var popup_e6d94c4ffe531c165600da98a05daff4 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_7df5d60832e46c8eae75705f87439e6d = $(`<div id="html_7df5d60832e46c8eae75705f87439e6d" style="width: 100.0%; height: 100.0%;">             <div style="font-family: sans-serif; min-width: 200px;">                 <h4>CAP Girona</h4>                 <p><b>Total Personal: 113</b></p>                 <table style="width:100%">               <tr>                 <th>Categoria</th>                 <th>Personal</th>                </tr><tr><td>Metges</td><td>22</td></tr><tr><td>Infermeres</td><td>48</td></tr><tr><td>Administratius</td><td>19</td></tr><tr><td>Altres</td><td>24</td></tr></table>             </div>             </div>`)[0];
+                popup_e6d94c4ffe531c165600da98a05daff4.setContent(html_7df5d60832e46c8eae75705f87439e6d);
+            
+        
+
+        circle_marker_234bd7ea94c7b0b74b570a443ecbcacb.bindPopup(popup_e6d94c4ffe531c165600da98a05daff4)
+        ;
+
+        
+    
+    
+            circle_marker_234bd7ea94c7b0b74b570a443ecbcacb.bindTooltip(
+                `<div>
+                     CAP Girona
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_55c02c0873adb8afe33075bfc7c94570 = L.circleMarker(
+                [41.97, 2.79],
+                {"bubblingMouseEvents": true, "color": "#ff9900", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ff9900", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6.12, "stroke": true, "weight": 3}
+            ).addTo(map_3bce54d95973a7b59f09f2151aae6913);
+        
+    
+        var popup_2b002a6ac42c35df28b76ff3230508bf = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_399d0c9e14b345899205670cc4fabea1 = $(`<div id="html_399d0c9e14b345899205670cc4fabea1" style="width: 100.0%; height: 100.0%;">             <div style="font-family: sans-serif; min-width: 200px;">                 <h4>CAP Salt</h4>                 <p><b>Total Personal: 112</b></p>                 <table style="width:100%">               <tr>                 <th>Categoria</th>                 <th>Personal</th>                </tr><tr><td>Metges</td><td>33</td></tr><tr><td>Infermeres</td><td>44</td></tr><tr><td>Administratius</td><td>15</td></tr><tr><td>Altres</td><td>20</td></tr></table>             </div>             </div>`)[0];
+                popup_2b002a6ac42c35df28b76ff3230508bf.setContent(html_399d0c9e14b345899205670cc4fabea1);
+            
+        
+
+        circle_marker_55c02c0873adb8afe33075bfc7c94570.bindPopup(popup_2b002a6ac42c35df28b76ff3230508bf)
+        ;
+
+        
+    
+    
+            circle_marker_55c02c0873adb8afe33075bfc7c94570.bindTooltip(
+                `<div>
+                     CAP Salt
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_c73a82a07228ef133a5fdcc65ab2d238 = L.circleMarker(
+                [42.1167, 2.7667],
+                {"bubblingMouseEvents": true, "color": "#ff9900", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ff9900", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.9, "stroke": true, "weight": 3}
+            ).addTo(map_3bce54d95973a7b59f09f2151aae6913);
+        
+    
+        var popup_b604989ce727db05620f3f32a005632e = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_8240d7e86eb52e771213c5fb0658226d = $(`<div id="html_8240d7e86eb52e771213c5fb0658226d" style="width: 100.0%; height: 100.0%;">             <div style="font-family: sans-serif; min-width: 200px;">                 <h4>CAP Banyoles</h4>                 <p><b>Total Personal: 90</b></p>                 <table style="width:100%">               <tr>                 <th>Categoria</th>                 <th>Personal</th>                </tr><tr><td>Metges</td><td>19</td></tr><tr><td>Infermeres</td><td>41</td></tr><tr><td>Administratius</td><td>14</td></tr><tr><td>Altres</td><td>16</td></tr></table>             </div>             </div>`)[0];
+                popup_b604989ce727db05620f3f32a005632e.setContent(html_8240d7e86eb52e771213c5fb0658226d);
+            
+        
+
+        circle_marker_c73a82a07228ef133a5fdcc65ab2d238.bindPopup(popup_b604989ce727db05620f3f32a005632e)
+        ;
+
+        
+    
+    
+            circle_marker_c73a82a07228ef133a5fdcc65ab2d238.bindTooltip(
+                `<div>
+                     CAP Banyoles
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+</script>
+</html>

@@ -1,0 +1,541 @@
+Timestamp,Patient_ID,Name,Age,Gender,Origin,Destination,Urgency,Specialty,Pathology
+2025-02-01 01:10:04,PAC-3401,Jordi Gomez,44,Dona,CAP_Girona_Guell,HJT,Urgent,Trauma,Fractura de radi
+2025-02-01 02:12:53,PAC-8817,Marc Ruiz,36,Home,CAP_Palafrugell,HP,Rutina,Pediatria,Gastroenteritis
+2025-02-01 03:24:36,PAC-6285,Cristina Rodriguez,83,Home,CAP_Girona_CanGibert,HSC,Rutina,General,Dolor abdominal inespecífic
+2025-02-01 05:22:29,PAC-1118,Nuria Fernandez,0,Dona,CAP_Palamos,HP,Rutina,Gine,Dolor pèlvic
+2025-02-01 08:56:37,PAC-5956,Anna Perez,82,Dona,CAP_Ripoll,HCAR,Rutina,Trauma,Esquinç de turmell
+2025-02-01 08:59:15,PAC-2829,Marc Perez,12,Dona,CAP_Besalu,HO,Rutina,Trauma,Contusió costal
+2025-02-01 09:02:04,PAC-9332,Albert Gomez,85,Home,CAP_Olot,HO,Urgent,Trauma,Fractura de radi
+2025-02-01 09:03:11,PAC-4097,Marta Hernandez,93,Dona,CAP_Girona_Guell,HJT,Urgent,Trauma,Fractura de fèmur
+2025-02-01 09:13:23,PAC-3670,Maria Sanchez,73,Home,CAP_Escala,HF,Rutina,Gine,Metrorràgia
+2025-02-01 09:17:40,PAC-3325,Joan Perez,47,Dona,HO,HJT,Rutina,Cardio,Angina
+2025-02-01 09:17:54,PAC-8922,Marc Gomez,73,Dona,HCAR,HJT,Rutina,Cardio,Dolor toràcic
+2025-02-01 09:32:18,PAC-6834,Cristina Garcia,42,Dona,HJT,HP,Rutina,Pediatria,Gastroenteritis
+2025-02-01 09:48:57,PAC-9972,Marc Hernandez,37,Home,CAP_Banyoles,HJT,Rutina,General,Dolor abdominal inespecífic
+2025-02-01 09:55:36,PAC-1370,Marta Garcia,94,Dona,CAP_Bisbal,HP,Emergencia,Trauma,Contusió costal
+2025-02-01 09:56:30,PAC-3286,Cristina Rodriguez,77,Dona,CAP_Banyoles,HJT,Rutina,General,Malestar general
+2025-02-01 10:22:04,PAC-8187,Jordi Perez,42,Dona,CAP_Girona_CanGibert,HSC,Rutina,Trauma,Fractura de radi
+2025-02-01 10:40:48,PAC-3061,Anna Sanchez,81,Home,CAP_Banyoles,HJT,Rutina,Cardio,Arítmia
+2025-02-01 10:54:29,PAC-7522,Albert Garcia,15,Home,HP,HJT,Rutina,General,Malestar general
+2025-02-01 11:07:58,PAC-4196,Josep Ruiz,20,Dona,CAP_Lloret,HB,Urgent,Pediatria,Otitis
+2025-02-01 11:08:31,PAC-7873,Cristina Perez,13,Home,CAP_Banyoles,HJT,Rutina,Trauma,Fractura de radi
+2025-02-01 11:16:36,PAC-8145,Jordi Ruiz,23,Dona,CAP_Olot,HO,Rutina,General,Malestar general
+2025-02-01 11:23:41,PAC-5408,Josep Garcia,92,Home,HO,HJT,Rutina,Digestiu,Hemorràgia digestiva
+2025-02-01 11:25:38,PAC-5274,Laura Gomez,72,Dona,CAP_Escala,HF,Urgent,Digestiu,Còlic biliar
+2025-02-01 11:30:11,PAC-7027,Josep Ruiz,88,Home,CAP_Girona_Guell,HJT,Urgent,General,Malestar general
+2025-02-01 11:31:46,PAC-2129,Maria Gomez,18,Home,HCAR,HJT,Rutina,Gine,Control gestació
+2025-02-01 11:41:27,PAC-9213,Anna Fernandez,52,Dona,CAP_Banyoles,HJT,Rutina,Digestiu,Còlic biliar
+2025-02-01 11:46:44,PAC-3525,Marta Fernandez,34,Home,CAP_Roses,HF,Rutina,Pediatria,Otitis
+2025-02-01 11:50:52,PAC-3751,Marta Rodriguez,71,Dona,CAP_Ripoll,HCAR,Rutina,General,Dolor abdominal inespecífic
+2025-02-01 11:51:58,PAC-5180,Cristina Gomez,39,Home,HP,HJT,Rutina,Pediatria,Asma
+2025-02-01 11:52:48,PAC-6739,Nuria Rodriguez,35,Home,CAP_Olot,HO,Rutina,Gine,Dolor pèlvic
+2025-02-01 12:03:00,PAC-9691,Marta Hernandez,24,Home,CAP_Palafrugell,HP,Rutina,General,Febre sense focus
+2025-02-01 12:06:38,PAC-3940,Anna Lopez,84,Dona,CAP_Girona_Guell,HJT,Rutina,Gine,Control gestació
+2025-02-01 12:10:11,PAC-5360,Albert Hernandez,28,Dona,CAP_Lloret,HB,Rutina,General,Dolor abdominal inespecífic
+2025-02-01 12:20:21,PAC-1746,Marta Garcia,27,Home,HJT,HO,Rutina,Digestiu,Pancreatitis
+2025-02-01 12:36:38,PAC-2390,Joan Ruiz,23,Dona,HCAR,HJT,Rutina,Cardio,Dolor toràcic
+2025-02-01 12:40:16,PAC-1128,Pere Sanchez,22,Home,CAP_Palafrugell,HP,Rutina,Cardio,Dolor toràcic
+2025-02-01 12:55:25,PAC-6625,Maria Perez,6,Home,CAP_Banyoles,HJT,Rutina,Trauma,Contusió costal
+2025-02-01 13:14:35,PAC-3615,Laura Gomez,67,Dona,CAP_Bisbal,HP,Rutina,Cardio,Dolor toràcic
+2025-02-01 13:16:16,PAC-3264,Pere Lopez,80,Dona,HP,HJT,Rutina,Pediatria,Bronquiolitis
+2025-02-01 13:23:47,PAC-7508,Joan Hernandez,57,Home,CAP_Salt,HSC,Rutina,Pediatria,Bronquiolitis
+2025-02-01 13:24:39,PAC-5581,Maria Garcia,91,Dona,CAP_Girona_Guell,HJT,Urgent,Gine,Metrorràgia
+2025-02-01 13:39:56,PAC-9187,Joan Perez,85,Dona,CAP_Olot,HO,Rutina,Gine,Control gestació
+2025-02-01 13:42:05,PAC-3605,Josep Rodriguez,0,Dona,HP,HJT,Rutina,Pediatria,Otitis
+2025-02-01 14:10:27,PAC-7589,Pere Martine,91,Dona,CAP_Roses,HF,Rutina,Pediatria,Asma
+2025-02-01 14:13:38,PAC-2034,Maria Lopez,47,Dona,HSC,HJT,Urgent,General,Dolor abdominal inespecífic
+2025-02-01 14:25:10,PAC-2703,Josep Martine,19,Home,HF,HJT,Rutina,Digestiu,Pancreatitis
+2025-02-01 14:43:54,PAC-5907,Josep Perez,6,Home,CAP_Bisbal,HP,Rutina,Digestiu,Hemorràgia digestiva
+2025-02-01 14:48:41,PAC-7333,Joan Sanchez,79,Dona,CAP_Lloret,HB,Urgent,Digestiu,Hemorràgia digestiva
+2025-02-01 14:52:58,PAC-7107,Laura Martine,37,Dona,CAP_Besalu,HO,Rutina,Pediatria,Bronquiolitis
+2025-02-01 15:02:55,PAC-2906,Cristina Hernandez,79,Home,CAP_Roses,HF,Rutina,Cardio,Insuficiència cardíaca
+2025-02-01 15:09:48,PAC-3180,Anna Martine,91,Home,CAP_Lloret,HB,Rutina,Cardio,Insuficiència cardíaca
+2025-02-01 15:13:58,PAC-1648,Marc Martine,51,Home,CAP_Besalu,HO,Rutina,Cardio,Angina
+2025-02-01 15:21:25,PAC-6834,Jordi Sanchez,84,Dona,CAP_Girona_CanGibert,HSC,Rutina,Gine,Dolor pèlvic
+2025-02-01 15:30:35,PAC-7839,Marc Lopez,75,Dona,CAP_Besalu,HO,Urgent,Digestiu,Hemorràgia digestiva
+2025-02-01 16:07:19,PAC-6897,Cristina Lopez,41,Home,CAP_Ripoll,HCAR,Rutina,Trauma,Contusió costal
+2025-02-01 16:28:26,PAC-9771,Marc Ruiz,59,Home,CAP_Palamos,HP,Rutina,Cardio,Insuficiència cardíaca
+2025-02-01 16:53:30,PAC-8229,Nuria Hernandez,32,Dona,HJT,HB,Rutina,General,Malestar general
+2025-02-01 16:56:30,PAC-7136,Anna Sanchez,6,Home,CAP_Palafrugell,HP,Rutina,Pediatria,Bronquiolitis
+2025-02-01 17:02:34,PAC-4819,Cristina Fernandez,57,Dona,CAP_Palamos,HP,Rutina,Trauma,Fractura de radi
+2025-02-01 17:16:49,PAC-8589,Josep Sanchez,86,Home,CAP_Roses,HF,Rutina,Trauma,Esquinç de turmell
+2025-02-01 17:18:00,PAC-4208,Anna Fernandez,84,Home,CAP_Banyoles,HJT,Rutina,Trauma,Esquinç de turmell
+2025-02-01 17:27:35,PAC-3815,Laura Hernandez,34,Home,CAP_Olot,HO,Urgent,Pediatria,Gastroenteritis
+2025-02-01 17:29:15,PAC-9340,Marta Sanchez,7,Home,CAP_Girona_CanGibert,HSC,Rutina,Trauma,Esquinç de turmell
+2025-02-01 17:29:38,PAC-5454,Laura Lopez,35,Dona,HB,HJT,Rutina,General,Dolor abdominal inespecífic
+2025-02-01 17:42:31,PAC-2240,Nuria Hernandez,27,Dona,CAP_Lloret,HB,Rutina,Digestiu,Pancreatitis
+2025-02-01 18:03:38,PAC-7899,Pere Perez,25,Home,HF,HJT,Rutina,Pediatria,Otitis
+2025-02-01 18:12:31,PAC-8769,Marta Perez,65,Dona,CAP_Palamos,HP,Rutina,Gine,Dolor pèlvic
+2025-02-01 18:14:07,PAC-1096,Cristina Sanchez,29,Home,HB,HJT,Rutina,General,Febre sense focus
+2025-02-01 18:15:50,PAC-4348,Anna Gomez,39,Dona,HCAR,HJT,Urgent,Pediatria,Gastroenteritis
+2025-02-01 18:25:42,PAC-7987,Cristina Hernandez,29,Dona,CAP_Palafrugell,HP,Rutina,Trauma,Fractura de fèmur
+2025-02-01 18:43:38,PAC-7370,Laura Gomez,8,Dona,CAP_Besalu,HO,Rutina,Gine,Metrorràgia
+2025-02-01 18:57:29,PAC-2771,Anna Hernandez,88,Dona,CAP_Palamos,HP,Rutina,Digestiu,Còlic biliar
+2025-02-01 19:09:50,PAC-5600,Maria Ruiz,27,Dona,CAP_Ripoll,HCAR,Rutina,Pediatria,Asma
+2025-02-01 19:34:29,PAC-7640,Pere Lopez,62,Dona,CAP_Palamos,HP,Rutina,Digestiu,Pancreatitis
+2025-02-01 19:57:57,PAC-7310,Albert Ruiz,83,Home,CAP_Bisbal,HP,Rutina,Pediatria,Bronquiolitis
+2025-02-01 20:36:27,PAC-1616,Anna Sanchez,77,Dona,CAP_Olot,HO,Rutina,Pediatria,Asma
+2025-02-01 20:38:00,PAC-2370,Marc Rodriguez,46,Dona,CAP_Girona_CanGibert,HSC,Rutina,Cardio,Insuficiència cardíaca
+2025-02-01 20:39:39,PAC-2719,Joan Rodriguez,16,Home,CAP_Olot,HO,Urgent,Digestiu,Hemorràgia digestiva
+2025-02-01 20:53:16,PAC-6147,Albert Rodriguez,82,Home,HCAR,HJT,Rutina,Pediatria,Asma
+2025-02-01 21:01:00,PAC-7746,Marta Martine,12,Dona,HP,HJT,Rutina,Pediatria,Asma
+2025-02-01 22:13:25,PAC-5793,Marc Garcia,15,Home,CAP_Banyoles,HJT,Rutina,General,Dolor abdominal inespecífic
+2025-02-01 22:41:00,PAC-5826,Marta Hernandez,60,Home,CAP_Girona_Guell,HJT,Rutina,General,Dolor abdominal inespecífic
+2025-02-02 00:23:06,PAC-2770,Marta Rodriguez,49,Dona,CAP_Besalu,HO,Urgent,Cardio,Angina
+2025-02-02 00:25:04,PAC-3207,Pere Sanchez,18,Dona,CAP_Salt,HSC,Rutina,Pediatria,Asma
+2025-02-02 02:15:42,PAC-3028,Pere Gomez,19,Home,CAP_Lloret,HB,Rutina,Digestiu,Pancreatitis
+2025-02-02 03:01:13,PAC-7637,Pere Rodriguez,53,Dona,CAP_Besalu,HO,Rutina,Trauma,Esquinç de turmell
+2025-02-02 05:04:34,PAC-5611,Maria Garcia,62,Home,HB,HJT,Rutina,Pediatria,Otitis
+2025-02-02 07:39:47,PAC-5812,Albert Hernandez,56,Home,CAP_Figueres,HF,Rutina,General,Dolor abdominal inespecífic
+2025-02-02 08:51:32,PAC-4495,Joan Garcia,3,Home,CAP_Olot,HO,Rutina,General,Malestar general
+2025-02-02 09:01:40,PAC-1116,Marta Martine,9,Dona,CAP_Banyoles,HJT,Rutina,General,Febre sense focus
+2025-02-02 09:11:24,PAC-1260,Nuria Perez,1,Dona,CAP_Lloret,HB,Rutina,Digestiu,Còlic biliar
+2025-02-02 09:13:55,PAC-2310,Nuria Gomez,14,Dona,CAP_Figueres,HF,Rutina,Gine,Metrorràgia
+2025-02-02 09:16:47,PAC-4806,Maria Fernandez,76,Dona,CAP_Bisbal,HP,Rutina,Digestiu,Còlic biliar
+2025-02-02 09:17:36,PAC-3296,Josep Hernandez,94,Dona,CAP_Salt,HSC,Rutina,General,Malestar general
+2025-02-02 09:32:03,PAC-9598,Joan Fernandez,86,Home,CAP_Blanes,HB,Rutina,General,Dolor abdominal inespecífic
+2025-02-02 09:36:24,PAC-2447,Josep Perez,91,Home,CAP_Besalu,HO,Rutina,Gine,Metrorràgia
+2025-02-02 09:42:53,PAC-4394,Marc Hernandez,12,Home,CAP_Roses,HF,Urgent,General,Dolor abdominal inespecífic
+2025-02-02 09:52:56,PAC-8665,Marta Perez,31,Dona,CAP_Palamos,HP,Urgent,General,Malestar general
+2025-02-02 09:55:06,PAC-9164,Anna Fernandez,33,Dona,HJT,HF,Rutina,General,Dolor abdominal inespecífic
+2025-02-02 10:22:45,PAC-2372,Anna Martine,0,Home,CAP_Bisbal,HP,Rutina,Digestiu,Còlic biliar
+2025-02-02 10:23:17,PAC-6930,Laura Lopez,64,Home,HP,HJT,Urgent,Pediatria,Asma
+2025-02-02 10:32:33,PAC-5089,Pere Garcia,31,Dona,HF,HJT,Urgent,General,Malestar general
+2025-02-02 10:32:53,PAC-8313,Josep Hernandez,53,Dona,HP,HJT,Emergencia,Digestiu,Pancreatitis
+2025-02-02 10:36:12,PAC-9647,Cristina Sanchez,74,Home,CAP_Escala,HF,Rutina,Gine,Metrorràgia
+2025-02-02 10:51:39,PAC-2548,Maria Gomez,17,Dona,HSC,HJT,Rutina,General,Malestar general
+2025-02-02 10:55:02,PAC-1422,Maria Martine,52,Home,CAP_Besalu,HO,Rutina,Pediatria,Otitis
+2025-02-02 11:00:51,PAC-8620,Marc Fernandez,0,Dona,CAP_Girona_CanGibert,HSC,Rutina,Digestiu,Còlic biliar
+2025-02-02 11:06:56,PAC-9312,Anna Martine,23,Dona,CAP_Palamos,HP,Rutina,Digestiu,Hemorràgia digestiva
+2025-02-02 11:18:05,PAC-7743,Pere Fernandez,26,Dona,CAP_Olot,HO,Rutina,Pediatria,Bronquiolitis
+2025-02-02 11:29:26,PAC-4514,Maria Lopez,8,Dona,HJT,HCAR,Rutina,Trauma,Esquinç de turmell
+2025-02-02 11:41:06,PAC-3235,Nuria Ruiz,23,Home,CAP_Besalu,HO,Rutina,Pediatria,Otitis
+2025-02-02 11:44:57,PAC-6872,Jordi Sanchez,77,Dona,CAP_Olot,HO,Rutina,Digestiu,Còlic biliar
+2025-02-02 12:08:07,PAC-4804,Jordi Perez,90,Home,CAP_Escala,HF,Rutina,Cardio,Dolor toràcic
+2025-02-02 12:29:25,PAC-2374,Maria Garcia,4,Home,HCAR,HJT,Urgent,Trauma,Contusió costal
+2025-02-02 12:38:11,PAC-1516,Cristina Garcia,67,Home,CAP_Bisbal,HP,Rutina,General,Malestar general
+2025-02-02 12:48:19,PAC-2101,Albert Garcia,78,Home,CAP_Girona_CanGibert,HSC,Rutina,General,Febre sense focus
+2025-02-02 13:03:49,PAC-2722,Josep Rodriguez,91,Dona,CAP_Salt,HSC,Urgent,Pediatria,Gastroenteritis
+2025-02-02 13:05:44,PAC-1231,Laura Ruiz,80,Dona,CAP_Roses,HF,Rutina,General,Malestar general
+2025-02-02 13:05:57,PAC-7212,Joan Martine,29,Home,CAP_Olot,HO,Urgent,Pediatria,Bronquiolitis
+2025-02-02 13:33:56,PAC-9211,Marta Ruiz,81,Home,HF,HJT,Rutina,Trauma,Esquinç de turmell
+2025-02-02 13:40:26,PAC-4333,Marta Garcia,55,Home,CAP_Roses,HF,Rutina,Trauma,Esquinç de turmell
+2025-02-02 13:41:03,PAC-7206,Marc Ruiz,33,Dona,CAP_Blanes,HB,Rutina,Gine,Dolor pèlvic
+2025-02-02 14:30:43,PAC-3062,Nuria Perez,60,Dona,HCAR,HJT,Rutina,Pediatria,Asma
+2025-02-02 14:35:30,PAC-7525,Albert Fernandez,19,Dona,CAP_Ripoll,HCAR,Rutina,Pediatria,Asma
+2025-02-02 14:36:32,PAC-6724,Pere Fernandez,72,Dona,CAP_Bisbal,HP,Emergencia,General,Dolor abdominal inespecífic
+2025-02-02 14:43:03,PAC-2001,Joan Lopez,11,Home,CAP_Ripoll,HCAR,Rutina,Cardio,Dolor toràcic
+2025-02-02 15:05:52,PAC-2431,Cristina Fernandez,79,Dona,CAP_Salt,HSC,Urgent,Digestiu,Pancreatitis
+2025-02-02 15:31:01,PAC-9683,Marc Sanchez,47,Dona,CAP_Roses,HF,Rutina,Gine,Dolor pèlvic
+2025-02-02 15:38:07,PAC-2614,Marta Sanchez,67,Home,CAP_Palamos,HP,Rutina,Pediatria,Otitis
+2025-02-02 15:38:23,PAC-6999,Marc Fernandez,84,Dona,CAP_Banyoles,HJT,Rutina,Cardio,Arítmia
+2025-02-02 16:07:48,PAC-9000,Laura Hernandez,71,Dona,CAP_Escala,HF,Urgent,Pediatria,Gastroenteritis
+2025-02-02 16:08:18,PAC-4752,Albert Garcia,95,Dona,CAP_Girona_Guell,HJT,Rutina,Trauma,Esquinç de turmell
+2025-02-02 16:14:22,PAC-2335,Jordi Perez,48,Dona,CAP_Palafrugell,HP,Rutina,Gine,Dolor pèlvic
+2025-02-02 16:23:10,PAC-3897,Laura Lopez,3,Home,HB,HJT,Urgent,Digestiu,Pancreatitis
+2025-02-02 16:35:48,PAC-9816,Pere Fernandez,36,Home,CAP_Blanes,HB,Rutina,Cardio,Dolor toràcic
+2025-02-02 16:46:00,PAC-9933,Josep Lopez,51,Dona,CAP_Bisbal,HP,Rutina,General,Malestar general
+2025-02-02 16:51:33,PAC-4685,Cristina Gomez,21,Dona,CAP_Lloret,HB,Rutina,Cardio,Arítmia
+2025-02-02 16:54:51,PAC-4590,Laura Hernandez,36,Dona,CAP_Salt,HSC,Rutina,Trauma,Fractura de fèmur
+2025-02-02 16:59:56,PAC-4735,Laura Rodriguez,32,Dona,CAP_Besalu,HO,Rutina,Digestiu,Còlic biliar
+2025-02-02 17:22:00,PAC-1563,Laura Garcia,32,Home,CAP_Figueres,HF,Rutina,General,Malestar general
+2025-02-02 17:39:16,PAC-6773,Maria Sanchez,15,Home,CAP_Salt,HSC,Rutina,Digestiu,Hemorràgia digestiva
+2025-02-02 17:44:50,PAC-9455,Albert Gomez,42,Home,CAP_Banyoles,HJT,Rutina,Gine,Control gestació
+2025-02-02 17:50:28,PAC-3985,Pere Sanchez,80,Home,HJT,HP,Rutina,General,Febre sense focus
+2025-02-02 17:57:52,PAC-4150,Josep Gomez,48,Home,CAP_Blanes,HB,Urgent,Trauma,Fractura de radi
+2025-02-02 17:59:14,PAC-5724,Maria Sanchez,49,Dona,CAP_Roses,HF,Rutina,Digestiu,Hemorràgia digestiva
+2025-02-02 18:04:21,PAC-6070,Pere Sanchez,16,Dona,HJT,HSC,Rutina,Digestiu,Hemorràgia digestiva
+2025-02-02 18:06:13,PAC-7520,Maria Martine,50,Dona,CAP_Girona_CanGibert,HSC,Rutina,Cardio,Dolor toràcic
+2025-02-02 18:09:56,PAC-9966,Marta Lopez,8,Home,CAP_Escala,HF,Rutina,Gine,Dolor pèlvic
+2025-02-02 18:20:49,PAC-6339,Marta Martine,78,Dona,CAP_Bisbal,HP,Rutina,Gine,Dolor pèlvic
+2025-02-02 18:22:58,PAC-7089,Marc Perez,60,Home,CAP_Girona_CanGibert,HSC,Rutina,Gine,Dolor pèlvic
+2025-02-02 18:32:15,PAC-5037,Joan Hernandez,9,Home,CAP_Girona_CanGibert,HSC,Rutina,Trauma,Contusió costal
+2025-02-02 18:40:55,PAC-3493,Cristina Garcia,47,Home,CAP_Palafrugell,HP,Rutina,General,Febre sense focus
+2025-02-02 18:50:40,PAC-2886,Jordi Sanchez,19,Dona,CAP_Roses,HF,Rutina,Gine,Metrorràgia
+2025-02-02 19:02:47,PAC-8562,Pere Garcia,31,Dona,HJT,HO,Urgent,Trauma,Fractura de fèmur
+2025-02-02 19:05:25,PAC-1509,Nuria Hernandez,63,Dona,CAP_Bisbal,HP,Rutina,General,Dolor abdominal inespecífic
+2025-02-02 19:21:12,PAC-6971,Cristina Garcia,84,Home,CAP_Figueres,HF,Urgent,Pediatria,Gastroenteritis
+2025-02-02 19:34:20,PAC-2747,Josep Hernandez,61,Dona,CAP_Roses,HF,Rutina,Gine,Dolor pèlvic
+2025-02-02 19:36:01,PAC-4683,Joan Martine,5,Dona,CAP_Salt,HSC,Rutina,General,Malestar general
+2025-02-02 19:56:30,PAC-2167,Maria Gomez,69,Home,CAP_Blanes,HB,Rutina,Gine,Metrorràgia
+2025-02-02 20:06:18,PAC-9005,Marta Sanchez,51,Dona,CAP_Escala,HF,Urgent,Cardio,Angina
+2025-02-02 20:23:54,PAC-8068,Maria Garcia,74,Dona,CAP_Bisbal,HP,Rutina,Gine,Control gestació
+2025-02-02 20:27:29,PAC-1300,Jordi Fernandez,75,Home,CAP_Blanes,HB,Rutina,General,Febre sense focus
+2025-02-02 20:28:48,PAC-7945,Laura Rodriguez,69,Dona,CAP_Palamos,HP,Rutina,Gine,Metrorràgia
+2025-02-02 20:38:05,PAC-1985,Albert Gomez,13,Dona,HCAR,HJT,Urgent,Cardio,Dolor toràcic
+2025-02-02 20:44:03,PAC-9408,Cristina Garcia,15,Home,CAP_Blanes,HB,Rutina,Cardio,Arítmia
+2025-02-02 21:15:09,PAC-8691,Anna Perez,68,Home,CAP_Lloret,HB,Rutina,Cardio,Insuficiència cardíaca
+2025-02-02 23:03:31,PAC-7374,Joan Ruiz,4,Dona,CAP_Olot,HO,Urgent,Digestiu,Còlic biliar
+2025-02-02 23:18:59,PAC-5777,Laura Fernandez,36,Home,CAP_Olot,HO,Urgent,Cardio,Angina
+2025-02-02 23:46:18,PAC-2715,Jordi Ruiz,47,Home,CAP_Banyoles,HJT,Rutina,Trauma,Fractura de fèmur
+2025-02-03 01:10:09,PAC-6137,Joan Hernandez,88,Dona,CAP_Roses,HF,Rutina,Cardio,Dolor toràcic
+2025-02-03 02:18:05,PAC-8955,Anna Gomez,92,Home,CAP_Salt,HSC,Urgent,Gine,Metrorràgia
+2025-02-03 03:04:50,PAC-4483,Pere Perez,33,Home,CAP_Banyoles,HJT,Urgent,Digestiu,Còlic biliar
+2025-02-03 04:34:34,PAC-9505,Nuria Lopez,61,Home,CAP_Palamos,HP,Rutina,Cardio,Insuficiència cardíaca
+2025-02-03 04:58:19,PAC-3778,Laura Gomez,56,Home,CAP_Escala,HF,Rutina,Gine,Metrorràgia
+2025-02-03 05:56:57,PAC-2396,Joan Garcia,37,Dona,HO,HJT,Rutina,General,Malestar general
+2025-02-03 06:37:10,PAC-9094,Josep Ruiz,15,Home,CAP_Salt,HSC,Rutina,Gine,Dolor pèlvic
+2025-02-03 07:24:07,PAC-9091,Albert Sanchez,45,Dona,CAP_Besalu,HO,Rutina,Digestiu,Hemorràgia digestiva
+2025-02-03 07:46:13,PAC-7783,Josep Rodriguez,31,Dona,CAP_Palamos,HP,Rutina,General,Dolor abdominal inespecífic
+2025-02-03 08:32:15,PAC-9203,Cristina Sanchez,42,Home,CAP_Besalu,HO,Rutina,Gine,Control gestació
+2025-02-03 08:43:32,PAC-1454,Maria Sanchez,56,Dona,CAP_Blanes,HB,Rutina,Digestiu,Hemorràgia digestiva
+2025-02-03 08:49:03,PAC-9653,Josep Martine,84,Home,CAP_Ripoll,HCAR,Rutina,Digestiu,Còlic biliar
+2025-02-03 08:54:17,PAC-4222,Cristina Hernandez,19,Home,CAP_Besalu,HO,Rutina,Pediatria,Otitis
+2025-02-03 09:10:37,PAC-3320,Laura Gomez,5,Home,CAP_Bisbal,HP,Rutina,General,Dolor abdominal inespecífic
+2025-02-03 09:30:12,PAC-9905,Pere Lopez,43,Dona,CAP_Salt,HSC,Urgent,Trauma,Fractura de fèmur
+2025-02-03 09:50:22,PAC-9994,Laura Perez,16,Dona,CAP_Escala,HF,Rutina,Digestiu,Hemorràgia digestiva
+2025-02-03 10:07:14,PAC-6633,Joan Sanchez,57,Home,CAP_Girona_Guell,HJT,Rutina,General,Malestar general
+2025-02-03 10:16:12,PAC-7022,Pere Fernandez,57,Home,CAP_Figueres,HF,Rutina,Digestiu,Pancreatitis
+2025-02-03 10:28:31,PAC-8327,Marta Martine,14,Home,HP,HJT,Urgent,Cardio,Dolor toràcic
+2025-02-03 10:31:54,PAC-6971,Marc Garcia,25,Home,CAP_Escala,HF,Rutina,Pediatria,Gastroenteritis
+2025-02-03 10:41:29,PAC-5211,Marc Gomez,87,Home,HJT,HO,Rutina,Cardio,Insuficiència cardíaca
+2025-02-03 10:48:28,PAC-5324,Nuria Hernandez,38,Dona,CAP_Palamos,HP,Urgent,Gine,Dolor pèlvic
+2025-02-03 10:55:26,PAC-7288,Jordi Sanchez,35,Dona,CAP_Escala,HF,Urgent,Cardio,Angina
+2025-02-03 10:59:51,PAC-6580,Jordi Rodriguez,84,Home,HCAR,HJT,Urgent,Trauma,Contusió costal
+2025-02-03 11:34:37,PAC-6174,Joan Rodriguez,12,Dona,CAP_Figueres,HF,Rutina,Gine,Control gestació
+2025-02-03 12:24:55,PAC-5997,Albert Ruiz,89,Home,CAP_Palafrugell,HP,Urgent,Pediatria,Bronquiolitis
+2025-02-03 12:30:02,PAC-4268,Josep Hernandez,26,Dona,HO,HJT,Rutina,Pediatria,Otitis
+2025-02-03 12:39:18,PAC-6670,Marta Ruiz,72,Home,CAP_Girona_Guell,HJT,Rutina,Gine,Dolor pèlvic
+2025-02-03 13:09:34,PAC-4172,Anna Garcia,46,Dona,CAP_Lloret,HB,Rutina,Digestiu,Còlic biliar
+2025-02-03 13:14:40,PAC-8620,Albert Fernandez,29,Home,CAP_Bisbal,HP,Rutina,Pediatria,Bronquiolitis
+2025-02-03 13:19:36,PAC-6128,Marc Fernandez,24,Dona,CAP_Palafrugell,HP,Rutina,Pediatria,Otitis
+2025-02-03 13:30:03,PAC-8124,Nuria Garcia,39,Home,CAP_Figueres,HF,Rutina,Trauma,Contusió costal
+2025-02-03 13:45:29,PAC-8709,Cristina Sanchez,17,Dona,CAP_Blanes,HB,Rutina,Pediatria,Asma
+2025-02-03 14:33:22,PAC-9971,Joan Sanchez,55,Home,CAP_Olot,HO,Rutina,Pediatria,Gastroenteritis
+2025-02-03 14:42:25,PAC-1824,Joan Martine,17,Home,CAP_Palamos,HP,Rutina,Trauma,Contusió costal
+2025-02-03 14:46:33,PAC-8293,Nuria Perez,65,Home,CAP_Olot,HO,Urgent,General,Dolor abdominal inespecífic
+2025-02-03 14:50:08,PAC-8637,Cristina Gomez,24,Home,CAP_Besalu,HO,Rutina,Digestiu,Hemorràgia digestiva
+2025-02-03 15:16:26,PAC-4642,Pere Gomez,78,Dona,CAP_Ripoll,HCAR,Rutina,Pediatria,Gastroenteritis
+2025-02-03 15:28:14,PAC-7194,Nuria Gomez,35,Home,HJT,HSC,Rutina,General,Febre sense focus
+2025-02-03 15:31:45,PAC-2526,Josep Hernandez,51,Home,HJT,HO,Rutina,Trauma,Esquinç de turmell
+2025-02-03 15:39:26,PAC-6992,Nuria Garcia,20,Dona,CAP_Banyoles,HJT,Rutina,Trauma,Fractura de radi
+2025-02-03 15:42:04,PAC-9218,Jordi Gomez,73,Dona,CAP_Lloret,HB,Rutina,Cardio,Angina
+2025-02-03 15:49:52,PAC-6405,Laura Ruiz,73,Dona,CAP_Besalu,HO,Rutina,Cardio,Arítmia
+2025-02-03 15:52:16,PAC-1388,Cristina Garcia,22,Home,CAP_Bisbal,HP,Rutina,Cardio,Dolor toràcic
+2025-02-03 15:54:30,PAC-4656,Marc Rodriguez,93,Dona,HO,HJT,Rutina,Digestiu,Pancreatitis
+2025-02-03 16:07:04,PAC-7530,Josep Hernandez,31,Dona,CAP_Besalu,HO,Rutina,Pediatria,Otitis
+2025-02-03 16:10:22,PAC-2631,Marc Rodriguez,13,Home,CAP_Bisbal,HP,Rutina,Pediatria,Bronquiolitis
+2025-02-03 16:17:44,PAC-2807,Pere Fernandez,69,Home,CAP_Banyoles,HJT,Rutina,Gine,Control gestació
+2025-02-03 16:30:59,PAC-4242,Marc Lopez,7,Dona,CAP_Girona_Guell,HJT,Urgent,Cardio,Insuficiència cardíaca
+2025-02-03 16:32:33,PAC-2546,Marc Garcia,25,Dona,HF,HJT,Rutina,Gine,Metrorràgia
+2025-02-03 17:01:25,PAC-7836,Nuria Gomez,34,Home,CAP_Besalu,HO,Rutina,Trauma,Esquinç de turmell
+2025-02-03 17:09:17,PAC-6806,Anna Perez,17,Home,CAP_Ripoll,HCAR,Rutina,Digestiu,Còlic biliar
+2025-02-03 17:19:53,PAC-9380,Albert Garcia,94,Home,CAP_Girona_Guell,HJT,Rutina,Pediatria,Bronquiolitis
+2025-02-03 17:47:04,PAC-9001,Josep Ruiz,57,Home,CAP_Roses,HF,Rutina,Pediatria,Otitis
+2025-02-03 17:56:07,PAC-8231,Josep Martine,71,Home,CAP_Ripoll,HCAR,Rutina,Gine,Control gestació
+2025-02-03 18:07:43,PAC-4623,Albert Garcia,25,Dona,CAP_Ripoll,HCAR,Urgent,Pediatria,Asma
+2025-02-03 18:08:52,PAC-7757,Laura Martine,61,Home,CAP_Besalu,HO,Rutina,Digestiu,Pancreatitis
+2025-02-03 18:17:03,PAC-4181,Pere Rodriguez,86,Home,CAP_Salt,HSC,Rutina,General,Malestar general
+2025-02-03 18:18:37,PAC-1705,Anna Garcia,24,Dona,CAP_Blanes,HB,Rutina,Pediatria,Asma
+2025-02-03 18:22:53,PAC-2564,Anna Martine,84,Dona,CAP_Bisbal,HP,Urgent,Pediatria,Bronquiolitis
+2025-02-03 19:12:10,PAC-7306,Pere Lopez,59,Home,CAP_Lloret,HB,Rutina,Gine,Metrorràgia
+2025-02-03 19:23:48,PAC-6251,Anna Martine,77,Home,HJT,HF,Rutina,General,Febre sense focus
+2025-02-03 19:25:02,PAC-5315,Joan Martine,35,Home,CAP_Palamos,HP,Rutina,Trauma,Contusió costal
+2025-02-03 19:50:52,PAC-7308,Josep Rodriguez,70,Home,HJT,HP,Rutina,Digestiu,Pancreatitis
+2025-02-03 19:55:42,PAC-2395,Marc Sanchez,54,Home,CAP_Besalu,HO,Urgent,Digestiu,Còlic biliar
+2025-02-03 19:58:07,PAC-6997,Marc Gomez,27,Home,CAP_Girona_Guell,HJT,Rutina,Pediatria,Bronquiolitis
+2025-02-03 20:40:54,PAC-4400,Laura Fernandez,47,Dona,CAP_Escala,HF,Urgent,Digestiu,Hemorràgia digestiva
+2025-02-03 20:46:50,PAC-4921,Josep Rodriguez,45,Dona,HJT,HF,Rutina,Trauma,Fractura de fèmur
+2025-02-03 20:52:23,PAC-7963,Anna Hernandez,84,Home,CAP_Girona_CanGibert,HSC,Rutina,Cardio,Insuficiència cardíaca
+2025-02-03 21:02:24,PAC-8438,Marc Hernandez,9,Home,CAP_Olot,HO,Rutina,General,Febre sense focus
+2025-02-04 00:08:39,PAC-3350,Cristina Fernandez,86,Dona,CAP_Lloret,HB,Rutina,Pediatria,Asma
+2025-02-04 00:39:05,PAC-3373,Albert Rodriguez,95,Dona,HF,HJT,Rutina,Trauma,Fractura de radi
+2025-02-04 02:22:22,PAC-2500,Joan Garcia,67,Home,CAP_Palafrugell,HP,Rutina,Cardio,Angina
+2025-02-04 03:55:53,PAC-1358,Joan Perez,40,Home,CAP_Banyoles,HJT,Rutina,General,Dolor abdominal inespecífic
+2025-02-04 04:33:32,PAC-9328,Josep Perez,66,Dona,CAP_Ripoll,HCAR,Urgent,Gine,Dolor pèlvic
+2025-02-04 05:09:13,PAC-9076,Nuria Ruiz,17,Dona,CAP_Blanes,HB,Urgent,Digestiu,Pancreatitis
+2025-02-04 05:59:47,PAC-2548,Laura Sanchez,55,Dona,CAP_Bisbal,HP,Rutina,Trauma,Esquinç de turmell
+2025-02-04 07:00:22,PAC-8935,Cristina Rodriguez,23,Home,CAP_Blanes,HB,Rutina,Pediatria,Gastroenteritis
+2025-02-04 10:02:18,PAC-3705,Albert Perez,52,Dona,CAP_Besalu,HO,Rutina,General,Dolor abdominal inespecífic
+2025-02-04 10:09:47,PAC-4062,Marc Gomez,78,Home,HP,HJT,Urgent,Pediatria,Otitis
+2025-02-04 10:15:30,PAC-6676,Maria Garcia,0,Dona,CAP_Girona_CanGibert,HSC,Rutina,Gine,Metrorràgia
+2025-02-04 10:55:41,PAC-6207,Maria Gomez,51,Home,CAP_Escala,HF,Rutina,Cardio,Dolor toràcic
+2025-02-04 11:17:11,PAC-7396,Jordi Hernandez,8,Home,CAP_Banyoles,HJT,Rutina,Digestiu,Hemorràgia digestiva
+2025-02-04 11:26:01,PAC-3460,Josep Rodriguez,79,Dona,CAP_Olot,HO,Rutina,Cardio,Dolor toràcic
+2025-02-04 11:48:33,PAC-1762,Cristina Perez,65,Dona,CAP_Salt,HSC,Rutina,Digestiu,Pancreatitis
+2025-02-04 12:46:27,PAC-7188,Maria Fernandez,1,Home,CAP_Lloret,HB,Urgent,Trauma,Fractura de radi
+2025-02-04 12:55:24,PAC-6489,Marc Ruiz,62,Dona,CAP_Palafrugell,HP,Rutina,Pediatria,Bronquiolitis
+2025-02-04 13:00:19,PAC-3175,Albert Sanchez,51,Dona,CAP_Banyoles,HJT,Urgent,Digestiu,Pancreatitis
+2025-02-04 13:08:30,PAC-5154,Josep Gomez,44,Home,CAP_Salt,HSC,Rutina,Digestiu,Còlic biliar
+2025-02-04 13:16:35,PAC-8660,Marc Gomez,15,Home,CAP_Palafrugell,HP,Rutina,General,Malestar general
+2025-02-04 13:21:43,PAC-6542,Anna Fernandez,95,Home,CAP_Lloret,HB,Rutina,General,Malestar general
+2025-02-04 13:27:24,PAC-7035,Albert Rodriguez,80,Dona,CAP_Ripoll,HCAR,Urgent,Cardio,Angina
+2025-02-04 13:37:13,PAC-9409,Joan Perez,74,Home,CAP_Palamos,HP,Emergencia,Gine,Dolor pèlvic
+2025-02-04 13:40:13,PAC-8713,Jordi Sanchez,15,Home,CAP_Ripoll,HCAR,Urgent,Trauma,Fractura de radi
+2025-02-04 13:58:37,PAC-4750,Marc Martine,70,Home,CAP_Figueres,HF,Rutina,Trauma,Esquinç de turmell
+2025-02-04 14:08:37,PAC-3183,Marta Rodriguez,93,Dona,CAP_Salt,HSC,Rutina,General,Febre sense focus
+2025-02-04 14:29:21,PAC-7972,Cristina Martine,48,Dona,HB,HJT,Rutina,Digestiu,Hemorràgia digestiva
+2025-02-04 14:32:28,PAC-7908,Albert Rodriguez,87,Dona,CAP_Besalu,HO,Rutina,Cardio,Insuficiència cardíaca
+2025-02-04 14:49:08,PAC-2613,Albert Fernandez,14,Dona,CAP_Banyoles,HJT,Urgent,Digestiu,Pancreatitis
+2025-02-04 15:13:55,PAC-4753,Albert Hernandez,7,Home,CAP_Bisbal,HP,Rutina,Digestiu,Pancreatitis
+2025-02-04 15:18:28,PAC-3903,Marta Garcia,63,Home,HB,HJT,Rutina,Digestiu,Pancreatitis
+2025-02-04 15:27:30,PAC-1485,Joan Sanchez,38,Home,CAP_Escala,HF,Rutina,General,Dolor abdominal inespecífic
+2025-02-04 15:34:50,PAC-5172,Albert Rodriguez,15,Dona,CAP_Escala,HF,Urgent,Pediatria,Bronquiolitis
+2025-02-04 15:36:42,PAC-9428,Cristina Hernandez,67,Home,CAP_Girona_Guell,HJT,Rutina,Cardio,Dolor toràcic
+2025-02-04 15:45:10,PAC-2894,Nuria Gomez,61,Home,HSC,HJT,Urgent,Trauma,Fractura de fèmur
+2025-02-04 15:56:24,PAC-5320,Albert Sanchez,93,Dona,CAP_Figueres,HF,Rutina,Gine,Dolor pèlvic
+2025-02-04 16:08:19,PAC-1503,Josep Rodriguez,22,Dona,CAP_Roses,HF,Rutina,Trauma,Esquinç de turmell
+2025-02-04 16:40:41,PAC-9983,Laura Martine,21,Dona,CAP_Palamos,HP,Rutina,Gine,Dolor pèlvic
+2025-02-04 16:45:00,PAC-7235,Anna Garcia,80,Dona,CAP_Lloret,HB,Rutina,Cardio,Angina
+2025-02-04 17:13:05,PAC-8056,Nuria Rodriguez,24,Dona,CAP_Lloret,HB,Rutina,Digestiu,Hemorràgia digestiva
+2025-02-04 17:21:11,PAC-2173,Anna Fernandez,49,Home,HSC,HJT,Rutina,General,Malestar general
+2025-02-04 17:37:51,PAC-4996,Pere Sanchez,44,Home,CAP_Palafrugell,HP,Rutina,Trauma,Fractura de radi
+2025-02-04 17:42:54,PAC-4172,Josep Rodriguez,28,Home,CAP_Escala,HF,Rutina,Cardio,Insuficiència cardíaca
+2025-02-04 17:48:08,PAC-2651,Laura Gomez,84,Home,CAP_Blanes,HB,Urgent,Pediatria,Gastroenteritis
+2025-02-04 17:50:07,PAC-5407,Marta Fernandez,26,Dona,CAP_Bisbal,HP,Rutina,General,Febre sense focus
+2025-02-04 17:55:39,PAC-6526,Marta Garcia,43,Dona,CAP_Lloret,HB,Urgent,General,Febre sense focus
+2025-02-04 18:15:26,PAC-4141,Joan Ruiz,64,Home,CAP_Escala,HF,Rutina,Pediatria,Gastroenteritis
+2025-02-04 18:33:56,PAC-2594,Anna Ruiz,41,Dona,HB,HJT,Rutina,Gine,Dolor pèlvic
+2025-02-04 18:52:01,PAC-9923,Maria Martine,50,Home,CAP_Salt,HSC,Rutina,Pediatria,Gastroenteritis
+2025-02-04 18:57:31,PAC-3946,Cristina Fernandez,40,Dona,CAP_Figueres,HF,Rutina,General,Malestar general
+2025-02-04 19:07:40,PAC-7948,Jordi Gomez,77,Home,CAP_Bisbal,HP,Rutina,Gine,Metrorràgia
+2025-02-04 19:43:38,PAC-1277,Marc Fernandez,48,Home,CAP_Girona_Guell,HJT,Rutina,Cardio,Dolor toràcic
+2025-02-04 19:48:09,PAC-7371,Maria Ruiz,2,Home,CAP_Roses,HF,Rutina,Digestiu,Pancreatitis
+2025-02-04 19:52:29,PAC-7390,Marta Perez,84,Dona,CAP_Roses,HF,Rutina,Cardio,Arítmia
+2025-02-04 19:52:57,PAC-2012,Nuria Rodriguez,33,Dona,CAP_Besalu,HO,Urgent,Gine,Metrorràgia
+2025-02-04 19:53:11,PAC-7025,Pere Ruiz,1,Dona,CAP_Banyoles,HJT,Rutina,Digestiu,Pancreatitis
+2025-02-04 20:15:53,PAC-7393,Maria Lopez,56,Dona,HSC,HJT,Rutina,Gine,Metrorràgia
+2025-02-04 20:16:56,PAC-7154,Marta Rodriguez,39,Home,CAP_Bisbal,HP,Rutina,Digestiu,Pancreatitis
+2025-02-04 20:26:07,PAC-2147,Joan Gomez,59,Home,CAP_Olot,HO,Rutina,Trauma,Fractura de radi
+2025-02-04 21:07:49,PAC-4404,Jordi Hernandez,57,Dona,HSC,HJT,Rutina,Pediatria,Bronquiolitis
+2025-02-04 21:37:03,PAC-2202,Marc Ruiz,79,Dona,CAP_Olot,HO,Urgent,Digestiu,Còlic biliar
+2025-02-05 03:11:14,PAC-5137,Anna Lopez,35,Dona,CAP_Ripoll,HCAR,Rutina,Cardio,Angina
+2025-02-05 07:36:24,PAC-1301,Josep Lopez,23,Home,HP,HJT,Rutina,Gine,Control gestació
+2025-02-05 08:22:38,PAC-8243,Anna Gomez,30,Dona,CAP_Blanes,HB,Rutina,Trauma,Contusió costal
+2025-02-05 08:29:33,PAC-7930,Maria Martine,30,Dona,CAP_Olot,HO,Rutina,Trauma,Fractura de fèmur
+2025-02-05 08:38:46,PAC-4492,Nuria Ruiz,4,Home,CAP_Besalu,HO,Urgent,General,Dolor abdominal inespecífic
+2025-02-05 08:47:39,PAC-8326,Marta Martine,90,Home,CAP_Ripoll,HCAR,Rutina,Digestiu,Còlic biliar
+2025-02-05 08:56:31,PAC-3880,Josep Perez,61,Dona,CAP_Ripoll,HCAR,Rutina,Trauma,Fractura de fèmur
+2025-02-05 09:01:36,PAC-1232,Cristina Gomez,76,Home,CAP_Palafrugell,HP,Rutina,Digestiu,Hemorràgia digestiva
+2025-02-05 09:07:48,PAC-9541,Pere Perez,23,Home,CAP_Olot,HO,Urgent,General,Dolor abdominal inespecífic
+2025-02-05 09:15:55,PAC-5157,Pere Garcia,37,Dona,CAP_Escala,HF,Rutina,Gine,Control gestació
+2025-02-05 09:25:11,PAC-9838,Pere Perez,82,Home,CAP_Palafrugell,HP,Rutina,General,Febre sense focus
+2025-02-05 09:34:17,PAC-4149,Josep Hernandez,69,Dona,CAP_Olot,HO,Urgent,Pediatria,Bronquiolitis
+2025-02-05 09:46:22,PAC-8048,Laura Martine,77,Dona,CAP_Escala,HF,Urgent,Trauma,Contusió costal
+2025-02-05 10:04:11,PAC-8576,Jordi Ruiz,12,Home,CAP_Ripoll,HCAR,Emergencia,Gine,Control gestació
+2025-02-05 10:14:59,PAC-8961,Laura Gomez,88,Dona,CAP_Lloret,HB,Rutina,Cardio,Angina
+2025-02-05 10:21:32,PAC-5214,Anna Rodriguez,90,Dona,CAP_Girona_Guell,HJT,Rutina,General,Malestar general
+2025-02-05 10:36:06,PAC-6495,Cristina Gomez,81,Dona,HSC,HJT,Rutina,Cardio,Angina
+2025-02-05 11:11:55,PAC-6825,Cristina Gomez,84,Dona,HO,HJT,Rutina,Trauma,Esquinç de turmell
+2025-02-05 11:15:21,PAC-5083,Albert Hernandez,12,Home,CAP_Palafrugell,HP,Rutina,Pediatria,Gastroenteritis
+2025-02-05 11:17:00,PAC-7034,Maria Fernandez,52,Home,CAP_Bisbal,HP,Rutina,Gine,Metrorràgia
+2025-02-05 11:18:53,PAC-2651,Marta Garcia,80,Home,CAP_Girona_Guell,HJT,Urgent,General,Malestar general
+2025-02-05 11:19:00,PAC-8916,Marc Perez,22,Home,CAP_Blanes,HB,Rutina,Pediatria,Gastroenteritis
+2025-02-05 11:20:09,PAC-3969,Nuria Rodriguez,32,Home,CAP_Olot,HO,Urgent,Pediatria,Gastroenteritis
+2025-02-05 11:25:54,PAC-7385,Josep Lopez,1,Dona,CAP_Roses,HF,Rutina,Pediatria,Otitis
+2025-02-05 11:34:25,PAC-6582,Anna Lopez,30,Dona,HP,HJT,Emergencia,Gine,Metrorràgia
+2025-02-05 11:58:38,PAC-8165,Laura Lopez,93,Home,HO,HJT,Rutina,Trauma,Contusió costal
+2025-02-05 12:15:32,PAC-3268,Marta Ruiz,22,Dona,CAP_Lloret,HB,Rutina,Pediatria,Asma
+2025-02-05 12:26:35,PAC-1517,Nuria Lopez,53,Dona,CAP_Lloret,HB,Rutina,Digestiu,Hemorràgia digestiva
+2025-02-05 12:26:38,PAC-9349,Cristina Gomez,71,Home,HSC,HJT,Rutina,Pediatria,Otitis
+2025-02-05 12:27:48,PAC-9615,Cristina Martine,42,Dona,CAP_Palamos,HP,Urgent,General,Febre sense focus
+2025-02-05 12:49:11,PAC-1123,Marc Gomez,19,Dona,CAP_Olot,HO,Rutina,Trauma,Fractura de radi
+2025-02-05 12:57:47,PAC-2743,Marta Sanchez,61,Dona,CAP_Ripoll,HCAR,Urgent,Digestiu,Hemorràgia digestiva
+2025-02-05 12:58:34,PAC-5500,Jordi Gomez,83,Home,CAP_Girona_CanGibert,HSC,Rutina,Pediatria,Bronquiolitis
+2025-02-05 13:00:43,PAC-7696,Jordi Lopez,30,Home,CAP_Palamos,HP,Urgent,General,Febre sense focus
+2025-02-05 13:09:34,PAC-9187,Jordi Gomez,64,Dona,HJT,HO,Rutina,Pediatria,Asma
+2025-02-05 13:28:05,PAC-2489,Nuria Rodriguez,27,Dona,HF,HJT,Rutina,Trauma,Fractura de fèmur
+2025-02-05 13:43:02,PAC-4360,Maria Rodriguez,10,Home,CAP_Besalu,HO,Rutina,Digestiu,Còlic biliar
+2025-02-05 13:43:45,PAC-2824,Cristina Lopez,45,Home,CAP_Bisbal,HP,Rutina,General,Febre sense focus
+2025-02-05 13:49:02,PAC-6407,Jordi Sanchez,4,Dona,CAP_Escala,HF,Rutina,Cardio,Dolor toràcic
+2025-02-05 13:50:07,PAC-1403,Joan Martine,50,Home,CAP_Girona_CanGibert,HSC,Rutina,Pediatria,Gastroenteritis
+2025-02-05 13:51:43,PAC-4257,Joan Lopez,78,Dona,CAP_Olot,HO,Rutina,Digestiu,Pancreatitis
+2025-02-05 14:01:22,PAC-8630,Jordi Gomez,44,Home,CAP_Olot,HO,Rutina,Cardio,Dolor toràcic
+2025-02-05 14:23:08,PAC-7102,Marc Rodriguez,87,Dona,CAP_Palafrugell,HP,Rutina,Cardio,Insuficiència cardíaca
+2025-02-05 14:23:21,PAC-9217,Cristina Martine,5,Dona,HSC,HJT,Rutina,Trauma,Esquinç de turmell
+2025-02-05 14:40:11,PAC-8229,Anna Rodriguez,10,Dona,CAP_Palamos,HP,Rutina,General,Dolor abdominal inespecífic
+2025-02-05 14:50:59,PAC-6851,Laura Martine,57,Home,CAP_Palamos,HP,Urgent,Trauma,Contusió costal
+2025-02-05 14:55:44,PAC-2865,Albert Hernandez,64,Dona,CAP_Girona_CanGibert,HSC,Rutina,Pediatria,Asma
+2025-02-05 15:37:27,PAC-5517,Albert Hernandez,32,Home,CAP_Escala,HF,Rutina,Pediatria,Asma
+2025-02-05 15:47:30,PAC-7364,Albert Lopez,21,Dona,CAP_Palafrugell,HP,Rutina,Gine,Metrorràgia
+2025-02-05 16:08:20,PAC-8616,Anna Martine,38,Dona,CAP_Bisbal,HP,Rutina,Pediatria,Bronquiolitis
+2025-02-05 16:20:21,PAC-4363,Albert Lopez,39,Home,HP,HJT,Emergencia,Cardio,Insuficiència cardíaca
+2025-02-05 16:32:50,PAC-9708,Anna Gomez,70,Home,CAP_Escala,HF,Rutina,Gine,Control gestació
+2025-02-05 16:37:59,PAC-8818,Cristina Perez,60,Home,CAP_Bisbal,HP,Rutina,Cardio,Arítmia
+2025-02-05 16:43:27,PAC-5812,Anna Fernandez,3,Dona,CAP_Palafrugell,HP,Rutina,Cardio,Insuficiència cardíaca
+2025-02-05 16:45:10,PAC-4771,Maria Fernandez,36,Dona,CAP_Salt,HSC,Urgent,Digestiu,Hemorràgia digestiva
+2025-02-05 16:49:34,PAC-1604,Josep Fernandez,95,Home,CAP_Besalu,HO,Rutina,Cardio,Insuficiència cardíaca
+2025-02-05 16:57:28,PAC-3473,Josep Fernandez,62,Dona,CAP_Palafrugell,HP,Rutina,Digestiu,Còlic biliar
+2025-02-05 17:00:42,PAC-8329,Laura Martine,52,Dona,CAP_Blanes,HB,Rutina,Cardio,Dolor toràcic
+2025-02-05 17:11:04,PAC-2530,Pere Lopez,85,Home,CAP_Blanes,HB,Rutina,General,Dolor abdominal inespecífic
+2025-02-05 17:11:37,PAC-7922,Marta Perez,55,Home,CAP_Palamos,HP,Rutina,General,Febre sense focus
+2025-02-05 18:02:17,PAC-5143,Maria Gomez,51,Home,HP,HJT,Rutina,Gine,Metrorràgia
+2025-02-05 18:09:14,PAC-2126,Cristina Sanchez,8,Home,CAP_Salt,HSC,Rutina,Trauma,Contusió costal
+2025-02-05 18:10:13,PAC-1092,Marc Sanchez,78,Home,HB,HJT,Rutina,Pediatria,Bronquiolitis
+2025-02-05 18:12:57,PAC-3575,Laura Gomez,30,Dona,CAP_Roses,HF,Rutina,Cardio,Arítmia
+2025-02-05 18:24:09,PAC-6808,Marc Hernandez,56,Dona,CAP_Roses,HF,Rutina,General,Febre sense focus
+2025-02-05 19:18:11,PAC-1478,Joan Fernandez,22,Dona,HSC,HJT,Rutina,Trauma,Esquinç de turmell
+2025-02-05 19:20:04,PAC-3837,Joan Perez,94,Dona,HP,HJT,Rutina,Gine,Metrorràgia
+2025-02-05 19:35:25,PAC-8919,Marc Perez,16,Dona,CAP_Ripoll,HCAR,Rutina,Trauma,Fractura de fèmur
+2025-02-05 19:42:24,PAC-1847,Albert Perez,21,Dona,CAP_Olot,HO,Urgent,Trauma,Fractura de fèmur
+2025-02-05 19:58:32,PAC-6563,Anna Rodriguez,9,Home,CAP_Besalu,HO,Rutina,Digestiu,Pancreatitis
+2025-02-05 20:02:01,PAC-2099,Nuria Lopez,83,Home,CAP_Palamos,HP,Rutina,Cardio,Angina
+2025-02-05 20:22:56,PAC-8430,Cristina Martine,0,Dona,CAP_Girona_Guell,HJT,Rutina,Pediatria,Bronquiolitis
+2025-02-05 20:23:25,PAC-7570,Marc Hernandez,2,Home,CAP_Girona_CanGibert,HSC,Rutina,Cardio,Arítmia
+2025-02-05 20:29:10,PAC-6806,Josep Ruiz,23,Home,CAP_Blanes,HB,Rutina,Gine,Dolor pèlvic
+2025-02-05 20:43:35,PAC-2521,Marta Hernandez,22,Home,CAP_Besalu,HO,Rutina,Pediatria,Otitis
+2025-02-05 20:53:34,PAC-5657,Marc Martine,56,Dona,CAP_Figueres,HF,Urgent,Cardio,Insuficiència cardíaca
+2025-02-05 21:06:23,PAC-4942,Laura Martine,67,Dona,CAP_Olot,HO,Rutina,Digestiu,Pancreatitis
+2025-02-05 22:02:27,PAC-6037,Cristina Martine,23,Home,CAP_Besalu,HO,Urgent,Trauma,Contusió costal
+2025-02-05 22:27:02,PAC-1073,Maria Perez,56,Dona,CAP_Girona_Guell,HJT,Rutina,Gine,Control gestació
+2025-02-05 23:24:52,PAC-9209,Anna Gomez,56,Home,CAP_Escala,HF,Rutina,General,Dolor abdominal inespecífic
+2025-02-05 23:34:35,PAC-8905,Cristina Lopez,19,Dona,HB,HJT,Rutina,Gine,Dolor pèlvic
+2025-02-05 23:41:52,PAC-4446,Josep Fernandez,50,Home,CAP_Blanes,HB,Rutina,Trauma,Contusió costal
+2025-02-05 23:48:55,PAC-2591,Albert Perez,11,Home,HCAR,HJT,Rutina,Digestiu,Còlic biliar
+2025-02-05 23:49:14,PAC-5210,Jordi Ruiz,50,Dona,HJT,HP,Rutina,Pediatria,Bronquiolitis
+2025-02-05 23:54:28,PAC-4724,Marta Martine,74,Home,HO,HJT,Urgent,Digestiu,Pancreatitis
+2025-02-06 00:50:45,PAC-7518,Laura Hernandez,67,Home,CAP_Palafrugell,HP,Rutina,Trauma,Esquinç de turmell
+2025-02-06 02:51:50,PAC-7576,Marta Fernandez,74,Dona,HF,HJT,Urgent,Trauma,Contusió costal
+2025-02-06 04:40:20,PAC-1690,Pere Sanchez,71,Dona,CAP_Blanes,HB,Urgent,Gine,Metrorràgia
+2025-02-06 05:39:11,PAC-9949,Anna Gomez,74,Home,HO,HJT,Rutina,Digestiu,Hemorràgia digestiva
+2025-02-06 06:02:11,PAC-8879,Pere Rodriguez,93,Home,CAP_Girona_CanGibert,HSC,Rutina,Trauma,Contusió costal
+2025-02-06 07:21:05,PAC-2121,Anna Garcia,91,Home,CAP_Salt,HSC,Rutina,Digestiu,Pancreatitis
+2025-02-06 08:01:29,PAC-2396,Joan Sanchez,49,Dona,CAP_Figueres,HF,Rutina,General,Malestar general
+2025-02-06 08:06:21,PAC-4658,Laura Garcia,62,Dona,CAP_Figueres,HF,Urgent,Cardio,Arítmia
+2025-02-06 08:06:51,PAC-5027,Marc Martine,53,Home,CAP_Bisbal,HP,Rutina,Trauma,Fractura de radi
+2025-02-06 08:11:04,PAC-5856,Marta Perez,12,Home,CAP_Girona_Guell,HJT,Urgent,Cardio,Angina
+2025-02-06 08:17:45,PAC-4521,Jordi Rodriguez,0,Home,CAP_Escala,HF,Rutina,Gine,Dolor pèlvic
+2025-02-06 08:24:59,PAC-3094,Josep Sanchez,58,Dona,CAP_Escala,HF,Rutina,Digestiu,Còlic biliar
+2025-02-06 08:36:06,PAC-9620,Marc Martine,77,Dona,HF,HJT,Rutina,Gine,Metrorràgia
+2025-02-06 08:52:32,PAC-2478,Jordi Hernandez,16,Dona,CAP_Escala,HF,Urgent,General,Dolor abdominal inespecífic
+2025-02-06 09:02:56,PAC-6067,Jordi Lopez,93,Home,CAP_Banyoles,HJT,Rutina,Trauma,Contusió costal
+2025-02-06 09:03:57,PAC-7665,Josep Hernandez,88,Dona,CAP_Escala,HF,Rutina,Cardio,Angina
+2025-02-06 09:18:01,PAC-7113,Joan Perez,84,Home,CAP_Salt,HSC,Rutina,Digestiu,Hemorràgia digestiva
+2025-02-06 09:35:38,PAC-7880,Josep Garcia,63,Home,HJT,HP,Rutina,Gine,Dolor pèlvic
+2025-02-06 09:47:04,PAC-1341,Anna Sanchez,93,Home,CAP_Girona_Guell,HJT,Urgent,General,Febre sense focus
+2025-02-06 09:50:28,PAC-9495,Marta Sanchez,42,Home,CAP_Blanes,HB,Urgent,Cardio,Angina
+2025-02-06 09:52:00,PAC-4449,Laura Perez,89,Dona,CAP_Ripoll,HCAR,Rutina,Gine,Control gestació
+2025-02-06 09:59:32,PAC-3308,Marta Hernandez,59,Dona,HCAR,HJT,Urgent,Gine,Metrorràgia
+2025-02-06 10:00:52,PAC-2840,Laura Sanchez,8,Dona,HJT,HB,Rutina,Pediatria,Gastroenteritis
+2025-02-06 10:21:46,PAC-5786,Marc Fernandez,74,Dona,CAP_Bisbal,HP,Rutina,Digestiu,Còlic biliar
+2025-02-06 10:53:57,PAC-9100,Laura Garcia,84,Dona,CAP_Bisbal,HP,Rutina,Trauma,Fractura de fèmur
+2025-02-06 10:58:48,PAC-8536,Joan Garcia,82,Home,CAP_Blanes,HB,Rutina,Gine,Metrorràgia
+2025-02-06 11:08:44,PAC-2923,Nuria Sanchez,58,Dona,HJT,HB,Rutina,Cardio,Angina
+2025-02-06 11:11:13,PAC-8970,Maria Garcia,11,Dona,HJT,HCAR,Rutina,Gine,Dolor pèlvic
+2025-02-06 11:41:33,PAC-6872,Joan Fernandez,1,Dona,CAP_Figueres,HF,Rutina,General,Dolor abdominal inespecífic
+2025-02-06 11:45:16,PAC-8922,Jordi Martine,50,Dona,CAP_Ripoll,HCAR,Urgent,General,Dolor abdominal inespecífic
+2025-02-06 12:03:07,PAC-6915,Marc Martine,82,Home,CAP_Palamos,HP,Urgent,Cardio,Dolor toràcic
+2025-02-06 12:04:06,PAC-6387,Marc Martine,20,Dona,CAP_Banyoles,HJT,Rutina,Gine,Metrorràgia
+2025-02-06 12:04:19,PAC-3442,Pere Gomez,64,Dona,HJT,HB,Rutina,General,Malestar general
+2025-02-06 12:04:23,PAC-1923,Josep Ruiz,71,Dona,CAP_Banyoles,HJT,Rutina,Cardio,Arítmia
+2025-02-06 12:06:34,PAC-5574,Joan Garcia,31,Dona,CAP_Palafrugell,HP,Urgent,Pediatria,Asma
+2025-02-06 12:07:20,PAC-2801,Pere Fernandez,41,Dona,CAP_Lloret,HB,Rutina,Cardio,Arítmia
+2025-02-06 12:08:34,PAC-8527,Marc Lopez,51,Dona,CAP_Banyoles,HJT,Rutina,Trauma,Fractura de fèmur
+2025-02-06 12:22:11,PAC-3777,Maria Hernandez,59,Home,HF,HJT,Urgent,Trauma,Esquinç de turmell
+2025-02-06 12:52:29,PAC-2455,Joan Martine,12,Home,CAP_Ripoll,HCAR,Rutina,Pediatria,Bronquiolitis
+2025-02-06 13:02:15,PAC-8410,Maria Garcia,71,Home,HP,HJT,Urgent,Digestiu,Pancreatitis
+2025-02-06 13:36:59,PAC-1323,Nuria Gomez,15,Home,CAP_Blanes,HB,Rutina,Gine,Metrorràgia
+2025-02-06 13:43:16,PAC-9840,Pere Hernandez,29,Home,CAP_Olot,HO,Urgent,Cardio,Arítmia
+2025-02-06 14:04:33,PAC-3779,Jordi Ruiz,38,Dona,CAP_Girona_Guell,HJT,Rutina,Gine,Dolor pèlvic
+2025-02-06 14:30:26,PAC-2963,Anna Ruiz,17,Home,CAP_Lloret,HB,Rutina,Gine,Metrorràgia
+2025-02-06 14:38:54,PAC-7086,Nuria Hernandez,79,Dona,CAP_Lloret,HB,Urgent,Pediatria,Gastroenteritis
+2025-02-06 14:41:05,PAC-1411,Marc Ruiz,19,Dona,CAP_Blanes,HB,Rutina,Trauma,Contusió costal
+2025-02-06 15:27:00,PAC-7294,Josep Perez,34,Dona,CAP_Roses,HF,Rutina,General,Febre sense focus
+2025-02-06 15:27:15,PAC-7270,Pere Lopez,23,Home,CAP_Blanes,HB,Rutina,Trauma,Fractura de radi
+2025-02-06 15:46:51,PAC-6636,Maria Ruiz,6,Home,CAP_Girona_CanGibert,HSC,Rutina,Cardio,Angina
+2025-02-06 15:57:30,PAC-5281,Marc Rodriguez,86,Home,CAP_Figueres,HF,Rutina,Digestiu,Còlic biliar
+2025-02-06 16:22:02,PAC-2726,Jordi Ruiz,78,Home,CAP_Roses,HF,Rutina,General,Dolor abdominal inespecífic
+2025-02-06 16:27:37,PAC-3335,Nuria Garcia,33,Dona,HO,HJT,Rutina,Digestiu,Hemorràgia digestiva
+2025-02-06 16:56:22,PAC-9241,Albert Sanchez,26,Dona,CAP_Girona_Guell,HJT,Rutina,Digestiu,Pancreatitis
+2025-02-06 17:58:29,PAC-4589,Joan Sanchez,43,Dona,CAP_Ripoll,HCAR,Rutina,Trauma,Fractura de radi
+2025-02-06 18:18:03,PAC-8593,Cristina Rodriguez,3,Home,CAP_Girona_Guell,HJT,Urgent,Trauma,Contusió costal
+2025-02-06 18:37:03,PAC-2692,Marc Rodriguez,71,Dona,HO,HJT,Rutina,General,Febre sense focus
+2025-02-06 18:56:29,PAC-1299,Jordi Lopez,25,Dona,CAP_Ripoll,HCAR,Rutina,Pediatria,Gastroenteritis
+2025-02-06 19:17:42,PAC-4334,Anna Fernandez,94,Home,CAP_Roses,HF,Urgent,Cardio,Arítmia
+2025-02-06 19:31:28,PAC-8880,Joan Perez,0,Dona,CAP_Salt,HSC,Rutina,Gine,Metrorràgia
+2025-02-06 19:32:43,PAC-9844,Jordi Sanchez,40,Dona,CAP_Girona_Guell,HJT,Rutina,General,Dolor abdominal inespecífic
+2025-02-06 19:51:00,PAC-1526,Jordi Ruiz,18,Dona,CAP_Bisbal,HP,Urgent,Digestiu,Pancreatitis
+2025-02-06 19:56:36,PAC-4395,Anna Sanchez,30,Home,HO,HJT,Rutina,Gine,Metrorràgia
+2025-02-06 20:20:07,PAC-8854,Maria Gomez,22,Home,HCAR,HJT,Rutina,Cardio,Angina
+2025-02-06 20:36:10,PAC-2037,Marc Gomez,10,Home,HSC,HJT,Rutina,Digestiu,Còlic biliar
+2025-02-06 20:50:25,PAC-3461,Marc Perez,63,Dona,CAP_Salt,HSC,Rutina,Gine,Metrorràgia
+2025-02-06 20:51:24,PAC-6280,Nuria Lopez,3,Home,CAP_Girona_Guell,HJT,Rutina,Cardio,Dolor toràcic
+2025-02-06 20:51:36,PAC-2268,Albert Garcia,38,Dona,CAP_Ripoll,HCAR,Rutina,Digestiu,Hemorràgia digestiva
+2025-02-06 20:53:10,PAC-9841,Pere Perez,10,Dona,HJT,HSC,Urgent,Trauma,Esquinç de turmell
+2025-02-06 21:57:50,PAC-8318,Pere Fernandez,70,Home,HF,HJT,Rutina,Cardio,Angina
+2025-02-06 22:26:52,PAC-5743,Josep Lopez,58,Dona,CAP_Palamos,HP,Rutina,Pediatria,Gastroenteritis
+2025-02-06 22:32:49,PAC-2944,Nuria Rodriguez,92,Dona,CAP_Blanes,HB,Urgent,Gine,Metrorràgia
+2025-02-07 00:14:29,PAC-2727,Maria Gomez,12,Home,CAP_Ripoll,HCAR,Urgent,Digestiu,Hemorràgia digestiva
+2025-02-07 01:21:20,PAC-4930,Nuria Ruiz,26,Home,CAP_Ripoll,HCAR,Rutina,General,Malestar general
+2025-02-07 01:26:00,PAC-5409,Cristina Garcia,31,Dona,CAP_Bisbal,HP,Rutina,General,Dolor abdominal inespecífic
+2025-02-07 02:38:37,PAC-3978,Jordi Sanchez,9,Dona,CAP_Blanes,HB,Rutina,Cardio,Insuficiència cardíaca
+2025-02-07 03:04:19,PAC-3542,Cristina Sanchez,15,Dona,CAP_Lloret,HB,Rutina,General,Malestar general
+2025-02-07 03:48:34,PAC-2050,Joan Sanchez,16,Dona,CAP_Ripoll,HCAR,Urgent,General,Malestar general
+2025-02-07 04:20:10,PAC-6810,Joan Lopez,17,Home,CAP_Bisbal,HP,Rutina,Gine,Metrorràgia
+2025-02-07 06:28:27,PAC-7648,Maria Martine,12,Dona,HF,HJT,Rutina,Digestiu,Còlic biliar
+2025-02-07 07:51:09,PAC-6476,Marta Hernandez,42,Dona,CAP_Girona_Guell,HJT,Rutina,Digestiu,Còlic biliar
+2025-02-07 07:56:12,PAC-4954,Maria Ruiz,7,Home,HJT,HO,Urgent,Gine,Metrorràgia
+2025-02-07 08:04:55,PAC-3110,Anna Garcia,32,Home,CAP_Roses,HF,Rutina,General,Febre sense focus
+2025-02-07 08:11:09,PAC-3195,Anna Lopez,49,Home,CAP_Roses,HF,Rutina,Cardio,Angina
+2025-02-07 08:26:45,PAC-8950,Cristina Sanchez,11,Dona,CAP_Escala,HF,Rutina,Gine,Dolor pèlvic
+2025-02-07 08:28:55,PAC-6366,Jordi Ruiz,84,Home,CAP_Banyoles,HJT,Urgent,Trauma,Fractura de fèmur
+2025-02-07 08:35:51,PAC-2407,Marta Gomez,70,Dona,CAP_Palamos,HP,Rutina,Cardio,Arítmia
+2025-02-07 09:22:57,PAC-8566,Marta Fernandez,42,Dona,CAP_Escala,HF,Urgent,Digestiu,Còlic biliar
+2025-02-07 09:23:52,PAC-7102,Jordi Fernandez,89,Dona,HB,HJT,Rutina,Trauma,Fractura de radi
+2025-02-07 09:40:52,PAC-3348,Joan Garcia,63,Dona,CAP_Banyoles,HJT,Rutina,Pediatria,Bronquiolitis
+2025-02-07 09:56:17,PAC-6487,Josep Garcia,20,Home,CAP_Salt,HSC,Urgent,Cardio,Insuficiència cardíaca
+2025-02-07 10:03:09,PAC-1277,Cristina Ruiz,42,Dona,CAP_Besalu,HO,Rutina,Cardio,Angina
+2025-02-07 10:07:39,PAC-1242,Pere Hernandez,39,Dona,CAP_Olot,HO,Rutina,Cardio,Insuficiència cardíaca
+2025-02-07 10:10:28,PAC-7955,Josep Perez,83,Dona,CAP_Banyoles,HJT,Rutina,General,Malestar general
+2025-02-07 10:20:10,PAC-3156,Albert Rodriguez,29,Home,HSC,HJT,Urgent,Pediatria,Asma
+2025-02-07 10:41:30,PAC-1512,Laura Martine,3,Dona,CAP_Salt,HSC,Urgent,Cardio,Angina
+2025-02-07 10:53:04,PAC-2894,Cristina Garcia,42,Home,CAP_Palamos,HP,Rutina,Trauma,Fractura de fèmur
+2025-02-07 10:55:52,PAC-2484,Josep Martine,85,Home,CAP_Girona_Guell,HJT,Rutina,Gine,Dolor pèlvic
+2025-02-07 12:00:55,PAC-8698,Laura Perez,36,Home,CAP_Blanes,HB,Rutina,Trauma,Esquinç de turmell
+2025-02-07 12:09:00,PAC-9468,Marc Sanchez,79,Dona,CAP_Girona_CanGibert,HSC,Rutina,Pediatria,Bronquiolitis
+2025-02-07 12:12:49,PAC-6746,Jordi Fernandez,23,Home,CAP_Palafrugell,HP,Rutina,Trauma,Esquinç de turmell
+2025-02-07 12:24:57,PAC-7006,Josep Garcia,16,Dona,CAP_Besalu,HO,Rutina,Cardio,Insuficiència cardíaca
+2025-02-07 12:30:24,PAC-6291,Maria Ruiz,25,Home,CAP_Lloret,HB,Urgent,Gine,Metrorràgia
+2025-02-07 12:32:10,PAC-4624,Marc Martine,47,Dona,CAP_Girona_Guell,HJT,Rutina,Pediatria,Asma
+2025-02-07 12:40:51,PAC-4037,Nuria Ruiz,90,Home,CAP_Escala,HF,Rutina,General,Malestar general
+2025-02-07 12:45:13,PAC-3846,Cristina Garcia,31,Dona,CAP_Escala,HF,Rutina,General,Dolor abdominal inespecífic
+2025-02-07 13:10:30,PAC-7477,Pere Martine,75,Dona,CAP_Lloret,HB,Urgent,Digestiu,Pancreatitis
+2025-02-07 13:20:17,PAC-1841,Anna Rodriguez,59,Home,CAP_Blanes,HB,Rutina,Cardio,Arítmia
+2025-02-07 13:41:32,PAC-4291,Nuria Garcia,37,Dona,HSC,HJT,Rutina,Pediatria,Gastroenteritis
+2025-02-07 13:46:07,PAC-6345,Marta Fernandez,84,Dona,CAP_Palamos,HP,Rutina,Pediatria,Gastroenteritis
+2025-02-07 13:49:19,PAC-8335,Josep Rodriguez,73,Dona,CAP_Olot,HO,Rutina,General,Malestar general
+2025-02-07 14:06:28,PAC-2592,Nuria Sanchez,2,Dona,CAP_Lloret,HB,Rutina,Trauma,Contusió costal
+2025-02-07 14:51:13,PAC-6875,Nuria Garcia,28,Home,CAP_Girona_Guell,HJT,Urgent,General,Dolor abdominal inespecífic
+2025-02-07 14:55:43,PAC-1373,Jordi Perez,23,Home,CAP_Blanes,HB,Urgent,Trauma,Fractura de fèmur
+2025-02-07 15:05:30,PAC-1832,Marta Lopez,70,Dona,CAP_Lloret,HB,Rutina,Digestiu,Hemorràgia digestiva
+2025-02-07 15:17:42,PAC-7432,Albert Lopez,76,Home,CAP_Figueres,HF,Rutina,General,Malestar general
+2025-02-07 15:25:20,PAC-6704,Anna Fernandez,66,Home,CAP_Palamos,HP,Rutina,Digestiu,Còlic biliar
+2025-02-07 15:27:40,PAC-2890,Pere Fernandez,17,Home,CAP_Escala,HF,Rutina,Pediatria,Gastroenteritis
+2025-02-07 15:30:36,PAC-5208,Albert Ruiz,95,Home,CAP_Roses,HF,Urgent,General,Dolor abdominal inespecífic
+2025-02-07 15:58:50,PAC-1167,Albert Lopez,30,Home,CAP_Palamos,HP,Rutina,Trauma,Fractura de fèmur
+2025-02-07 16:01:03,PAC-9176,Nuria Ruiz,27,Home,HJT,HO,Rutina,Trauma,Esquinç de turmell
+2025-02-07 16:03:28,PAC-3867,Pere Perez,40,Dona,CAP_Girona_Guell,HJT,Rutina,Digestiu,Hemorràgia digestiva
+2025-02-07 16:12:45,PAC-1916,Marc Hernandez,26,Dona,CAP_Blanes,HB,Urgent,Cardio,Insuficiència cardíaca
+2025-02-07 16:19:14,PAC-1366,Laura Lopez,45,Home,CAP_Girona_CanGibert,HSC,Urgent,General,Febre sense focus
+2025-02-07 16:43:20,PAC-9613,Joan Gomez,52,Dona,CAP_Girona_CanGibert,HSC,Rutina,Cardio,Arítmia
+2025-02-07 16:52:51,PAC-4438,Joan Gomez,18,Home,CAP_Figueres,HF,Rutina,General,Febre sense focus
+2025-02-07 17:03:07,PAC-2257,Nuria Lopez,41,Home,HF,HJT,Rutina,Trauma,Fractura de fèmur
+2025-02-07 17:05:41,PAC-4775,Jordi Rodriguez,37,Home,CAP_Escala,HF,Rutina,Pediatria,Gastroenteritis
+2025-02-07 17:22:27,PAC-8629,Marta Hernandez,56,Home,CAP_Palamos,HP,Rutina,General,Febre sense focus
+2025-02-07 17:37:13,PAC-6491,Pere Rodriguez,91,Dona,CAP_Girona_Guell,HJT,Urgent,Pediatria,Gastroenteritis
+2025-02-07 17:42:14,PAC-4287,Maria Martine,11,Dona,CAP_Palamos,HP,Rutina,Gine,Dolor pèlvic
+2025-02-07 17:53:05,PAC-7920,Josep Martine,83,Home,CAP_Blanes,HB,Rutina,Pediatria,Bronquiolitis
+2025-02-07 17:54:04,PAC-1587,Josep Martine,28,Home,CAP_Salt,HSC,Urgent,Gine,Metrorràgia
+2025-02-07 17:54:47,PAC-3377,Marc Martine,33,Dona,CAP_Palamos,HP,Rutina,Pediatria,Bronquiolitis
+2025-02-07 18:20:34,PAC-7747,Nuria Hernandez,83,Home,CAP_Palamos,HP,Rutina,Pediatria,Gastroenteritis
+2025-02-07 18:36:19,PAC-8374,Joan Garcia,53,Dona,CAP_Palamos,HP,Rutina,General,Dolor abdominal inespecífic
+2025-02-07 18:47:04,PAC-1095,Pere Martine,84,Home,CAP_Besalu,HO,Rutina,Gine,Dolor pèlvic
+2025-02-07 19:00:37,PAC-5810,Anna Gomez,85,Home,HP,HJT,Rutina,Pediatria,Gastroenteritis
+2025-02-07 19:12:34,PAC-8250,Maria Hernandez,57,Home,CAP_Girona_Guell,HJT,Rutina,Pediatria,Otitis
+2025-02-07 19:18:21,PAC-7966,Nuria Perez,40,Home,CAP_Besalu,HO,Rutina,Cardio,Insuficiència cardíaca
+2025-02-07 19:19:02,PAC-4688,Albert Gomez,3,Dona,HJT,HCAR,Rutina,Gine,Metrorràgia
+2025-02-07 19:26:08,PAC-8445,Cristina Martine,18,Dona,CAP_Blanes,HB,Rutina,Trauma,Fractura de radi
+2025-02-07 19:27:10,PAC-8793,Marta Gomez,36,Dona,CAP_Girona_Guell,HJT,Urgent,Gine,Dolor pèlvic
+2025-02-07 19:29:52,PAC-1603,Laura Gomez,48,Home,CAP_Girona_Guell,HJT,Rutina,Gine,Metrorràgia
+2025-02-07 19:41:14,PAC-2675,Marta Martine,10,Home,CAP_Olot,HO,Urgent,Trauma,Fractura de fèmur
+2025-02-07 19:41:55,PAC-1699,Jordi Ruiz,12,Dona,CAP_Girona_CanGibert,HSC,Rutina,General,Febre sense focus
+2025-02-07 19:45:20,PAC-6270,Maria Martine,95,Home,CAP_Banyoles,HJT,Rutina,Pediatria,Bronquiolitis
+2025-02-07 19:55:47,PAC-2332,Marc Gomez,45,Dona,CAP_Blanes,HB,Rutina,General,Febre sense focus
+2025-02-07 20:01:03,PAC-1015,Jordi Ruiz,12,Home,HP,HJT,Urgent,Digestiu,Còlic biliar
+2025-02-07 20:12:09,PAC-5389,Nuria Fernandez,94,Home,CAP_Bisbal,HP,Rutina,General,Malestar general
+2025-02-07 20:13:54,PAC-7102,Maria Sanchez,3,Dona,HF,HJT,Rutina,Pediatria,Gastroenteritis
+2025-02-07 20:39:14,PAC-2086,Marc Gomez,40,Dona,CAP_Besalu,HO,Rutina,Cardio,Insuficiència cardíaca
+2025-02-07 20:41:57,PAC-4042,Anna Fernandez,21,Dona,HO,HJT,Urgent,Gine,Control gestació
+2025-02-07 20:57:43,PAC-9513,Anna Sanchez,36,Dona,CAP_Palafrugell,HP,Rutina,General,Malestar general
+2025-02-07 21:06:55,PAC-9858,Albert Martine,17,Home,HJT,HCAR,Rutina,General,Febre sense focus
+2025-02-07 22:15:13,PAC-7533,Anna Martine,7,Home,CAP_Roses,HF,Urgent,Cardio,Angina
